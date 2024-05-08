@@ -21,4 +21,9 @@ This innovative component extends the repository's capabilities to include image
 - **Image to Tariff.ipynb**: A notebook that demonstrates the conversion of images to tariff codes by first extracting text descriptions from images and then using NLP models to predict HS codes.
 - **Image to Tariff.py**: Provides a script version of the notebook for operational use, allowing images to be directly converted into HS codes through automated scripts.
 
-
+## Getting Started
+To get started with the NLP-Tariff repository, clone the repo and install the required dependencies:
+```bash
+git clone https://github.com/your-github-username/nlp-tariff.git
+cd nlp-tariff
+pip install -r requirements.txt
