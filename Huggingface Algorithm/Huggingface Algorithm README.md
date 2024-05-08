@@ -24,6 +24,3 @@ This directory contains files related to the Huggingface algorithms used in the 
 - **Description**: A CSV file containing the output of the Huggingface model for the year 1990. It lists the processed data along with predictions and relevant metrics.
 - **Usage**: Can be used to directly view the model's output without running the notebook. Useful for integration with other data processing stages or for direct analysis.
 
-## Additional Information
-
-For any further assistance or to report issues with the algorithms, please open an issue in this repository or contact the repository maintainers.
