@@ -1,7 +1,7 @@
 # NLP-Tariff: Advanced NLP for HS Code Prediction
 
 ## Overview
-The NLP-Tariff repository is dedicated to the research and development of tools for mapping historical and contemporary U.S. tariff data to Harmonized System (HS) codes using advanced Natural Language Processing (NLP) techniques. This repository not only hosts algorithms for description matching and ad valorem calculations but also explores innovative methods to integrate image processing for tariff classification.
+The NLP-Tariff repository is dedicated to the research and development of tools for mapping historical and contemporary U.S. tariff data to Harmonized System (HS) codes using advanced Natural Language Processing (NLP) techniques. This repository not only hosts algorithms for description matching and HS code matching but also explores innovative methods to integrate image processing for tariff classification.
 
 ## Repository Structure
 This repository is structured to facilitate easy access and understanding of the various components developed during the research:
