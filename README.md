@@ -6,6 +6,9 @@ The NLP-Tariff repository is dedicated to the research and development of tools 
 ## Repository Structure
 This repository is structured to facilitate easy access and understanding of the various components developed during the research:
 
+### Tariff Predictions
+All tariff predictions within this repository are based on the **2023 Tariff Database**. This ensures that all HS code mappings and related calculations are up-to-date with the most current global trade compliance regulations and standards.
+
 ### Algorithms
 - **Huggingface Algorithm**: Utilizes Huggingface's transformers for generating embeddings that enhance the accuracy of HS code predictions from product descriptions.
 - **GPT Algorithm**: Implements OpenAI's GPT models to refine and generate descriptive text that aids in aligning product descriptions with their respective HS codes more accurately.
