@@ -1,0 +1,28 @@
+1990 Product Code,1789 Description,GPT-4 Predicted HS Code,F1 Score HS4,F1 Score HS6,F1 Score HS8
+1051900,"Live ducks, geese, turkeys and guineas, weighing not over 185 g each",1051100,1.0,0.0,0.0
+1039100,"Live swine, other than purebred breeding swine, weighing less than 50 kg each",10392,1.0,0.0,0.0
+9070000,"Cloves (whole fruit, cloves and stems)",9070010,1.0,0.0,0.0
+9081000,Nutmeg,0908.11.00,0.0,0.0,0.0
+10064000,Broken rice,10064000,1.0,1.0,1.0
+19019020,"Malt extract, solid or condensed",19019010,1.0,1.0,0.0
+19053000,Sweet biscuits (pastry); waffles and wafers,1905.31.00,1.0,0.0,0.0
+20056000,"Asparagus, prepared or preserved otherwise than by vinegar or acetic acid, not frozen",20056000,1.0,1.0,1.0
+29299050,"Nop;naromatic compounds with other nitrogen functions, except isocyanates",29213000,0.0,0.0,0.0
+30021000,Antisera and other blood fractions,300210,1.0,1.0,0.0
+39075000,Alkyd resins in primary forms,39073000,1.0,0.0,0.0
+40121010,"Retreaded pneumatic tires of rubber, for aircraft",40121000,1.0,1.0,0.0
+49119110,"Pictures, designs and photographs, printed over 20 years at time of importation",97020000,0.0,0.0,0.0
+49100040,"Calendars printed on paper or paperboard in whole or in part by a lithographic process, over 0.51 mm in thickness",49100000,1.0,1.0,0.0
+49111000,"Printed trade advertising material, commercial catalogs and the like",49111000,1.0,1.0,1.0
+49119140,"Pictures, designs and photographs, excluding lithographs on paper or paperboard, printed not over 20 years at time of importation",4911.91.00,1.0,0.0,0.0
+50031000,"Silk waste (including cocoons unsuitable for reeling, yarn waste and garnetted stock) not carded or combed",5003.00.00,1.0,0.0,0.0
+59114000,"Straining cloth of a kind used in oil presses or the like, of textile material or of human hair",5911.9,1.0,0.0,0.0
+59069910,"Rubberized textile fabrics not knitted or crocheted, of cotton, other than those of heading 5902",590310,0.0,0.0,0.0
+60022090,"Knitted or crocheted fabrics nesi, width n/o 30 cm, not cont. 5% or more elastomeric yarn or rubber thread, not of cotton or man-made fibers",60059000,0.0,0.0,0.0
+69120010,"Tableware and kitchenware of earthenware or stoneware, having a reddish-colored body and a lustrous glaze of different coloring",691200,1.0,1.0,0.0
+70133230,"Glassware for table/kitchen use (except drinking glasses), of low coefficient of heat expansion , over $3, n/o $5 each",7013.49.00,1.0,0.0,0.0
+79060000,"Zinc tubes, pipes and tube or pipe fittings (for example, couplings, elbows, sleeves)",7307.19.00,0.0,0.0,0.0
+80040000,"Tin plates, sheets and strip, of a thickness exceeding 0.20 mm",8007.00.00,0.0,0.0,0.0
+89060090,"Vessels nesi, including warships and lifeboats other than row boats",890690,1.0,0.0,0.0
+90138060,"Liquid crystal devices nesi, and optical appliances and instruments, nesi",9003.19.00,0.0,0.0,0.0
+97040000,"Used postage or revenue stamps, stamp-postmarks, first-day covers, postal stationery and the like, or certain unused issue of same",9704.00.00,1.0,0.0,0.0
