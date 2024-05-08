@@ -1,0 +1,549 @@
+1963 Item,Higher Confidence Source,Final Confidence Level,Final Predicted HS Code
+Acids: Citric,HF,0.9189921617507936,29181400
+Acids: Tartaric,HF,0.9065122604370116,29181200
+"Aconite, aloes, asafetida, buchu leaves, cocculus indicus, digitalis (Lanata) , ipecac, jalap, manna, and marshmallow or althea: Advanced",HF,0.6958584189414978,6031901
+"Adjusted and self-winding (or if a self-winding device can be incorporated therein), or constructed or designed to operate for a period in excess of 47 hours without rewinding (item 710. --)",HF,0.5458868741989136,91059920
+"Albumen, not specially provided for: Blood, dried",HF,0.6519704461097717,35021900
+"Alcohols, monohydric, unsubstituted: Ethyl for nonbeverage purposes",HF,0.7174872159957886,29052990
+"Alcohols, monohydric, unsubstituted: Fusel oil",HF,0.6381565928459167,29052990
+"Alcohols, polyhydric (including glycols, polyglycols, diols, and polyols), and esters, ethers, and ether-esters and substituted derivatives of any of the foregoing: Glycerine: Refined",HF,0.6905330419540405,29389000
+Aldehydes: Acetaldehyde,HF,0.7286468744277954,29121200
+Aldehydes: Formaldehyde (including solutions),HF,0.6617786884307861,28311010
+Aldehydes: Furfural,HF,0.7184367179870605,29321200
+Aldehydes: Glyoxal,HF,0.7304821014404297,29121930
+Aluminum compounds: Potassium sulfate (Potash alum),HF,0.7880209684371948,28332200
+Ammonium compounds (con.): Sulfate,HF,0.8725481033325195,31022100
+Ammonium compounds: Nitrate,HF,0.755178689956665,31023000
+"Anchors, grapnels, and parts thereof, all the foregoing of iron or steel",HF,0.946407437324524,73160000
+"Animal feeds and ingredients therefor, not specifically provided for: Meat including meat offal, not fit for human consumption: Raw whether or not chilled or frozen: Horsemeat (except meat packed in immediate containers weighing with their contents less than 10 pounds)",HF,0.7217808961868286,2089091
+"Animal substances, crude, not specially provided for",HF,0.6339855194091797,25309080
+"Animals and poultry brought into the United States for the purpose of breeding, exhibition, or competition for prizes, and the usual equipment therefor",HF,0.9853628277778624,98130060
+"Annato, archil, cochineal, cudbear, and litmus",HF,0.7003328800201416,32030010
+Antifriction balls and rollers,HF,0.6445885896682739,84829100
+"Any article, not provided for elsewhere in these schedules: Which is similar in the use to which it may be applied to any article or articles enumerated in any of the foregoing provisions of these schedules as chargeable with duty: Most resembling as to use a particular enumerated article chargeable with duty",HF,0.4270958304405212,98090030
+"Any of the products provided for in this subpart when 
+imported in ampoules, capsules, jubes, lozenges,
+pills, tablets, troches, or similar forms, including
+ powders put up in medicinal doses",HF,0.5970945954322815,30049010
+"Apricots, fresh, or prepared or preserved: Dried",HF,0.8763205409049988,8131000
+"Aromatic and odoriferous substances containing over
+ 10 percent alcohol by weight",HF,0.8206155896186829,33029020
+"Aromatic or odoriferous compounds including flavors, not marketable as cosmetics, perfumery, or toilet preparations, and not mixed, and not containing alcohol: From whatever source obtained, derived, or manufactured: Vanillin",GPT,0.7060261368751526,29124100
+"Aromatic or odoriferous compounds including flavors, not marketable as cosmetics, perfumery, or toilet preparations, and not mixed, and not containing alcohol: Obtained, derived, or manufactured in whole or in part from any product provided for in subpart A or B of this part: Saccharin",GPT,0.6852872371673584,29251100
+"Articles chiefly used for preparing, serving, etc. (con.): Of bone chinaware",GPT,0.6513189077377319,69131050
+"Articles chiefly used for preparing, serving, etc. (con.): Of nonbone chinaware or of subporcelain: Household ware available in specified sets: In any pattern for which the aggregate value of the articles listed in headnote 2(b) of this subpart is over $10 but not over $24",GPT,0.6540429592132568,69120039
+"Articles chiefly used for preparing, serving, etc. (con.): Of nonbone chinaware or of subporcelain: Household ware available in specified sets: Not covered by item 533.63, 533.65, or 533.67, and in any pattern for which the aggregate value of the articles listed in headnote 2(c) of this sub-part is over $8",GPT,0.6452494859695435,46029000
+"Articles chiefly used for preparing, serving, or storing food or beverages, or food or beverage ingredients: Of coarse-grained earthenware, or of coarse- grained stoneware",GPT,0.6130599975585938,70134910
+"Articles chiefly used for preparing, serving, or storing food or beverages, or food or beverage ingredients: Of fine-grained earthenware (except articles provided for items 533.14 and 533.16) or of fine-grained stoneware: Available in specified sets: In any pattern for which the aggregate value of the articles listed in headnote 2(b) of this subpart is not over $3.30",HF,0.6104162335395813,70200060
+"Articles chiefly used for preparing, serving, or storing food or beverages, or food or beverage ingredients: Of fine-grained earthenware (except articles provided for items 533.14 and 533.16) or of fine-grained stoneware: Available in specified sets: In any pattern for which the aggregate value of the articles listed in headnote 2(b) of this subpart is over $3.30 but not over $7",GPT,0.6161498427391052,46029000
+"Articles chiefly used for preparing, serving, or storing food or beverages, or food or beverage ingredients: Of fine-grained earthenware (except articles provided for items 533.14 and 533.16) or of fine-grained stoneware: Not available in specified sets: Steins, mugs, candy boxes, decanters, punch bowls, pretzel dishes, tidbit dishes, tiered servers, and bonbon dishes",GPT,0.6132106184959412,69120041
+"Articles chiefly used in the household or elsewhere for preparing, serving, or storing food or beverages, or food or beverage ingredients; smokers' articles, household articles, and art and ornamental articles, all the foregoing not specially provided for: Glassware made of glass containing by weight over 24 percent lead laonoxide: Valued not over $1 each",GPT,0.7366747856140137,70134150
+"Articles for the blind: Books, music, and pamphlets, in raised print, used exclusively by or for them",HF,0.9559587240219116,98170092
+"Articles for the use of any agency of the United States Government: Books, charts, engravings, etchings, maps, photographic prints, whether bound or unbound, and exposed photographic films (including motion-picture films) whether or not developed",HF,0.7559814453125,98080010
+Articles imported by or for the account of any person arriving in the United States who is a returning resident thereof: All personal and household effects taken abroad by him or for his account,HF,0.8502729535102844,98040045
+"Articles imported by or for the account of any person arriving in the United States who is not a returning resident thereof: Not over 50 cigars, or 300 cigarettes, or 3 pounds of smoking tobacco, or a proportionate amount of each, and not over 1 quart of alcoholic beverages, when brought in by an adult nonresident for his own consumption",HF,0.8298681974411011,98040025
+"Articles imported for exhibition by any institution or society established for the encouragement of agriculture, arts, education, or science, or for such exhibition by any State or for a municipal corporation",HF,0.8649967312812805,98120020
+"Articles imported for the use of an Institution established solely for religious purposes: Painted, colored, or stained glass windows and parts thereof, all the foregoing valued over $15 per square foot and designed by, and produced by or under the direction of, a professional artist",GPT,0.8077555298805237,98100010
+"Articles intended solely for testing, experimental, or review purposes, including plans, specifications, drawings, blueprints, photographs, and similar articles for use in connection with experiments or for study",HF,0.8572857975959778,98130030
+"Articles not specially provided for of a type used for household, table, or kitchen use; toilet and sanitary wares; all the foregoing and parts thereof, of metal: Articles, wares, and parts, of base coated or plated with precious metal: Of copper: Of brass",GPT,0.6971549987792969,74182010
+"Articles not specially provided for of a type used for household, table, or kitchen use; toilet and sanitary wares; all the foregoing and parts thereof, of metal: Articles, wares, and parts, of base coated or plated with precious metal: Of iron or steel: Not enameled: Cast articles, coated",GPT,0.7185075283050537,76151091
+"Articles not specially provided for, of glass: Tubes and tubing with the ends processed: Containing over 95 percent silica by weight",HF,0.6865618228912354,70200060
+"Articles not specially provided for, of rubber or plastics: Of natural rubber",HF,0.807945966720581,40169960
+"Articles not specially provided for, of textile materials: Of wool: Knit (except pile or tufted construction): Valued not over $5 per pound",HF,0.7551816701889038,51119030
+"Articles not specially provided for, of unspun fibrous vegetable materials: Of one or more of the materials bamboo, rattan, willow, or chip",HF,0.6861014366149902,47063000
+"Articles not specially provided for: Of bone, horn, hoof, whalebone, quill, or of any combination thereof",HF,0.8459327220916748,96019060
+Articles not specially provided for: Of gut: Goldbeaters' molds and goldbeaters' skins,HF,0.6631296873092651,42060090
+"Articles to be repaired, altered, or processed (including processes which result in articles manufactured or produced in the United States)",HF,0.9983200430870056,98130005
+"Articles, including terrazo, of concrete with or without reinforcement: Tiles: Floor and wall tiles",HF,0.7283948063850403,68101950
+"Artificial respiration, ozone therapy, oxygen therapy, aerosol therapy or similar apparatus; breathing appliances, including gas masks and similar respirators; parts of the foregoing",HF,0.8861428499221802,90192000
+"Avocados (alligator pears), fresh, or prepared or preserved",GPT,0.7326802015304565,8044000
+"Baby carriages, baby strollers, and parts thereof: Of metal",HF,0.8530478477478027,87150000
+"Bags, baskets, boxes, and cases, all the foregoing, not specially provided for, of leather",HF,0.8084083199501038,42029190
+"Balances of a sensitivity of 5 centigrams or better, with or without their weights, and parts thereof; weights suitable for use with such balances and sets of weights containing any such weights: Jewelers' balances and parts thereof",HF,0.7630722522735596,90160040
+"Barbasco or cube root, and derris, tube or tuba root: Crude",HF,0.5168482065200806,6011090
+Barium compounds: Nitrate,GPT,0.7137134075164795,28273945
+Barium sulfate: Natural (Barytes): Ground,HF,0.972996473312378,25111010
+Bars of wrought iron: Alloy wrought iron,GPT,0.6545275449752808,73043130
+"Bars, plates, sheets, and strip, all the foregoing which are wrought, of aluminum, whether or not cut, pressed, or stamped to nonrectangular shapes: Not clad",HF,0.7076588869094849,76069130
+"Bars, rods, angles, shapes, and sections, all the foregoing which are wrought, of tin",HF,0.694259524345398,80030000
+"Base metal, in leaf: Aluminum, in leaf: Powder or flakes, in leaf: Leaves not over 30.25 square inches in area",HF,0.5985647439956665,76032000
+Basic slag,GPT,0.6851968765258789,26180000
+Basil: Crude or not manufactured,HF,0.5716622471809387,9109920
+Bay rum or bay water,GPT,0.5099284052848816,13021921
+"Bean cake, bean stick, miso, and similar products",HF,0.7729791402816772,20089991
+"Beet pulp, dried",GPT,0.7035627365112305,23032000
+"Belting and belts, for machinery: Of vegetable fibers, or of such fibers and rubber in place of rubber or plastics: In part of rubber or plastics",HF,0.9097396731376648,39269056
+"Bibles, comprising the books of the Old or New Testament, or both",GPT,0.5171258449554443,98100025
+Bicycles: Having both wheels over 19 inches but not over 25 inches in diameter: Valued not over $10 each,GPT,0.7266599535942078,87120035
+"Biscuits, cake, cakes, wafers, and similar baked products, and puddings, all the foregoing by whatever name known, and whether or not containing chocolate, fruit, nuts or confectionery",HF,0.8475925922393799,19059010
+Blasting caps: Containing over 1 gram of explosive each,HF,0.6261441111564636,36034000
+Blue-mold cheeses: In original loaves,HF,0.7619580030441284,4064052
+"Book bindings, wholly or in part of leather",HF,0.6491173505783081,42050040
+"Bookbinding machinery, including book-sewing machines, and parts thereof",HF,0.9635546803474426,84409000
+"Bouquets, boutonnieres, corsages, wreaths, and similar ornamental articles, all the foregoing made of articles described in item 748.30 or item 748.32",GPT,0.5382936596870422,6039000
+Built-up mica,HF,0.6238623857498169,25253000
+"Bulbs, roots, rootstocks, clumps, corms, tubers, and barbaceous perennials: Hyacinth bulbs",GPT,0.8293815851211548,6012010
+"Burrstones In blocks, rough",GPT,0.6783413887023926,68041000
+"Buttons: Of acrylic resin, of polyester resin, or of both such resins",HF,0.9292185306549072,96062920
+Buttons: Of pearl or shell: If product of the Philippines: If Philippine articles with tariff-rate quota (see headnote 3 of this sub-part),GPT,0.6105454564094543,96062940
+Calcium carbonate: Natural: Chalk whiting,HF,0.7554044127464294,28365000
+Calcium compounds: Chloride: Crude,HF,0.8422948718070984,28272000
+Calcium compounds: Hypochlorite,HF,0.9236633777618408,28281000
+"Calcium compounds: Lime, chlorinated, containing not more than 40% of available chlorine (bleaching powder)",HF,0.737913966178894,28281000
+Calcium cyanamide or lime nitrogen,HF,0.711843729019165,28342910
+"Calendering and similar rolling machines (except metal-working and metal-rolling machines and glass-working machines), parts thereof: Textile calendering and rolling machines, and parts thereof",HF,0.8487854599952698,84201010
+"Canoes, racing shells, pneumatic craft, and pleasure boats not specially provided for which are not of a type designed to be chiefly used with motors or sails; and parts of the foregoing: Pneumatic craft",HF,0.687935471534729,39269030
+"Carving and butcher steels, with or without their handles: With wood handles",HF,0.8956078290939331,82055115
+"Cased pencils, and pencils not specially provided for",HF,0.6686263084411621,96091000
+Castor beans.,HF,0.6086093187332153,12073000
+Cement of gypsum: Valued over $40 per ton,HF,0.4858341813087463,68101912
+Ceramic tiles: Floor and wall tiles: Mosaic tiles,HF,0.7352117300033569,69139020
+"Chicory roots (provided for in part 11A, schedule 1): Crude (item 160.30)",HF,0.7482025027275085,12129400
+Chlorinated natural rubber,HF,0.9385932087898254,39119070
+"Cigarette paper, cut to size or shape, cigarette books, and cigarette bookcovers",HF,0.8274350166320801,48131000
+Cinnamon and cinnamon chips: Not ground,HF,0.6792818307876587,9061900
+"Citrus fruits, fresh or prepared, etc. (con.): Limes: Fresh or in brine",GPT,0.7506011724472046,8055040
+Citrus juices unfit for beverage purposes,HF,0.6986889839172363,8129020
+"Cloth, gauze, fabric, screen, etc. (con.): Cut to shape: Of copper",HF,0.6414900422096252,74151000
+Cloth-lined or reinforced paper,HF,0.8284595012664795,48070092
+Clothespins: Spring type: If products of Cuba,GPT,0.7293447852134705,39269070
+Cloves and clove stems: Not ground,HF,0.7716453671455383,9071000
+Cobalt compounds: Sulfate,HF,0.8959020376205444,28332910
+Cocoa beans,HF,0.7512769103050232,18010000
+"Columbium, unwrought and wrought; columbium waste and scrap: Unwrought, alloys",GPT,0.7484076023101807,81129240
+"Compound optical microscopes; electron, proton,and similar microscopes and diffraction apparatus; all the foregoing whether ornotprovided with means for photographing or projecting the image; frames and mountings for the foregoing articles, and parts of such frames and mountings: Compound optical microscopes: Not provided with means for photographing or projecting the image: Valued not over $25 each",HF,0.7555972337722778,90118000
+"Compound optical microscopes; electron, proton,and similar microscopes and diffraction apparatus; all the foregoing whether ornotprovided with means for photographing or projecting the image; frames and mountings for the foregoing articles, and parts of such frames and mountings: Compound optical microscopes: Not provided with means for photographing or projecting the image: Valued over $25 but not over $50 each",HF,0.7604759931564331,90118000
+Copper compounds: Oxide (cupric),HF,0.7321295738220215,28274100
+Copper powders and flakes: Flakes,HF,0.8491499423980713,74062000
+Copper waste and scrap: Nickel silver,HF,0.8366457223892212,75030000
+"Copra (provided for in part 14A, schedule 1): Entered when no special proclamation issued pursuant to headnote 1 of part 14 of schedule 1 is in effect (item 175.10)",GPT,0.6854431629180908,15131100
+"Copra:  Entered on or before July 3, 1974, when no such special proclamation is in effect: If produced elsewhere than in the Philippines or the Trust Territory wholly of materials the growth or production thereof",GPT,0.6644359230995178,15131100
+Cordage: Of silk,HF,0.6598533987998962,50020000
+Cordage: Of vegetable fibers: Of cotton: Not of stranded construction,HF,0.7521343231201172,56090020
+Cordage: Of vegetable fibers: Of hard (leaf) fibers: Not of stranded construction: Binder twine and baler twine,HF,0.7397563457489014,56072900
+Cordage: Of vegetable fibers: Of hard (leaf) fibers: Of coir:  Of stranded construction,HF,0.7161333560943604,56090020
+"Cordial, liqueurs, kirschwasser, and ratafia",HF,0.7197157144546509,22089046
+"Cork, granulated or ground, Weighing not over 6 pounds per cubic foot uncompressed, except regranulated cork",HF,0.7260351181030273,45019040
+"Corset lacings, footwear lacings, or similar lacings, of textile materials: Braided, with or without cores",HF,0.917141318321228,63079050
+"Cotters, cotter pins, and fasteners or holders (except nuts) used with screws, bolts, or studs, all the foregoing of base metal",HF,0.7055083513259888,74152900
+"Cotton, not carded, not combed, and not similarlyprocessed: 1/ : Having a staple length 1-1/8 or more but under 1-11/16 inches",HF,0.8962345123291016,52010014
+"Croquet equipment, and parts thereof",GPT,0.6748074889183044,95065980
+"Crown corks and bottle caps, of base metal",HF,0.8564739227294922,83091000
+"Crude petroleum (including reconstituted crude petroleum); topped crude petroleum; crude shale oil; and distillate and residual fuel oils (including blended fuel oils) derived from petroleum, sliale, or both, with or without additives: Testing under 25 degrees A.P.I.",GPT,0.761917233467102,27101911
+Cryolite or kryolith,HF,0.720098614692688,25309010
+Cummin,HF,0.7026499509811401,29027000
+"Curling stones, and parts thereof",HF,0.5472477674484253,71162030
+"Cut natural flowers, dried, bleached, colored, or chemically treated",HF,0.8043090105056763,6039000
+Cuttlefish bone.............,GPT,0.5887029767036438,16055405
+"Cyclic organic chemical products in any physical form having a benzenoid, quinoid, or modified benzenoid structure, not provided for in subpart A or C of this part: All distillates of coal tar, blast-furnace tar, oil-gas tar, and water-gas tar, which on being subjected to distillation yield in the portion distilling below 190°C. a quantity of tar acids equal to or more than 5% by weight of the original distillate or which on being subjected to distillation yield in the portion distilling below 215°C. a quantity of tar acids equal to or more than 75% by weight of the original distillate: Cresylic acid which on being subjected to distillation yields in the portion distilling below 215°C. a quantity of tar acids equal to or more than 75% by weight of the original distillate",GPT,0.6324820518493652,27079990
+"Cyclic organic chemical products in any physical form having a benzenoid, quinoid, or modified benzenoid structure, not provided for in subpart A or C of this part: All distillates of coal tar, blast-furnace tar, oil-gas tar, and water-gas tar, which on being subjected to distillation yield in the portion distilling below 190°C. a quantity of tar acids equal to or more than 5% by weight of the original distillate or which on being subjected to distillation yield in the portion distilling below 215°C. a quantity of tar acids equal to or more than 75% by weight of the original distillate: Metacresol, orthocresol, paracresol, and metaparacresol, all the foregoing having a purity of 75% or more by weight",GPT,0.7083712816238403,27079955
+"Cylinder wires, suitable for use in paper-making machines (whether or not parts of, or fitted or attached to, such machines), and woven-wire cloth suitable for use in the manufacture of Fourdrinier wires or cylinder wires suitable for use in paper-making machines: Having more than 55 meshes per lineal inch in warp or filling",HF,0.8024600744247437,73141460
+Decalcomanias (except toy decalcomanias): In ceramic colors: Weight not over 100 pounds per 1000 sheets (on the basis of 20 by 30 inches in dimensions),HF,0.5435782670974731,48044140
+Dextrose,HF,0.5891721248626709,35051000
+"Dibasic-acid esters, ethers, amides and amines, all
+ the foregoing sulfonated or sulfated",HF,0.6265813112258911,29359032
+"Disks, wafers, washers, and stoppers, all the foregoing, of cork: Tapered and of a thickness (or length) greater than the maximum diameter: Not hollow and not perforated:  With maximum diameter over 0.75 inch",HF,0.7636387348175049,45031020
+"Drainage tools, scoops, shovels, spades, picks, mattocks, hoes, rakes, and forks; axes, adzes, hatchets, machetes, and similar hewing tools; scythes, sickles, grass hooks, corn knives, hay knives, hedge and grass shears, pruning shears and sheep shears; all the foregoing which are hand tools, and metal parts thereof: Forks, and parts thereof: Agricultural or horticultural forks, and parts thereof (except hay and manure forks)",HF,0.8028547763824463,82019040
+"Electric filament lamps and electric discharge lamps, including ultra-violet and infra-red lamps and photo-flash lamps; electric luminescent lamps; and arc lamps: Electric luminescent lamps",GPT,0.6766360998153687,85393990
+"Electric filament lamps and electric discharge lamps, including ultra-violet and infra-red lamps and photo-flash lamps; electric luminescent lamps; and arc lamps: Filament lamps: Christmas-tree lamps",GPT,0.6938573122024536,94053100
+"Electric filament lamps and electric discharge lamps, including ultra-violet and infra-red lamps and photo-flash lamps; electric luminescent lamps; and arc lamps: Filament lamps: Photo-flash lamps",GPT,0.6489694118499756,85437071
+"Electrical articles, and electrical parts of articles, not specially provided for",HF,0.6027253866195679,84879000
+"Electrical capacitors, fixed or variable",HF,0.8265628814697266,85329000
+"Electro-plating anodes, wrought or cast, of nickel",HF,0.5806753635406494,74020000
+Electronic musical instruments,HF,0.7340055108070374,92059014
+"Enzymes and ferments: Brewers' yeast, dried, ficin, and papain, all the foregoing, if crude",HF,0.7328653335571289,21022040
+Epoxides and halogenated epoxides: Propylene oxide,HF,0.6305763125419617,29109010
+Ergot,GPT,0.5808876752853394,29396900
+Esters of monohydric alcohols: Amyl acetate,HF,0.7142010927200317,29153947
+Ethers of monohydric alcohols: Vinyl,HF,0.7049684524536133,29091918
+"Expanded, foamed, or sponge rubber or plastics, and articles not specially provided for wholly or almost wholly of such rubber or plastics: Flexible: Of cellulose",GPT,0.6738578081130981,40081980
+Explosive substances not specially provided for,HF,0.7234716415405273,36020000
+"Fatty substances derived from coconut, palm-kernel, or palm oil (provided for in part 8A, schedule 4): Not sulfonated or sulfated: Fatty-acid esters, ethers, and ether-esters of polyhydric alcohols (item 465.05)",GPT,0.6861861944198608,38231920
+"Fatty substances derived from coconut, palm-kernel, or palm oil (provided for in part 8A, schedule 4): Sulfonated or sulfated: Fatty-acid esters, ethers, amides, and
+ amines (item 465.55)",GPT,0.7267926335334778,38231920
+"Fatty substances, not sulfonated or sulfated, and not specially provided for: Fatty acids: Of animal (including marine animal) origin: Oleic acid",GPT,0.7045407295227051,28070000
+Ferroalloys: Ferrochromium: Not containing over 3 percent by weight of carbon,HF,0.916737139225006,72024950
+Ferronickel,HF,1.0,72026000
+"Fibers of wool or hair processed in any manner beyond the washed, scoured, or carbonized condition (including tops), but not spun: Tops",GPT,0.7472786903381348,61143010
+"Figs, fresh or prepared or preserved: Dried",HF,0.8751709461212158,8042080
+"Figs, fresh or prepared or preserved: Fresh or in brine",HF,0.7860736846923828,8042080
+"Firewood, hogged-wood fuel and wood waste made into fuel by compression, whether or not containing an added binder: Fuel containing an added binder",HF,0.6221188306808472,44013942
+"Fish, prepared or preserved in any manner, in oil, in airtight containers: Bonito and yellowtail",HF,0.8747305870056152,16041932
+"Fish, prepared or preserved in any manner, in oil, in airtight containers: Sardines: Valued over 23 but not over 30 cents per pound (including weight of immediate container): Skinned or boned",HF,0.7519651651382446,16041310
+"Fish, prepared or preserved in any manner, not in oil, in airtight containers: Anchovies: In containers weighing with their contents not over 15 pounds each",HF,0.8519988059997559,16041640
+"Fish, prepared or preserved in any manner, not in oil, in airtight containers: Bonito and yellowtail",HF,0.8800942897796631,16041932
+"Fish, prepared or preserved in any manner, not in oil, in airtight containers: Pollock: Product of Cuba (except smoked pollock)",HF,0.7626699209213257,16041932
+Fishing reels and parts thereof: Reels: Valued over $8.45 each,HF,0.939181923866272,95073060
+"Fishing rods, and parts thereof",HF,0.9550966024398804,95071000
+"Floor coverings of pile or tufted construction, of textile materials:In which the pile was inserted or knotted during weaving or knitting: With pile not hand-inserted and not handknotted: Of coir",HF,0.7668695449829102,57023920
+"Footwear, of leather (except footwear with uppers of fibers): Turn or turned footwear",HF,0.7939618825912476,64035915
+"Footwear, of leather (except footwear with uppers of fibers): Welt footwear: Valued over $2 but not over $6.80 per pair",HF,0.7837064266204834,64039990
+Forged steel grinding balls,HF,0.8429892063140869,73261100
+"Forks and spoons, of wood: Of mahogony ( Swietenia app. or Khaya app.)",GPT,0.6896911859512329,44192090
+"Forks, spoons, and ladles, all the foregoing which are kitchen or table ware, with or without their handles: Forks: With their handles: With silver handles",HF,0.6969329118728638,71141145
+"Forks, spoons, and ladles, all the foregoing which are kitchen or table ware, with or without their handles: Spoons and ladles: With stainless steel handles 1/",HF,0.7122125029563904,82159940
+"Forks, spoons, and ladles, all the foregoing which are kitchen or table ware, with or without their handles: Spoons and ladles: With sterling silver handles",HF,0.821984589099884,71141130
+"Fourdrinier wires, seamed or not seamed, suitable for use in paper-making machines (whether or not parts of, or fitted or attached to, such machines)",GPT,0.759087860584259,73141260
+"Fruit juices, including mixed fruit juices, concentrated, not concentrated, whether or not sweetened: Mixed or not mixed, containing over 1.0 percent of ethyl alcohol by volume",HF,0.7155735492706299,20099040
+"Fruit juices, including mixed fruit juices, concentrated, not concentrated, whether or not sweetened: Not mixed and not containing over 1.0 percent of ethyl alcohol by volume: Pineapple: Not concentrated, or having a degree of concentration of not more than 3.5 degrees (as determined before correction to the nearest 0.5 degree)",GPT,0.7347439527511597,20094140
+"Fruit pastes and fruit pulps: Cashew apple, mamey colorado ,papaya, sapodilla, soursop and sweetsop",HF,0.7462020516395569,20089923
+"Fruit pastes and fruit pulps: Cashew apple, mamey colorado ,papaya, sapodilla, soursop and sweetsop: If product of Cuba",HF,0.6759653091430664,20089923
+Fruit pastes and fruit pulps: Fig,GPT,0.7814949154853821,8042080
+Fruit pastes and fruit pulps: Guava: If product of Cuba,GPT,0.7185394763946533,20079950
+Fruit pastes and fruit pulps: Guavas,HF,0.8006736636161804,20079950
+"Gall nuts, crude or processed",HF,0.6467103362083435,8029290
+Garden and field seeds: Clover: Crimson,HF,0.6810799837112427,12092220
+Garden and field seeds: Clover: Red,GPT,0.7246275544166565,12092240
+Garden and field seeds: Fescue: Creeping Red,GPT,0.7653765678405762,12092300
+Garden and field seeds: Kohlrabi,GPT,0.5956588983535767,12093000
+Garden and field seeds: Timothy,HF,0.6764729619026184,10031000
+Garden and field seeds: Turnip and rutabags,GPT,0.5872774124145508,7133110
+"Garters, garter belts, and suspenders, of textile materials, or of such materials and rubber or plastics: Of vegetable fibers or of such fibers and rubber or plastics",GPT,0.6533944606781006,61046920
+"Generators, motors, motor-generators, converters (rotary or static), transformers, rectifiers and rectifying apparatus, and inductors; all the foregoing which are electrical goods, and parts thereof: Motors: Of over 1/10 but under 200 horsepower",HF,0.6266143918037415,85094000
+"Generators, motors, motor-generators, converters (rotary or static), transformers, rectifiers and rectifying apparatus, and inductors; all the foregoing which are electrical goods, and parts thereof: Parts of motors of under 1/40 horsepower",GPT,0.653895378112793,84689050
+"Glass (including blown or drawn glass, etc.) (con.): Ordinary glass (con.): Weighing over 28 oz. per sq. ft.: Not over 2-2/3 sq. ft. in area (item 542.42)",HF,0.5838454365730286,70052914
+Glass electric insulators with or without fittings: Without metal fittings,GPT,0.810335636138916,85461000
+"Glass, in the mass; glass, crushed, powdered, or flaked (frostings); and waste or scrap glass; all the foregoing except glass provided for in item 540.21 and 540.27: Waste or scrap glass",GPT,0.6589306592941284,70010051
+"Gloves and glove linings, etc. (con.): Gloves not of lace or net, etc. (con.): Of silk: Not knit",HF,0.7583707571029663,61169288
+"Gloves and glove linings, etc. (con.): Gloves not of lace or net, etc. (con.): Of wool: Gloves: Valued not over $1.75 per dozen pairs: Not knit",GPT,0.7123488187789917,61169208
+"Gloves and glove linings, etc. (con.): Gloves not of lace or net, etc. (con.): Of wool: Gloves: Valued over $4 per dozen pairs",GPT,0.6720360517501831,61169208
+"Gloves and glove linings, of textile materials: Gloves not of lace or net and not ornamented, and glove linings: Of vegetable fibers: Made from a pre-existing machine-knit or -woven fabric, or any combination of such fabrics: Not woven",HF,0.7571182250976562,61169288
+Gloves of horsehide or cowhide (except calfskin) leather,HF,0.8794984817504883,42032908
+"Gloves of leather except gloves in item 705.35: Seamed: Men's, lined: Not seamed wholly or in part by hand: Valued not over $26 per dozen pairs",GPT,0.718722939491272,42032930
+"Gloves of leather except gloves in item 705.35: Seamed: Women's or children's, not lined: Seamed wholly or in part by hand: Valued over $20 per dozen pairs: Over 12 inches in length",GPT,0.6581552624702454,42032930
+"Gloves of rubber or plastics: With textile fabric fourchettes or sidewalls; or with the outer surface thereof (except as to applied cuffs, if any) wholly of plastics, and the seams of which are heat sealed and not sewn or stitched",HF,0.8138262629508972,39262010
+"Glue, glue size, and inedible gelatin: Glue size: Valued under 40 cents per pound",HF,0.8940562009811401,35030020
+"Glue, glue size, and inedible gelatin: Vegetable glue: Valued under 40 cents per pound",HF,0.8901736736297607,35030020
+Goya and Sbrinz cheeses,HF,0.6197909116744995,4069036
+"Grains Buckwheat, hulled or not hulled",GPT,0.6776398420333862,11029020
+Grains Grain sorghum,HF,0.9070439338684082,10071000
+"Grains Oats, hulled or not hulled",HF,0.7784079909324646,11042200
+"Grapes, fresh, or prepared or preserved:  Dried: Raisins: Made from seedless grapes: Currants",HF,0.8636188507080078,8062010
+"Gums, gum resins, and resins, all the foregoing which are natural, whether crude or subjected to refining processes: Amber and Amberfold",HF,0.664417028427124,13019091
+"Hair felts, and articles thereof, not specially provided for",GPT,0.7350388765335083,56022100
+Hair of animals: Hair of the camel: In the grease or washed: Not sorted,GPT,0.7650269865989685,51021920
+Hair of animals: Hair of the camel: In the grease or washed: Sorted,GPT,0.7232561707496643,51021920
+"Hair, curled, whether or not coated with rubber or plastic, suitable for use in mattresses and paddings",HF,0.644730269908905,96151960
+Halohydrins: Propylene chlorohydrin,HF,0.5850604772567749,29049100
+"Hand-directed or -controlled tools with self-contained electric motor, and parts thereof",GPT,0.8060101270675659,84672900
+"Handmade paper: Not impregnated, not coated, not surface-colored, not embossed, not ruled, not lined, not printed, and not decorated",HF,0.7202890515327454,48021000
+"Headwear, of leather",HF,0.6898989081382751,64034030
+"Headwear, of vegetable fibers, of unspun fibrous vegetable materials, of real horsehair, of paper yarn, or of any combination thereof: Of cotton, flax, or both: Knit",HF,0.700840950012207,65050020
+"Headwear, of wool (con.): Felt, not knit or woven: Pulled, stamped, blocked, or trimmed: Valued over $12 per dozen",HF,0.7183432579040527,51011160
+Hempseed oil,HF,0.5528877377510071,53021000
+Hempseed.,GPT,0.6208280324935913,12079903
+"Hoofs and horns, crude.............",GPT,0.5844206809997559,96019060
+Hormones: Synthetic,HF,0.6707050800323486,29379090
+"Hydrometers and similar floating instruments; thermometers, pyrometers, barometers, hygrometers, and psychrometers, whether or not recording instruments; any combination of the foregoing instruments; and articles in which one or more of such instruments are incorporated as significant integral parts and which are ordinarily used in the home or office where they are usually hung on the wall, or placed on mantles, shelves, or furniture: Thermometers, pyrometers, barometers, hygrometers, and psychrometers, whether or not recording instruments: Non-recording instruments: Pyrometers: Optical pyrometers",HF,0.7883423566818237,90258020
+Ice cream,GPT,0.6913784742355347,21050040
+"Indium, unwrought and wrought; indium waste and scrap: Unwrought, and waste and scrap 1/",GPT,0.6956024169921875,81129230
+Inorganic acids: Hydrofluoric,HF,0.7244251370429993,28111100
+Internal combustion engines and parts thereof: Non-piston type engines,HF,0.7532949447631836,84091000
+"Internal combustion engines and parts thereof: Parts: Cast-iron (except malleable cast-iron) parts, not alloyed and not advanced beyond cleaning, and machined only for the removal of fins, gates, sprues, and risers or to permit location in finishing machinery",HF,0.7176257371902466,84099110
+"Intestines, weasands, bladders, tendons, and integuments, not specially provided for, including any of the foregoing prepared for use as sausage casings..",GPT,0.6499748229980469,39171060
+"Iron or steel pipes or tubes prepared and coated or lined in any manner suitable for use as conduits for electrical conductors, and iron or steel fittings therefor: Fittings",HF,0.7562422752380371,73071930
+"Iron or steel pipes or tubes prepared and coated or lined in any manner suitable for use as conduits for electrical conductors, and iron or steel fittings therefor: Pipes or tubes",HF,0.7372614741325378,73071990
+Iron or steel waste and scrap: Tin plate waste or scrap,HF,0.8456927537918091,80020000
+"Iron-oxide and iron-hydroxide pigment materials, natural, if crude or washed but not ground: Siennas: Crude",HF,0.6043485999107361,25309020
+"Iron-oxide and iron-hydroxide pigment materials, natural, if crude or washed but not ground: Umbers: Crude",HF,0.6681371927261353,25309020
+"Jet; and articles of alabaster, of jet, or of alabaster and jet: Jet, not manufactued",GPT,0.6239822506904602,27022000
+Ketones: Ethyl methyl ketone,HF,0.7790051698684692,29280010
+"Knives not specifically provided for elsewhere in this subpart, and cleavers, with or without their handles: Cleavers with their handles",HF,0.6669319272041321,82149060
+"Knives not specifically provided for elsewhere in this subpart, and cleavers, with or without their handles: Knives with their handles: With stainless steel handles: 1/ With handles containing nickel or con- taining over 10 percent by weight of manganese",HF,0.6577489376068115,82119125
+"Knives, forks, and spoons, all the foregoing valued under 25 cents each, not over 10.2 inches in over-all length, and with stainless steel handles (provided for  in items 650.09, 650.11, 650.39, 650.41, and 650.55 of part 3E of schedule 6, or if included in sets provided for in item 651.75 of such part): For an aggregate quantity not to exceed 69 million single units entered in any 12-month period beginning November 1 in any year from countries subject to the rate of duty column numbered 1: Knives and forks: With handles not containing nickel and not containing over 10 percent by weight of manganese (items 650.09 and 650.39)",HF,0.7380433082580566,82159935
+"Lace, in the piece or in motifs, whether or not ornamented: Made wholly by hand: Valued not over $50 per pound: Of vegetable fibers, except cotton",HF,0.7335978746414185,58043000
+"Lace, in the piece or in motifs, whether or not ornamented: Made wholly by hand: Valued over $50 per pound",HF,0.7245512008666992,58043000
+Lawn mowers and parts thereof,HF,0.8223340511322021,84339010
+Lawn-tennis equipment and parts thereof: Balls,HF,0.9127656817436218,95069930
+Lead compounds: Arsenate,HF,0.6434412002563477,28139010
+Lead compounds: Nitrate,HF,0.6451396942138672,28432100
+Lead powder and flakes: Valued not over 13-1/3 cents per pound,GPT,0.7256011962890625,78042000
+Lead waste and scrap 1/,HF,0.8753817677497864,78020000
+"Leather apparel belts, with or without buckles (except buckles classifiable in part 6A of this schedule)",HF,0.7853630781173706,42033000
+Licorice: Extract,HF,0.7525461316108704,13021200
+"Live birds: Pigeons, fancy or racing",GPT,0.6993765234947205,1063901
+"Luggage and handbags, whether or not fitted with bottle, dining, drinking, manicure, sewing, traveling, or similar sets; and flat goods: Of textile materials (except yarns, of paper), whether or not ornamented: Wholly or in part of braid",GPT,0.7486766576766968,42029239
+"Luggage and handbags, whether or not fitted with bottle, dining, drinking, manicure, sewing, traveling, or similar sets; and flat goods: Of unspun fibrous vegetable materials: Of willow",HF,0.7623254060745239,46021922
+"Lumber, rough, dressed, or worked (including softwood flooring classifiable as lumber, but not including siding, molding, and hardwood flooring): Softwood: Parana pine (Araucaria angustifolia)",HF,0.6843917369842529,44125960
+"Lumber, rough, dressed, or worked (including softwood flooring classifiable as lumber, but not including siding, molding, and hardwood flooring): Softwood: Pine (Pinus spp.): Eastern white pine (Pinus strobus) andred pine (Pinus resinosa)",HF,0.6809364557266235,44125970
+"Lumber, rough, dressed, or worked (including softwood flooring classifiable as lumber, but not including siding, molding, and hardwood flooring): Softwood: Spruce (Picea spp.)",HF,0.623464822769165,44091090
+"Machine tools: Metal-working machine tools: Boring, drilling, and milling machines, including vertical turret lathes",HF,0.7036460041999817,84589150
+Machine tools: Metal-working machine tools: Machine tools for cutting or hobbing gears,HF,0.7881866097450256,84669375
+Magnesium compounds: Oxide (calcined magnesia),HF,0.6773120760917664,25191000
+Malts and malt extracts: Malts: Rye Malt,GPT,0.6863357424736023,22030000
+Maple sugar,HF,0.7735337018966675,17022040
+"Marble, brecoia, and onyx, and articles of one or more of these substances: Slabs: Rubbed or polished in whole or in part",GPT,0.6345516443252563,68022150
+"Meats (except offal), fresh, chilled, or frozen, of all animals (except birds): Frogs",HF,0.7513881921768188,2085000
+"Melons, fresh, or prepared or preserved: Prepared or preserved",GPT,0.7102202773094177,8119055
+"Men's and boys' neckties, of textile materials: Not ornamented: Of silk: Knit",HF,0.718207061290741,62079975
+"Metal waste and scrap (provided for in part 2, schedule 6 ), except lead, zinc, and tungsten waste and scrap; unwrought metal (except copper, lead, zinc, and tungsten) in the form of pigs, ingots, or billets (a) which are defective or damaged, or have been produced from melted down metal waste and scrap for convenience in handling and transportation without sweetening, alloying, fluxing, or deliberate purifying, and (b) which cannot be commercially used without remanufacture; relaying or rerolling rails; and articles of metal (except articles of lead, of zinc, or of tungsten, and not including metal-bearing materials provided for in schedule 4 or in part 1 of schedule 6 and not including unwrought metal provided for in part 2 of schedule 6) to be used in remanufacture by melting: Articles of copper",GPT,0.7523034811019897,98170090
+Metal-bearing ores and the dross or residuum from burnt pyrites: Antimony ore,GPT,0.6837466955184937,26171000
+Metal-bearing ores and the dross or residuum from burnt pyrites: Beryllium ore,GPT,0.6539430618286133,26209100
+Metal-bearing ores and the dross or residuum from burnt pyrites: Chrome ore,HF,0.6193779706954956,25020000
+"Metal-bearing ores and the dross or residuum from burnt pyrites: Iron ore, including manganiferous iron ore containing not over 10 percent by weight of manganese, and the dross or residuum from burnt pyrites",HF,0.6497411727905273,25020000
+Metal-bearing ores and the dross or residuum from burnt pyrites: Mercury ore,GPT,0.6154012680053711,38249933
+"Mica, cut or stamped to dimensions, shape, or form, whether or not perforated or indented, and whether or not dedicated to a specific use: Over 0.006 inch in thickness: Perforated or indented",GPT,0.5167116522789001,68141000
+"Milled grain products: Fit for Human Consumption Rice: Broken Rice, which will pass readily through a metal sieve perforated with round holes 11/128 inch in diameter",GPT,0.689791202545166,10064000
+Milled grain products: Fit for Human Consumption: Oats: Valued not over $8 per 100 lbs.,GPT,0.6358658671379089,11041200
+Milled grain products: Not Fit for Human Consumption: Wheat: Flour,HF,0.6928328275680542,11029060
+"Mineral substances, and articles of mineral substances, not specially provided for: Mineral substances, crude",HF,0.8035565614700317,25309080
+"Mirrors, made of any of the glass described in items 541.11 through 544.41, with or without frames or oases (except framed or cased mirrors of precious metal, and mirrors designed for use in instruments): Over 1 sq. ft. in reflecting area",HF,0.6908750534057617,70099250
+Mixtures consisting wholly of two or more of the foregoing named products,HF,0.5751264095306396,38249941
+"Mixtures in whole or in part of any of the products
+provided for in this subpart",HF,0.6608866453170776,38249949
+Mixtures not specially provided for,HF,0.6714714765548706,38271200
+Mixtures of two or more kinds of edible nuts,HF,0.7351778149604797,8135000
+Molders' patterns for the manufacture of castings,HF,0.7753801345825195,84803000
+"Motion-picture film in any form on which pictures, or sound and pictures, have been recorded, whether or not developed: Newsreels, not developed, of current events abroad",HF,0.6794925928115845,37061030
+"Motor vehicles specially constructed and equipped to perform special services or functions, such as, but not limited to, fire engines, mobile cranes, wreckers, concrete mixers, and mobile clinics",GPT,0.5806021690368652,87051000
+"Mounted or stuffed animals and parts of animals, the product of taxidermy",GPT,0.5741426944732666,43022030
+Music in books or sheets: Printed over 20 years at time of importation,HF,0.6778521537780762,49040000
+"Muskets, shotguns, rifles, pistols, and revolvers, all the foregoing which are firearms designed to fire shot, pellets, or bullets, but which are not designed to fire and are not capable of firing a fixed cartridge; and parts of the foregoing",GPT,0.6629128456115723,93062900
+"Mustard, ground or prepared",HF,0.8634783029556274,21033040
+"Narrow fabrics: Of vegetable fibers: Webbing, of jute",GPT,0.7091495394706726,58063920
+Narrow fabrics: Of vegetable fibers: Wicking,HF,0.723827600479126,58063920
+Narrow fabrics: Of wool,HF,0.7699445486068726,58063910
+"Natural cork not manufactured, and cork waste, shavings, and refuse of all kinds",GPT,0.741389274597168,45011000
+"Natural gas, methane, ethane, propane, butane, and 
+mixtures thereof",HF,0.7056245803833008,27112900
+Natural mineral fluxes: Crude: Feldspar,HF,0.5903512239456177,25291000
+Nets or sections or parts of nets: To be used in taking wild birds under license issued by an appropriate Federal or State governmental authority,HF,0.9607791304588318,98170030
+Nitrogenous compounds (con.): Nitroparaffins,HF,0.6445872783660889,28043000
+"Non-mechanical saws, etc. (con.): Blades for mechanical or non-mechanical saws (con.): Chain-saw blades, in lengths or cut to size: With cutting part containing by weight over 0.2 percent of chromium, molybdenum, or tungsten, or over 0.1 percent of vanadium",HF,0.7165334224700928,82024030
+Nursing nipples and pacifiers of rubber or plastics,HF,0.8612478375434875,40149010
+"Oils, distilled or essential, etc. (con.): Orris",GPT,0.8412070274353027,33012920
+"Oils, distilled or essential, including terpeneless oils: Almond, bitter",HF,0.6309409141540527,33019050
+"Oils, distilled or essential, including terpeneless oils: Camphor",HF,0.6541547179222107,38059050
+"Oils, distilled or essential, including terpeneless oils: Geranium",HF,0.6580438017845154,29052250
+"Olives, fresh, or prepared or preserved: In brine, whether or not pitted or stuffed: Pitted and stuffed",HF,0.8217318654060364,7112040
+"Ornamented fabrics, in the piece, and ornamented motifs, not specially provided for",GPT,0.671866774559021,58109990
+"Palm-kernel oil (provided for in part 14B, schedule 1): Rendered unfit for use as food (item 176.32)",GPT,0.6493421792984009,15132100
+"Papayas, fresh, or prepared or preserved: Papayas: Prepared or preserved:  If Products of Cuba",GPT,0.7626277804374695,8072000
+"Papers, impregnated, coated, etc. (con.): Carbon paper: Weighing over 9 pounds per ream",HF,0.709713339805603,48043960
+"Papers, impregnated, coated, etc. (con.): Writing paper weighing over 18 pounds per ream: Lithographically printed",HF,0.6466836929321289,48043960
+"Papers, impregnated, coated, surface-colored, embossed, ruled, lined, printed, decorated, or any combination thereof: Bristol board weighing over 18 pounds per ream",HF,0.6463955640792847,48101450
+"Papers, not impregnated, not coated, not surfacecolored, not embossed, not ruled, not lined, not printed, and not decorated: Condenser paper, copying paper, pottery paper, and tissue paper for waxing: Weighing not over 9 pounds per ream",HF,0.6825653910636902,48043960
+"Papers, not impregnated, not coated, not surfacecolored, not embossed, not ruled, not lined, not printed, and not decorated: Condenser paper, copying paper, pottery paper, and tissue paper for waxing: Weighing over 9 but not over 18 pounds per ream",GPT,0.7012395262718201,48043920
+"Papers, not impregnated, not coated, not surfacecolored, not embossed, not ruled, not lined, not printed, and not decorated: Printing papers: Standard newsprint paper",HF,0.6865886449813843,48010001
+"Parts of any of the foregoing cameras, enlargers, and camera-enlargers: Containing a photographic lens valued over 50 percent of the value of the part",HF,0.6680190563201904,90089080
+Parts of brass-wind instruments,HF,0.7176210880279541,92051000
+Parts of stringed musical instruments provided for in item 725.06 (except strings and tuning pins),HF,0.7387353181838989,92093000
+Parts of textile machinery: Jacquard cards,HF,0.7005293369293213,84439120
+Parts of textile machinery: Needles for knitting machines: Latch needles,HF,0.8678319454193115,84485110
+Parts of textile machinery: Textile pins,HF,0.7541608810424805,84439120
+Parts of textile machinery: Wire healds and heddles,HF,0.6968398094177246,84439120
+Parts of the foregoing firearms (except parts of firearms described in item 730.10): Combinatlon rifle and shotgun parts,HF,0.7444642782211304,93052080
+Parts of the foregoing firearms (except parts of firearms described in item 730.10): Rifle parts: Stocks,HF,0.7084606885910034,93052005
+Parts of the foregoing: Typewriter parts,HF,0.6308674216270447,84729050
+Pepper: Capiscum or cayenne or red: Ground,GPT,0.6224730014801025,7096040
+"Phosphates, crude, and apatite",HF,0.6532943248748779,28047000
+Photographic dry plates,HF,0.7340230345726013,37019930
+"Photographic films and dry plates manufactured in the United States (except motion-picture films to be used for commercial purposes) and exposed abroad, whether developed or not",HF,0.9890812635421752,98020020
+Photographic gelatin: Valued not over 80 cents per pound,HF,0.7779593467712402,35030040
+Photographic light meters,HF,0.653813898563385,90275010
+"Photographic motion-picture cameras, with or without sound recording systems: Valued under $50 each",HF,0.7045671939849854,37061030
+"Photographs, engravings, etchings, lithographs, and wood cuts, and pictorial matter produced by relief or stencil printing process, all the foregoing, whether  bound or not bound, and not specially provided for: Printed not over 20 years at time of importation: Lithographs on paper: Over 0.020 inch in thickness",HF,0.7418050765991211,49119140
+"Picture and mirror frames, of wood",HF,0.7842589616775513,44141000
+"Pigments (except pigments, in dry form, described in the foregoing provisions of this subpart): Containing chromium: Chrome yellow",GPT,0.7516337633132935,32062000
+"Pigments (except pigments, in dry form, described in the foregoing provisions of this subpart): Containing iron: Iron oxides and iron hydroxides: Natural: Ochers",HF,0.6661219596862793,32041760
+"Pigments (except pigments, in dry form, described in the foregoing provisions of this subpart): Containing lead: Leaded zinc oxides: Containing not over 25 percent of lead by weight: Dry",HF,0.6453437805175781,32041760
+"Pile fabrics, in which the pile was inserted or knotted during the weaving or knitting, whether or not the pile covers the entire surface, and whether the pile is wholly or partly cut or is not cut: Of cotton: Terry fabrics: Valued not over $1,125 per pound",GPT,0.7724590301513672,58061010
+"Pile fabrics, in which the pile was inserted or knotted during the weaving or knitting, whether or not the pile covers the entire surface, and whether the pile is wholly or partly cut or is not cut: Of cotton: Velvets, plushes, and velours",HF,0.7993124127388,60019100
+"Pineapples, fresh, etc. (con.): Prepared or Preserved",HF,0.8364496231079102,20082000
+"Pineapples, fresh, or prepared or preserved:  Fresh: In bulk: If products of Cuba",HF,0.751566469669342,8129040
+"Pipe and tube fittings, of iron or steel: Cast-iron fittings, not malleable: Not for cast-iron pipe: Alloy cast iron",HF,0.8205634355545044,73071930
+"Pipes and tubes and blanks therefor, all the foregoing of iron (except cast iron) or steel: Welded, jointed, or seamed, with walls not thinner than 0.065 inch, and of circular cross section: Alloy iron or steel: 0.375 inch or more in outside diameter",HF,0.8175878524780273,73066150
+"Pipes and tubes and blanks therefor, pipe and tube fittings, all the foregoing of copper: Pipes and tubes and blanks therefor: Cupro-nickel",HF,0.7795705795288086,74112950
+"Pipes and tubes and blanks therefor, pipe and tube fittings, all the foregoing of copper: Pipes and tubes and blanks therefor: Nickel silver",GPT,0.7872624397277832,74112950
+"Pipes and tubes and blanks therefor, pipe and tube fittings, all the foregoing of tin",HF,0.8470228314399719,80070040
+"Pistols, revolvers, rifles, shotguns, and combination shotguns and rifles, all the foregoing which are firearms designed to fire shot, pellets, or bullets (except firearms provided for in item 730.10): Combination of shotguns and rifles: Valued not over $5 each",HF,0.7520825862884521,93033080
+"Pistols, revolvers, rifles, shotguns, and combination shotguns and rifles, all the foregoing which are firearms designed to fire shot, pellets, or bullets (except firearms provided for in item 730.10): Combination of shotguns and rifles: Valued over $50 each",HF,0.782826840877533,93033080
+"Pistols, revolvers, rifles, shotguns, and combination shotguns and rifles, all the foregoing which are firearms designed to fire shot, pellets, or bullets (except firearms provided for in item 730.10): Rifles: Valued over $10 but not over $25 each",HF,0.8166401386260986,93033080
+"Pistols, revolvers, rifles, shotguns, and combination shotguns and rifles, all the foregoing which are firearms designed to fire shot, pellets, or bullets (except firearms provided for in item 730.10): Rifles: Valued over $5 but not over $10 each",HF,0.8066419363021851,93033080
+"Pistols, revolvers, rifles, shotguns, and combination shotguns and rifles, all the foregoing which are firearms designed to fire shot, pellets, or bullets (except firearms provided for in item 730.10): Rifles: Valued over $50 each",HF,0.8166069388389587,93033080
+"Pistols, revolvers, rifles, shotguns, and combination shotguns and rifles, all the foregoing which are firearms designed to fire shot, pellets, or bullets (except firearms provided for in item 730.10): Shotguns: Valued over $25 but not over $50 each",HF,0.7901203036308289,93033080
+"Pistols, revolvers, rifles, shotguns, and combination shotguns and rifles, all the foregoing which are firearms designed to fire shot, pellets, or bullets (except firearms provided for in item 730.10): Shotguns: Valued over $50 each",HF,0.7857152223587036,93033080
+"Plaques and figurines, of rubber or plastics",HF,0.679593563079834,39264000
+"Plates and sheets of iron or steel, etc. (con.): Clad:",HF,0.7128909826278687,73239970
+"Plates, sheets, and strip, all the foregoing which are wrought, of zinc, whether or not cut, pressed, or stamped to nonrectangular shapes: Not clad: Alloys of zinc",GPT,0.6659418344497681,79050000
+"Plates, sheets, and strips, all the foregoing which are wrought, of lead, whether or not cut, pressed, or stamped to nonrectangular shapes: Not cut, not pressed, and not stamped to nonrectangular shapes: Plates and sheets: Clad",GPT,0.633194625377655,76061230
+Platinum compounds,HF,0.674436628818512,71101900
+"Pork, prepared or preserved (except sausages):  Boned and cooked and packed in airtight containers",HF,0.8316965699195862,16024220
+Potassium compounds: Bromide,HF,0.8911874294281006,28275100
+Potassium compounds: Permanganate,HF,0.9130669236183168,28416100
+Potassium sulfate,HF,1.000000238418579,31043000
+"Powder-actuated hand tools, and parts thereof",HF,0.9465418457984924,82055920
+"Precious and semiprecious stones, cut but not set, and suitable for use in the manufacture of jewelry: Diamonds: Weighing over 0.5 carat",HF,0.8372519016265869,71039910
+"Precious and semiprecious stones, cut but not set, and suitable for use in the manufacture of jewelry: Marcasites",HF,0.8289668560028076,71039910
+Pressboard and press paper,GPT,0.6825957894325256,48021000
+"Primary cells and primary batteries, and parts thereof",HF,0.9261239171028136,85069000
+Printing machinery: Textile printing machinery,HF,0.9706043004989624,84431920
+"Products obtained, derived, or manufactured in whole or in part from any product provided for in subpart A or B of this part: Ink powders",GPT,0.5841283798217773,32159050
+"Products obtained, derived, or manufactured in whole or in part from any product provided for in subpart A or B of this part: Products chiefly used as assistants in preparing or finishing textiles",GPT,0.6506942510604858,38099100
+"Products suitable for medicinal use, and drugs: Obtained, derived, or manufactured in whole or  in part from any product provided for in subpart  A or B of this part: Drugs: 5-Chloro-7-iodo-8-quinolinol and 2[1-(p-chlorophenyl)-3-dimenthyl-aminopropyl]pyridine maleate",GPT,0.5752134919166565,29334920
+"Products suitable for medicinal use, and drugs: Obtained, derived, or manufactured in whole or  in part from any product provided for in subpart  A or B of this part: Products suitable for medicinal use: Acetanllide",GPT,0.5992318391799927,29242910
+"Products suitable for medicinal use, etc. (con.): Obtained, derived, or manufactured, etc. (con.): Drugs (con.): Imidazoline derivatives: Phenylbenzylaminoethylimidazoline hydrochloride",GPT,0.5656377077102661,29182908
+"Products suitable for medicinal use, etc. (con.): Obtained, derived, or manufactured, etc. (con.): Drugs (con.): Salol",GPT,0.754400372505188,29182310
+"Projectors, and combination camera-projectors, with or without sound reproducing, or sound recording and reproducing, systems: Motion-picture projectors: With sound recording and reproducing systems; and those capable of projecting only sound motion pictures",HF,0.8057171702384949,90072060
+"Refracting or reflecting telescopes, whether or binocular; astronomical instruments not provided for; frames and mountings for any foregoing articles, and parts of such frames and mountings: Telescopes: Not designed for use with infra-red light: Prism binoculars",HF,0.7388906478881836,90058060
+Rice wine or sake,HF,1.0,22060045
+"Rods, angles, shapes, and sections, all the foregoing wrought, of nickel; nickel wire: Rods and wire: Cold worked",GPT,0.7462674975395203,75052110
+"Romano made from cow's milk, Reggiano, Parmesan, Provoloni cheeses",HF,0.8243703842163086,4069039
+Rosemary: Crude or not manufactured,HF,0.5762240886688232,7129060
+"Safety pins (provided for in item 745.56, part 7A,
+ schedule 7)",GPT,0.7040964961051941,73194020
+Sage: Not ground,GPT,0.4595818817615509,12119020
+Salts of organic acids (con.): Potassium salts: Antimony tartrate (Tartar emetic),HF,0.8080283403396606,29181310
+Salts of organic acids (con.): Potassium salts: Sodium tartrate (Roohelle salts),GPT,0.73128741979599,29181330
+Salts of organic acids (con.): Strontium salts: Potassium oxalate,HF,0.649400532245636,28164010
+Salts of organic acids (con.): Vanadium salts,HF,0.7749927043914795,28273910
+"Scissors and shears (except machines and except shears provided for in any of the foregoing provisions), and blades therefor: Valued over 50 cents but not over $1.75 per dozen",HF,0.8550279140472412,82130030
+Scrap and waste photographic film fit only for the recovery of its constituent materials,GPT,0.5686632990837097,37021000
+Scrap tobacco: If product of Cuba,GPT,0.5986325740814209,24013006
+"Self-winding (or if a self-winding device can be incorporated therein), or constructed or designed to operate for a period in excess of 47 hours without rewinding, but not adjusted (item 718. --)",HF,0.5471681356430054,91059920
+"Silica, not specially provided for",HF,0.7564786672592163,28112250
+"Silver (including platinum- or gold-plated silverbut not rolled silver), unwrought (except bullion, dore, and precipitates) or semimanufactured: Gold-plated",HF,0.7632734775543213,71069250
+"Smokers' articles, household articles, and art and ornamental articles such as, but not limited to, statues, figurines, flowers, vases, lamp bases, bric-a-brac, and wall plaques, all the foregoing not specially provided for, of ceramic ware: Of fine-grained earthenware or of fine-grained stoneware (except articles provided for in items 534.74 and 534.76): Valued not over $3 per dozen articles",GPT,0.6682150363922119,69139010
+"Smokers' articles, household articles, and art and ornamental articles such as, but not limited to, statues, figurines, flowers, vases, lamp bases, bric-a-brac, and wall plaques, all the foregoing not specially provided for, of ceramic ware: Of fine-grained earthenware, whether or not decorated, having a reddish-colored body and a lustrous glaze, and mottled, streaked, or solidly colored brown to black with metallic oxide or salt: Valued over $1.50 per dozen articles",GPT,0.6704702377319336,69139030
+Sodium compounds (con.): Nitrite,HF,0.8810901641845703,28341010
+Sodium compounds (con.): Silicates,HF,0.8362956643104553,28391900
+Sodium compounds (con.): Vanadate,HF,0.6641685962677002,28419010
+Sodium compounds: Arsenate,HF,0.6103625297546387,28139010
+Sodium compounds: Bicarbonate,HF,0.8661088943481445,28363000
+Sodium compounds: Chloride (Salt): In brine,HF,0.7496438026428223,28291901
+Sodium compounds: Chloride (Salt): In bulk,HF,0.7283302545547485,28291901
+Sodium compounds: Molybdate,HF,0.7170826196670532,28417050
+Sodium nitrate,HF,1.0,31025000
+"Solid glass globules and balls, spherical or approximately spherical in shape, colored or not colored, for whatever use intended: Over 6 millimeters in diameter",HF,0.7683968544006348,70021020
+"Sound recordings, and magnetic recordings, not provided for in the foregoing provisions of this subpart: Recorded on wire",GPT,0.7177495956420898,85198141
+Split bamboo,HF,0.6913712024688721,44191200
+"Sponges, marine: Grass, velvet, or yellow",GPT,0.651674747467041,5119936
+"Springs and leaves for springs, of base metal: Suitable for motor vehicle suspension",HF,0.8264440298080444,73201060
+Stains,GPT,0.5881302356719971,32129000
+Steel shavings,HF,0.7297255992889404,73209010
+Stereotype-matrix board or mat,HF,0.7458199858665466,48099020
+"Still wine, produced from grapes:  Containing over 14 percent of alcohol by volume: In containers each holding not over 1 gallon, if entitled under regulations of the United States Internal Revenue Service to a type designation which includes the name ""Marsala"" and if so designated on the approved label",GPT,0.7276672124862671,22042160
+"Still wine, produced from grapes:  Containing over 14 percent of alcohol by volume: Sherry",HF,0.7571797370910645,22042981
+"Storage batteries and parts thereof: Lead-acid type storage batteries, and parts thereof",HF,0.8102072477340698,85079080
+Strontium compounds: Sulfate: Mineral (Celestite),HF,0.6988853216171265,28369200
+"Substantial containers and holders, if products of the United States (including shooks and staves of United States production when returned as boxes or barrels containing merchandise), or if of foreign production and previously imported and duty (if any) thereon paid, or if of a class specified by the Secretary of the Treasury as instruments of international traffic",HF,0.7815020084381104,98030050
+"Sulfonated or sulfated: Fatty alcohols and salts of fatty alcohols: Derived from coconut, palm-kernel, or palm oil",GPT,0.6253712773323059,38231920
+"Sulfur compounds, including thiols, sulfides, sulfoxides, and sulfones",HF,0.7347832918167114,25030000
+Sunflower seed,HF,0.743334174156189,12060000
+Synthetic plastics materials: Allyl resins,HF,0.7345621585845947,39079120
+Synthetic plastics materials: Polyethylene resins,HF,0.6718685626983643,90212140
+"Taps, cocks, valves, and similar devices, however operated, used to control the flow of liquids, gases or solids, all the foregoing and parts thereof: Hand-operated and check: Of copper",HF,0.7970942854881287,84818010
+"Textile fabrics, including laminated fabrics, not specially provided for: Of cotton",HF,0.8002051115036011,59032010
+"Time switches with watch or clock movements, etc. (con.): Valued over $10 each",HF,0.8886042237281799,91070040
+"Time switches with watch or clock movements, etc. (con.): Valued over $2.25 but not over $5 each",HF,0.8825584650039673,91070040
+Tin compounds: Tetrachloride,HF,0.7554757595062256,28273925
+Tires and tubes for tires of rubber or plastics: Tubes: Bicycle,GPT,0.803341269493103,40132000
+"Tobacco stems: Not cut, not ground, and not pulverized",HF,0.8366987109184265,24013003
+Toy figures of animate objects (except dolls): Having a spring mechanism: Wholly or almost wholly of metal,HF,0.6168587803840637,95030000
+Toy figures of animate objects (except dolls): Not having a spring mechanism: Stuffed: Valued over 10 cents per inch of height,HF,0.692775547504425,95030000
+"Toys, and parts of toys, not specially provided for: Toys having a spring mechanism",HF,0.6663541197776794,95030000
+"Tubes, of paper, commonly used for holding thread or yarn: Parallel",HF,0.6848657131195068,48221000
+"Tufted fabrics, in which the pile or tuft was inserted or knotted into a pre-existing base, with the pile or tuft covering the entire surface, whether the pile or tuft is wholly or partly cut or is not cut: Of man-made fibers",HF,0.6913918256759644,63029310
+"Tufted fabrics, in which the pile or tuft was inserted or knotted into a pre-existing base, with the pile or tuft covering the entire surface, whether the pile or tuft is wholly or partly cut or is not cut: Of silk",HF,0.6402826309204102,57023210
+"Tungsten, unwrought and wrought; tungsten waste and scrap: Wrought",HF,0.8279531598091125,81019700
+Tuning pins,HF,0.7535691261291504,92099140
+Typewriters not incorporating a calculating mechanism: Non-automatic with hand-operated keyboard,HF,0.5966070890426636,84716020
+"Upon the request of the Department of State, articles which are the property of a foreign government or of a public international organization: Articles which, while in the United States, will remain the property of such government or of such organization and will be used only in connection with non-commercial functions of such government or of such organization, including exhibitions which are sponsored by or participated in by such government or such organization and which are not commercial in character or connected with commercial undertakings",GPT,0.689385712146759,98090040
+"Upon the request of the Department of State, articles which are the property of a foreign government or of a public international organization: Printed matter, not containing advertising matter, for free distribution",HF,0.7897875905036926,98090080
+Vanilla beans,HF,0.7467809915542603,9052000
+"Vat blue 1 (synthetic indigo), ""Colour Index No. 73000""",HF,0.9035751819610596,32041510
+"Vegetable fibers (except cotton), raw; wastes and advanced wastes of such fibers; and vegetable fibers (except cotton) including fiber blends in chief value of such fibers, processed (except roving) but not spun: Abaca: Processed",HF,0.7379873991012573,52030030
+"Vegetable fibers (except cotton), raw; wastes and advanced wastes of such fibers; and vegetable fibers (except cotton) including fiber blends in chief value of such fibers, processed (except roving) but not spun: Abaca: Raw, waaste, and advanced waste",HF,0.7314746379852295,53050000
+"Vegetable fibers (except cotton), raw; wastes and advanced wastes of such fibers; and vegetable fibers (except cotton) including fiber blends in chief value of such fibers, processed (except roving) but not spun: Flax: Raw",HF,0.7075563073158264,52030005
+"Vegetable fibers (except cotton), raw; wastes and advanced wastes of such fibers; and vegetable fibers (except cotton) including fiber blends in chief value of such fibers, processed (except roving) but not spun: Hemp: Processed: Not carded and not hackled",HF,0.754297137260437,52030030
+"Vegetable fibers (except cotton), raw; wastes and advanced wastes of such fibers; and vegetable fibers (except cotton) including fiber blends in chief value of such fibers, processed (except roving) but not spun: Sunn: Raw, waste, and advanced waste",HF,0.7000290155410767,52030005
+Vegetable parchment paper,HF,0.8790353536605835,48061000
+"Vegetables (whether or not reduced in size), etc. (con): Tomatoes: Paste and Sauce",HF,0.6803297996520996,7129078
+"Vegetables, dried, desiccated, or dehydrated, etc. (con.): Dried, desiccated, or dehydrated (con.): Potatoes",GPT,0.6317968964576721,7101000
+"Vegetables, fresh, chilled, or frozen, etc. (con.): Eggplant:, if entered during the period from April 1 to November 30, inclusive, in any year: If product of Cuba",GPT,0.7316519618034363,7093020
+"Vegetables, fresh, chilled, or frozen, etc. (con.): Garlic",HF,0.8649787902832031,7032000
+"Vegetables, fresh, chilled, or frozen, etc., (con.): Squash",HF,0.8704005479812622,7099320
+"Veiling made on a lace machine or on a net machine, whether or not ornamented",GPT,0.6059512495994568,70197100
+Vermoth: In containers each holding over 1 gallon,HF,0.7512341737747192,22059040
+Vitamins: Natural: Not artificially mixed,HF,0.7064207792282104,29362100
+Vitamins: Synthetic,HF,0.7285612225532532,29362100
+"Waste and scrap, of rubber or plastics, fit only for remanufacture: Cellulose acetate",GPT,0.6563082337379456,39121200
+"Waste of wool or hair and advanced waste of wool or hair: Burr and card waste, whether or not advanced: Advanced",HF,0.6956139206886292,51032000
+"Waste of wool or hair and advanced waste of wool or hair: Noils, whether or not advanced: Not advanced",HF,0.6751319169998169,51032000
+"Watch movements, assembled, etc. (con.): Not adjusted, etc. (con.): Having over 7 but not over 17 jewels: Over 0.6 but not over 0.8 inch in width (item 716.31)",HF,0.6978945136070251,91089080
+"Watch movements, assembled, etc. (con.): Not adjusted, etc. (con.): Having over 7 but not over 17 jewels: Over 1.5 but not over 1.77 inches in width (item 716.36)",GPT,0.7255496978759766,91089090
+"Watch movements, assembled, without dials or hands, or with dials or hands whether or not assembled there on, having no jewels or not over 17 jewels (provided for in part 2E, schedule 7): Not adjusted, not self-winding (or if a self-winding device cannot be incorporated therein), and not constructed or designed to operate for a period in excess of 47 hours without rewinding: Having no-jewels or only one jewel: Over 0.8 but not over 0.9 inch in width (item 716.12)",HF,0.8218124508857727,91082080
+"Watch movements, assembled, without dials or hands, or with dials or hands whether or not assembled there on, having no jewels or not over 17 jewels (provided for in part 2E, schedule 7): Not adjusted, not self-winding (or if a self-winding device cannot be incorporated therein), and not constructed or designed to operate for a period in excess of 47 hours without rewinding: Having no-jewels or only one jewel: Over 1.5 but not over 1.77 inches in width (item 716.16)",HF,0.8204964399337769,91082080
+"Watch movements, assembled, without dials or hands, or with dials or hands whether or not assembled thereon: 1/ Having over 1 jewel but not over 7 jewels: Not adjusted, not self-winding (or if a self-winding device cannot be incorporated therein), and not constructed or designed to operate for a period in excess of 47 hours without rewinding: Having no jewels or only 1 jewel: Not over 0.6 inch in width",HF,0.7901192903518677,91082080
+"Watch movements, assembled, without dials or hands, or with dials or hands whether or not assembled thereon: 1/ Having over 1 jewel but not over 7 jewels: Not adjusted, not self-winding (or if a self-winding device cannot be incorporated therein), and not constructed or designed to operate for a period in excess of 47 hours without rewinding: Having no jewels or only 1 jewel: Over 0.6 but not over 0.8 inch in width",HF,0.7880645394325256,91082080
+"Watch movements, assembled, without dials or hands, or with dials or hands whether or not assembled thereon: 1/ Having over 17 jewels",HF,0.8015050888061523,91082040
+"Wearing apparel not specially provided for, of leather: Of reptile leather",HF,0.9210349321365356,42031020
+"Webs, wadding, batting, and nonwoven fabrics, including felts and bonded fabrics, and articles not specially provided for of any one or combination of these products, ail the foregoing, of textile materials, whether or not coated or filled: Of vegetable fibers",HF,0.7018705606460571,56022100
+"Webs, wadding, batting, and nonwoven fabrics, including felts and bonded fabrics, and articles not specially provided for of any one or combination of these products, ail the foregoing, of textile materials, whether or not coated or filled: Of wool: Felts and articles of felt: Valued not over $1.50 per pound",HF,0.6909035444259644,51119030
+"Weighing machinery and scales (except balances of a sensitivity of 5 centigrams or better provided for in part 2D of schedule 7), including weight-operated counting and checking machines, and parts thereof; weighing machine weights not provided for in part 2D of schedule 7: Weighing machinery for use in the manufacture of sugar",HF,0.7036290168762207,84239090
+"Whenever, in any 12-month period beginning July 1 in any year (January 1 in any year for item 950.06), the respective aggregate quantity specified below for one of the numbered classes of articles has been entered, no article in such class may be entered during the remainder of such period: Cheeses and substitutes for cheese provided for in part 4C, schedule 1: Blue-mold (except Stilton) and cheese and substitutes for cheese containing, or processed from, blue-mold cheese",HF,0.6271237134933472,99040649
+"Whenever, in any 12-month period beginning July 1 in any year (January 1 in any year for item 950.06), the respective aggregate quantity specified below for one of the numbered classes of articles has been entered, no article in such class may be entered during the remainder of such period: Dried milk and cream provided for in part 4A of schedule 1: Described in item 115.50",HF,0.6441641449928284,99040518
+"Whenever, in any 12-month period beginning May 29 in any year, the respective quantity specified below of wheat fit for human consumption (item 130.70, part 7A, schedule 1) or of milled wheat products fit for human consumption (item 131.40, part 7B, schedule 1) the product of a specified foreign country or area has been entered, no such wheat or milled wheat products, respectively, the product of such country or area may be entered during the remainder of such period: Greece",GPT,0.5097132921218872,99035212
+"Whenever, in any 12-month period beginning May 29 in any year, the respective quantity specified below of wheat fit for human consumption (item 130.70, part 7A, schedule 1) or of milled wheat products fit for human consumption (item 131.40, part 7B, schedule 1) the product of a specified foreign country or area has been entered, no such wheat or milled wheat products, respectively, the product of such country or area may be entered during the remainder of such period: Panama",GPT,0.6013973355293274,99035200
+"Whenever, in any 3-month period beginning January 1, April 1, July 1, or October 1 in any year, the respective quantity specified below for one of the four numbered classes of articles the product of a specified foreign country has been reached, no article in such class the product of such country may be entered, or withdrawn from warehouse, for consumption during the remainder of such period and no article may be withdrawn for consumption from any customs bonded warehouse during the remainder of such period if by reason thereof duty would become collectible under section 312 of the Tariff Act of 1930, as amended, in cancellation of a bond charge covering an article in such class the product of such country: For lead-bearing ores and materials provided for in part 1 of schedule 6: Canada",GPT,0.5820149779319763,99990056
+"Whenever, in any 3-month period beginning January 1, April 1, July 1, or October 1 in any year, the respective quantity specified below for one of the four numbered classes of articles the product of a specified foreign country has been reached, no article in such class the product of such country may be entered, or withdrawn from warehouse, for consumption during the remainder of such period and no article may be withdrawn for consumption from any customs bonded warehouse during the remainder of such period if by reason thereof duty would become collectible under section 312 of the Tariff Act of 1930, as amended, in cancellation of a bond charge covering an article in such class the product of such country: For lead-bearing ores and materials provided for in part 1 of schedule 6: Peru",HF,0.675123929977417,99170436
+"Whenever, in any 3-month period beginning January 1, April 1, July 1, or October 1 in any year, the respective quantity specified below for one of the four numbered classes of articles the product of a specified foreign country has been reached, no article in such class the product of such country may be entered, or withdrawn from warehouse, for consumption during the remainder of such period and no article may be withdrawn for consumption from any customs bonded warehouse during the remainder of such period if by reason thereof duty would become collectible under section 312 of the Tariff Act of 1930, as amended, in cancellation of a bond charge covering an article in such class the product of such country: For unwrought zinc (except alloys of zinc and zinc dust) and zinc waste and scrap provided for in part 2H of schedule 6: Peru",GPT,0.6190778017044067,98020060
+"Whenever, in the respective 12-month period, etc. (con.): Card strips made from cotton having a staple length under 1-3/16 inches, and cotton comber waste,  lap waste, sliver waste, and roving waste, all the foregoing, whether or not advanced, the  product of any country or area including the United States, entered during the 12-month period beginning September 20 in any year: Cuba",GPT,0.6721434593200684,52029905
+"Whenever, in the respective 12-month period, etc. (con.): Card strips made from cotton having a staple length under 1-3/16 inches, and cotton comber waste,  lap waste, sliver waste, and roving waste, all the foregoing, whether or not advanced, the  product of any country or area including the United States, entered during the 12-month period beginning September 20 in any year: Netherlands",GPT,0.8234916925430298,52029905
+Willow: prepared for basket makers' use,HF,0.7497305870056152,46021912
+Wire of iron or steel (con.): Flat wire (con.): Alloy iron or steel: Coated or plated with metal: Not over 0.01 inch in thickness,HF,0.7805825471878052,72171010
+"Wire, of copper: Nickel silver: Not metal coated or plated",HF,0.8687596321105957,74082950
+"Wires, rods, tubes, plates, electrodes and similar articles, all the foregoing, of base metal or of metal carbides, coated or cored with flux, of types used for soldering, brazing, welding or deposition of metal or metallic carbides; wire and rods, of base-metal powder, used for metal spraying: Lead-tin solders",HF,0.8135989904403687,83119000
+"With veneer face on one side only: Not face finished, or face finished with a clear or transparent material which does not obscure the grain, texture, or markings of the face ply: With face ply of Parana pine (Araucaria angustifolia)",HF,0.7025735378265381,44125960
+Wood railroad ties (except switch or bridge ties),HF,0.6676300764083862,44069200
+"Wood-veneer panels, whether or not face finished: With veneer faces on both sides: Not face finished, or face finished with a clear or transparent material which does not obscure the grain, texture, or markings of the face ply: With a face ply of Spanish cedar (Cedrela spp.)",HF,0.7442576885223389,44121090
+"Wool grease: Conforming to the specifications for wool fat (including hydrous wool fat) appearing on the U.S. Pharmacopoeia, 15th revision",GPT,0.7571343183517456,15050090
+"Works of the free fine arts, drawings, engravings, photographic pictures, and philosophical and scientific apparatus brought into the United States by professional artists, lecturers, or scientists arriving from abroad for use by them for exhibition and in illustration, promotion, and encouragement of art, science, or industry in the United States",GPT,0.6014406681060791,98130070
+"Woven fabrics, of silk (con.): In chief value, but not wholly of silk (con.): Jacquard-figured: Degummed, bleached, or colored",HF,0.6644890308380127,54078100
+"Woven fabrics, of silk: In chief value, but not wholly of silk: ontaining over 17 percent of wool by weight: Jacquard-figured",HF,0.7606797218322754,50079030
+"Woven fabrics, of vegetable fibers (except cotton): Wholly of jute: Bleached, colored, or flame-resistant",HF,0.7298051118850708,55129100
+"Woven fabrics, of wool: Fabrics, hand-woven, with a loom width of less than 30 inches: Weighing not over 4 ounces per square yard with warp wholly of vegetable fibers",HF,0.8166630864143372,51111920
+"Woven fabrics, wholly of cotton (con): 1/ Not fancy or figured (con): Not bleached and not colored: Of number 100 to 109",HF,0.793938398361206,52082160
+"Woven fabrics, wholly of cotton (con): 1/ Not fancy or figured (con): Not bleached and not colored: Of number 53",HF,0.7730557322502136,54078100
+"Woven fabrics, wholly of cotton (con): 1/ Not fancy or figured (con): Not bleached and not colored: Of number 55",HF,0.7748000621795654,54078100
+"Woven fabrics, wholly of cotton (con): 1/ Not fancy or figured (con): Not bleached and not colored: Of number 57",HF,0.772789716720581,54078100
+"Woven fabrics, wholly of cotton (con): 1/ Not fancy or figured (con): Not bleached and not colored: Of number 58",HF,0.774456262588501,54078100
+"Woven fabrics, wholly of cotton (con): 1/ Not fancy or figured (con): Not bleached and not colored: Of number 63",HF,0.7675327658653259,52082160
+"Woven fabrics, wholly of cotton (con.): Not fancy or figured (con.):  Fancy or figured:  Bleach, but not colored",HF,0.7524561285972595,54078100
+"Woven fabrics, wholly of cotton (con.): Not fancy or figured (con.): Not bleached and not colored (con.): Of numbers 160 to 179",HF,0.7992691993713379,52082140
+"Woven fabrics, wholly of cotton (con.): Not fancy or figured (con.): Not bleached and not colored (con.): Of numbers 180 to 199",HF,0.7824727296829224,52082140
+"Woven fabrics, wholly of cotton: 1/ Not fancy or figured: Not bleached and not colored: Of number 14",HF,0.7861878871917725,52082140
+"Woven fabrics, wholly of cotton: 1/ Not fancy or figured: Not bleached and not colored: Of number 18",HF,0.782118558883667,52082140
+"Woven fabrics, wholly of cotton: 1/ Not fancy or figured: Not bleached and not colored: Of number 2",HF,0.790726900100708,54078100
+"Woven fabrics, wholly of cotton: 1/ Not fancy or figured: Not bleached and not colored: Of number 32",HF,0.7933362126350403,52082140
+"Woven fabrics, wholly of cotton: 1/ Not fancy or figured: Not bleached and not colored: Of number 34",HF,0.7892882823944092,52082140
+"Woven or knit, fabrics (except pile or tufted fabrics), of textile materials, coated or filled with rubber or plastics material, or laminated with sheet rubber or plastics, except foam or sponge sheet: Of silk",HF,0.7858954668045044,54074100
+"Wrought rods, of copper: Cupro-nickel",HF,0.7399463057518005,74072950
+"Wrought rods, of copper: Nickel silver",HF,0.7615795731544495,74072950
+"Yachts or pleasure boats, regardless of length or tonnage, whether motor, sail, or steam propelled, owned by a resident of the United States or brought into the United States for sale or charter to a resident thereof, whether or not such yachts or boats are brought into the United States under their own power; and parts thereof: Yachts or pleasure boats: Valued not over $15,000 each",GPT,0.6053150296211243,89011000
+"Yarns and roving, of vegetable fibers (except cotton): Of coir",HF,0.7404438257217407,53081000
+"Yarns of cotton (con.): Wholly of cotton (con.): Not bleached, not mercerized, etc. (con.): Of number 46",GPT,0.7606214284896851,52084160
+"Yarns of cotton (con.): Wholly of cotton (con.): Not bleached, not mercerized, etc. (con.): Of number 49",GPT,0.7650845646858215,52084160
+"Yarns of cotton (con.): Wholly of cotton (con.): Not bleached, not mercerized, etc. (con.): Of number 52",HF,0.766268253326416,52051320
+"Yarns of cotton (con.): Wholly of cotton (con.): Not bleached, not mercerized, etc. (con.): Of number 53",HF,0.7604769468307495,52051320
+"Yarns of cotton (con.): Wholly of cotton (con.): Not bleached, not mercerized, etc. (con.): Of number 55",HF,0.7663992643356323,52051320
+"Yarns of cotton (con.): Wholly of cotton (con.): Not bleached, not mercerized, etc. (con.): Of numbers 110-119",HF,0.7666616439819336,52030010
+"Yarns of cotton (con.): Wholly of cotton (con.): Not bleached, not mercerized, etc. (con.): Of numbers 140-159",GPT,0.7677125334739685,52084160
+"Yarns of cotton: In chief value, but not wholly, of cotton: Wholly of cotton: Not bleached, not mercerized, not colored, not combed, and not plied: Of number 13",GPT,0.7534672021865845,52084160
+"Yarns of cotton: In chief value, but not wholly, of cotton: Wholly of cotton: Not bleached, not mercerized, not colored, not combed, and not plied: Of number 16",GPT,0.759273886680603,52084160
+"Yarns of cotton: In chief value, but not wholly, of cotton: Wholly of cotton: Not bleached, not mercerized, not colored, not combed, and not plied: Of number 20",GPT,0.7419633269309998,52084160
+"Yarns of cotton: In chief value, but not wholly, of cotton: Wholly of cotton: Not bleached, not mercerized, not colored, not combed, and not plied: Of number 23",GPT,0.7282528877258301,52051220
+"Yarns of cotton: In chief value, but not wholly, of cotton: Wholly of cotton: Not bleached, not mercerized, not colored, not combed, and not plied: Of number 24",GPT,0.7281630039215088,52121410
+"Yarns of cotton: In chief value, but not wholly, of cotton: Wholly of cotton: Not bleached, not mercerized, not colored, not combed, and not plied: Of number 28",GPT,0.7272189259529114,52051120
+"Yarns of cotton: In chief value, but not wholly, of cotton: Wholly of cotton: Not bleached, not mercerized, not colored, not combed, and not plied: Of number 30",GPT,0.7406302690505981,52084160
+"Yarns of cotton: In chief value, but not wholly, of cotton: Wholly of cotton: Not bleached, not mercerized, not colored, not combed, and not plied: Of number 35",GPT,0.7387510538101196,52084160
+"Yarns of cotton: In chief value, but not wholly, of cotton: Wholly of cotton: Not bleached, not mercerized, not colored, not combed, and not plied: Of number 39",GPT,0.7482567429542542,52084160
+"Yarns of cotton: In chief value, but not wholly, of cotton: Wholly of cotton: Not bleached, not mercerized, not colored, not combed, and not plied: Of number 41",GPT,0.7283130884170532,52084160
+"Yarns of cotton: In chief value, but not wholly, of cotton: Wholly of cotton: Not bleached, not mercerized, not colored, not combed, and not plied: Of number 7",GPT,0.7328329682350159,52051120
+"Yarns, of silk: In chief value, but not wholly, of silk: Wholly of man-made fibers and noncontinuous silk fibers: Singles: Bleached or colored: Not colored, measuring over 58,800 yards per pound",HF,0.7124415636062622,52084160
+"Yarns, of silk: In chief value, but not wholly, of silk: Wholly of man-made fibers and noncontinuous silk fibers: Singles: Not bleached and not colored",GPT,0.6752628087997437,52114100
+"Yarns, of silk: Wholly of silk, but in part continuous and in part noncontinuous fibers",GPT,0.6551778316497803,52114100
+"Yarns, wholly of noncontinuous silk fibers (provided for in part 1D, schedule 3 ): Plied, not bleached and not colored, measuring over 29,400 yards per pound (item 308.50 and item 308.51)",HF,0.7130218744277954,52051420
+Zaffer,GPT,0.507307767868042,32071000
+Zinc compounds: Sulfate,HF,0.9162383079528807,28332945
+"Zirconium, wrought and unwrought, zirconium waste and scrap: Wrought",HF,0.6692723035812378,81093100

@@ -1,0 +1,782 @@
+ProductDescription,ProductCode,Final Predicted HS Code,Final Confidence Level,F1_2digit,F1_4digit,F1_6digit
+2-Mercaptobenzothiazole; and N-(Oxydiethylene)benzothiazole-2-sulfenamide,29342015,29342015,1.0000001192092896,1,1,1
+2-Phenylimidazole,29332910,29332910,1.0000003576278689,1,1,1
+"3- or 4-thread twill fabrics of cotton, including cross twill, 85% or more cotton by weight, not over 200 g/m2, of yarns of different colors",52084300,52084300,1.000000238418579,1,1,1
+"3- or 4-thread twill, cont. less than 85% polyester staple fibers mixed mainly or solely with cotton, not over 170 g/m2, dyed",55132200,55142200,0.878219723701477,1,0,0
+"3-Amino-1,2,4-triazole",29339040,29339985,1.0000004768371582,1,1,0
+"4-Amino-2-(N,N-Diethylamino)-toluene hydrochloride; m- and o-phenylenediamine; toluene-2,4 and -2,5-diamine; and toluene-2,5-diamine sulfate",29215110,29215110,0.998193085193634,1,1,1
+6-Chloro-m-cresol [OH=1]; m-chlorophenol; and chlorothymol,29081010,29081910,1.000000238418579,1,1,0
+"AC motors nesi, multi-phase, of an output exceeding 75 kW but under 149.2 kW",85015340,85015340,0.9336509704589844,1,1,1
+"AC motors, nesi, multi-phase, 149.2 kW or more but not exceeding 150 kW",85015360,85015360,0.965559720993042,1,1,1
+"AC motors, nesi, multi-phase, of an output exceeding 735 W but under 746 W",85015150,85015150,0.9674316644668579,1,1,1
+"Abaca (Manila hemp or Musa textilis Nee) fibers, processed but not spun; abaca tow, noils and waste (incl. yarn waste and garnetted stock)",53052900,53050000,0.7083176374435425,1,1,0
+"Accessories of machines of heading 8447 or of their auxiliary machinery, nesi",84485950,84485950,0.9566745758056641,1,1,1
+"Acetone, derived in whole or in part from cumene",29141110,29141110,1.0,1,1,1
+"Acrylonitrile-butadiene rubber (NBR), latex, in primary forms or in plates, sheets or strip",40025100,40025100,1.0000003576278689,1,1,1
+"Acrylonitrile-butadiene-styrene (ABS) copolymers, in primary forms",39033000,39033000,1.0,1,1,1
+Addressing machines and address plate embossing machines,84722000,84729005,1.000000238418579,1,1,0
+"Agricultural, horticultural or forestry hand tools, and parts thereof, of base metal",82055940,82019060,0.9077707529067992,1,0,0
+"Air conditioning machines incorporating a refrigerating unit, nesi",84158200,84158201,0.9432801008224488,1,1,1
+"Air dried or sun dried mushrooms, whole, cut, sliced, broken or in powder, but not further prepared",7123010,7123110,0.8983629941940308,1,1,0
+Aircraft launching gear and parts thereof; deck-arrestors or similar gear and parts thereof,88051000,88051000,1.0000003576278689,1,1,1
+"Alarm clocks nesi, movement measuring over 50 mm wide, not battery or AC powered, valued over $5 each",91051950,91051950,0.8931028842926025,1,1,1
+"Aluminum foil, not exceeding 0.2 mm thickness, backed, nesi",76072050,76071930,0.7904245853424072,1,1,0
+Aluminum phosphate,28352910,28352910,1.0000003576278689,1,1,1
+"Aluminum reservoirs, tanks, vats and like containers for any material (except compressed or liquefied gas), exceeding 300 liters, not fitted",76110000,76110000,0.9086456298828124,1,1,1
+"Aluminum screws, bolts, nuts, screw hooks, washers and similar articles having shanks, threads, or holes over 6 mm in diameter",76161070,76161070,0.9562709331512452,1,1,1
+Aluminum waste and scrap,76020000,76020000,0.9572434425354004,1,1,1
+"Aluminum wire, not alloyed, of which the maximum cross-sectional dimension exceeds 7 mm",76051100,76052100,0.9478152394294742,1,1,0
+Analog or hybrid automatic data processing machines,84711000,84716010,0.6034075021743774,1,1,0
+Analog or linear monolithic electronic integrated circuits,85421900,85423900,0.6955137848854065,1,1,0
+"Anchovies, whole or in pieces but not minced, in oil, in airtight containers, the first 3,000 metric tons per year",16041610,16041620,0.8448411226272583,1,1,1
+Anhydrous ammonia,28141000,28141000,1.000000238418579,1,1,1
+"Animal carving materials and articles of these materials, nesi",96019080,96019080,0.8721153736114502,1,1,1
+"Animal products nesi; dead animals of chapter 1, unfit for human consumption",5119940,5119940,0.9074585437774658,1,1,1
+Antifreezing preparations and prepared de-icing fluids,38200000,38200000,0.9999998807907104,1,1,1
+Antihistamines of heterocyclic compounds with nitrogen hetero-atom(s) only cont. pyrimidine or piperazine ring,29335925,29339926,0.8975400328636169,1,1,0
+Antiknock preparations based on tetraethyl lead or on a mixture of tetraethyl lead and tetramethyl lead,38111110,38111110,1.0,1,1,1
+Apparatus & equipment for auto. developing photographic film/paper in rolls or exposing developed film to rolls of photographic paper,90101000,90101000,1.000000238418579,1,1,1
+"Apparatus based on the use of alpha, beta or gamma radiations, for medical, surgical, dental or veterinary use",90222100,90222100,1.0000003576278689,1,1,1
+"Apple juice, unfermented and not containing added spirit",20097000,20091100,0.8030823469161987,1,1,0
+"Apricots, dried",8131000,8131000,0.9999998211860656,1,1,1
+"Arms nesi, excluding those of heading 9307",93040060,93040060,0.8516764640808105,1,1,1
+"Aromatic alcohol peroxides, ether peroxides, ketone peroxides and their halogenated, sulfonated, nitrated or nitrosated derivatives, nesi",29096020,29096020,0.9792179465293884,1,1,1
+"Aromatic amino-alcohols, their ethers and esters, except those cont. more than one oxygen function; salts, in add. U.S. 3 to note sec. VI",29221930,29221960,0.89073646068573,1,1,1
+"Aromatic amino-alcohols, their ethers and esters, except those containing more than one oxygen function; salts thereof, nesi",29221940,29221909,0.8911798000335693,1,1,1
+"Aromatic carboxylic acids with additional oxygen function, nesi, and their derivatives described in additional U.S. note 3 to section VI",29189040,29189930,0.8562135696411133,1,1,0
+"Aromatic cyclic amides (including cyclic carbamates) & their derivatives; salts thereof, nesi, 5-Bromoacetyl-2-salicylamide",29242942,29242977,0.9018890857696532,1,1,1
+"Aromatic derivatives of hydrocarbons containing only nitro or only nitroso groups, nesi",29042045,29042045,0.9708435535430908,1,1,1
+"Aromatic drugs nesi of amino-alcohols, their ethers and esters, except those cont. more than one kind of oxygen function; salts thereof",29221915,29221909,0.90854811668396,1,1,1
+"Aromatic drugs of amino-compounds with oxygen function, nesi",29225025,29225025,0.9527015686035156,1,1,1
+"Aromatic heterocyclic compounds with oxygen hetero-atom(s) only, containing an unfused furan ring, nesi",29321910,29321910,0.9797160625457764,1,1,1
+"Aromatic heterocyclic compounds with oxygen hetero-atom(s) only, nesi, described in additional U.S. note 3 to section VI",29329041,29329961,0.9521701335906982,1,1,0
+"Aromatic imines and their derivatives; salts thereof, nesi",29252030,29252960,0.914970636367798,1,1,0
+"Aromatic monoamines and their derivatives and salts thereof, nesi",29214950,29214950,0.9246282577514648,1,1,1
+"Aromatic or modified aromatic herbicides of heterocyclic compounds with nitrogen hetero-atom(s) only, cont. a pyrimidine or piperazine ring",29335910,29335910,0.9999998807907104,1,1,1
+Aromatic or modified aromatic pesticides of heterocyclic compounds with nitrogen hetero-atom(s) only cont. unfused pyrazole ring,29331925,29331935,0.8535437583923341,1,1,1
+Aromatic organo-mercury compounds,29310027,29309092,0.7072881460189819,1,0,0
+"Aromatic pesticides of ureines and their derivatives; salts thereof, nesi",29242115,29242116,0.9170182347297668,1,1,1
+"Aromatic phosphoric esters and their salts, including lactophosphates, and their derivatives, not used as plasticizers",29190030,29199030,1.0000001192092896,1,1,0
+Aromatic plasticizers of phosphoric esters and their salts,29190010,29199030,0.8430468440055847,1,1,0
+Arsenic,28048000,28048000,1.0000001192092896,1,1,1
+"Articles of a kind normally carried in the pocket or handbag, with outer surface of plastic sheeting, nesi",42023220,42023220,0.9738976359367372,1,1,1
+"Articles of apparel, of reptile leather",42031020,42031020,1.0,1,1,1
+"Articles of asbestos or of mixtures with a basis of asbestos or of asbestos and magnesium carbonate, nesi",68129000,68129990,0.8044111728668213,1,1,0
+"Articles of asphalt or of similar material, in rolls",68071000,68071000,1.000000238418579,1,1,1
+"Articles of bedding and similar furnishings (for example, quilts, eiderdowns and comforters), nesi",94049090,94049096,0.7201992273330688,1,1,1
+"Articles of copper nesi, cast, molded, stamped, or forged but not further worked",74199100,74192000,0.9243046045303344,1,1,0
+"Articles of milk or cream, whether or not concentrated or sweetened nesi",4049020,19019065,0.7587909102439879,0,0,0
+"Articles of nickel, nesi",75080050,75089050,0.8827378153800964,1,1,0
+"Articles of refined copper, nesi",74031900,74031900,0.8859307765960693,1,1,1
+Articles of zirconium nesi,81099000,81099100,0.7542794942855835,1,1,0
+"Artificial filament yarn (except sewing thread), put up for retail sale",54062000,54060020,1.0000003576278689,1,1,0
+"Artificial flowers, foliage, fruit and parts thereof, and articles therefrom, of materials nesi",67029060,67029065,0.8615442514419556,1,1,1
+Asbestos,25240000,25249000,0.7916162014007568,1,1,0
+Automatic manostats,90322000,90322000,1.0,1,1,1
+"Babies' garments and clothing accessories, knitted or crocheted, of wool or fine animal hair",61111000,61119005,0.9999999403953552,1,1,0
+"Babies' garments and clothing accessories, not knitted or crocheted, nesi, of synthetic fibers",62093030,62093030,0.9784858822822572,1,1,1
+"Babies' garments and clothing accessories, not knitted or crocheted, nesi, of textile materials nesi",62099040,62093030,0.9127061367034912,1,1,0
+"Babies' trousers, breeches and shorts, except those imported as parts of sets, knitted or crocheted, of artificial fibers",61119010,61119010,1.000000238418579,1,1,1
+Baby carriages (including strollers) and parts thereof,87150000,87150000,0.9999998807907104,1,1,1
+"Badminton articles and equipment, except rackets, and parts and accessories thereof, nesi",95069912,95069912,0.8862756490707397,1,1,1
+"Bakery machinery and machinery for the manufacture of macaroni, spaghetti or similar products, nesi",84381000,84381000,0.9716444611549376,1,1,1
+"Ball or roller bearings nesi, including combined ball/roller bearings",84828000,84828000,0.9486732482910156,1,1,1
+Ballasts for discharge lamps or tubes,85041000,85041000,1.000000238418579,1,1,1
+Balls for ball point pens,96089930,96089930,1.000000238418579,1,1,1
+"Balls, needles and rollers for ball or roller bearings",84829100,84829100,1.0,1,1,1
+"Band saw blades, and parts thereof, of base metal",82022000,82021000,0.8734430074691772,1,1,0
+Barium,28052220,28051920,1.0000003576278689,1,1,0
+Barium sulfate,28332700,28332700,1.0000003576278689,1,1,1
+"Bars & rods, hot-rolled, of iron or n/alloy steel cont. under 0.25% carbon, under 14 mm diam., not tempered, treated or partly manufactured",72133130,72286060,0.7486222982406616,1,0,0
+"Bars and rods nesi of silico-manganese steel, not cold-formed",72282010,72282010,0.7575235366821289,1,1,1
+"Bars and rods of iron or nonalloy steel not further worked than cold-formed or cold-finished, 0.25% but under 0.6% of carbon",72153000,72285050,0.7849000692367554,1,0,0
+Bars and rods of refined copper,74071050,74071050,0.9732799530029296,1,1,1
+"Bars and rods, hot-rolled, in irregularly wound coils, of silico-manganese steel",72272000,72272000,0.96681147813797,1,1,1
+"Basmati rice, husked",10062020,10062020,1.0,1,1,1
+"Baths of cast iron, whether or not enameled, coated or plated with precious metal",73242110,73242110,0.9766671657562256,1,1,1
+Bearing housings nesi; plain shaft bearings,84833080,84833080,0.9277240037918092,1,1,1
+"Bed linen, nt knitted or crocheted, nt printed, of cotton, containing any embroidery, lace, braid, edging, trimming, piping or applique work",63023110,63022150,0.9166942834854126,1,1,0
+"Beech wood, sawn or chipped lengthwise, sliced or peeled, over 6 mm thick",44079200,44079200,0.9999999403953552,1,1,1
+"Belting and belts (except V-belts) for machinery, of plastics, not containing textile fibers",39269060,39269060,0.9999998807907104,1,1,1
+"Bezels, backs and centers, of watch cases, not of precious metal or of metal clad with precious metal",91119050,91119050,1.0,1,1,1
+"Bitumen and asphalt, natural; asphaltites and asphaltic rocks",27149000,27149000,1.0000001192092896,1,1,1
+"Bleached plain weave fabrics of cotton, under 85% cotton wt., mixed mainly with man-made fibers, not over 200 g/m2, of numbers 43 to 68",52102160,52102160,0.9866854548454284,1,1,1
+"Bleached woven fabrics of cotton, nesi, containing 85% or more of cotton by weight, weighing not more than 200 g/m2, of numbers 43 to 68",52082960,52082960,0.9487524032592772,1,1,1
+Blow-molding machines for working rubber or plastics or for the manufacture of products from these materials,84773000,84773000,1.0000001192092896,1,1,1
+"Bodies (including cabs), for the vehicles of heading 8703",87071000,87079050,0.8428856134414673,1,1,0
+"Bolting cloth nesi, of silk, whether or not made up",59112020,59112020,0.934134304523468,1,1,1
+Bone black,38029010,38029010,1.0,1,1,1
+Boron carbide,28499010,28499010,0.9999996423721312,1,1,1
+"Bovine and equine leather, without hair on, nesi, full grains and grain splits, parchment-dressed or prepared after tanning, not fancy",41043160,41079970,0.9075794219970704,1,0,0
+"Brazil nuts, shelled or in shell, fresh or dried",8012000,8012100,0.9807037115097046,1,1,0
+"Breathing appliances, nesi, & gas masks, excl. protective masks having neither mechanical parts/replaceable filters, parts, accessories of",90200060,90200060,0.9865485429763794,1,1,1
+"Brewery machinery, nesi",84384000,84384000,0.9088791012763976,1,1,1
+"Brussels sprouts, fresh or chilled",7042000,7042000,1.000000238418579,1,1,1
+"Bucket type continuous-action elevators and conveyors, for goods or materials",84283200,84283200,1.0000001192092896,1,1,1
+"Bumpers and parts thereof, for the motor vehicles of headings 8701 to 8705",87081000,87081060,0.8445969820022583,1,1,1
+Butt welding tube or pipe fittings of stainless steel,73072300,73072300,0.9153276085853576,1,1,1
+Butylene oxide,29109010,29109010,1.0,1,1,1
+Cab chassis of dumpers designed for off-highway use,87041010,87041010,0.8605380654335022,1,1,1
+"Candles, tapers and the like",34060000,34060000,1.0000004768371582,1,1,1
+Cane molasses nesi,17031050,17031050,0.930285096168518,1,1,1
+"Cane/beet sugar, refined, containing added flavoring matter, whether or not containing added coloring matter, in solid form",17019140,17019905,0.8558299541473389,1,1,0
+"Canoes, not of a type designed to be principally used with motor or sails",89039905,39269030,0.6594856977462769,0,0,0
+"Cans for any material (except compressed or liquefied gas),of iron or steel, not to be closed by soldering or crimping, cap. under 50 liters",73102900,73102900,0.7802139520645142,1,1,1
+Carbon brushes of a kind used for electrical purposes,85452000,85452000,1.0000001192092896,1,1,1
+Carbon electrodes of a kind used for furnaces,85451100,85451100,1.0,1,1,1
+Carbonates nesi and peroxocarbonates (percarbonates),28369950,28369950,0.9463978409767152,1,1,1
+"Carboxymethylcellulose and its salts, in primary forms",39123100,39123100,0.9662482738494872,1,1,1
+"Carcasses and half-carcasses of bovine animals, fresh or chilled",2011000,2041000,0.8602395057678223,1,0,0
+"Carcasses and half-carcasses of lamb, fresh or chilled",2041000,2041000,1.000000238418579,1,1,1
+"Carfecillin, sodium; cloxacillin, sodium; dicloxacillin, sodium; flucloxacillin (Floxacillin); and oxacillin, sodium",29411030,29411030,1.000000238418579,1,1,1
+"Carpet tiles of felt, not tufted or flocked, whether or not made up, having a maximum surface area of 0.3 m2",57041000,57041000,1.000000238418579,1,1,1
+"Cartridges and parts thereof, nesi",93063080,93063080,0.8427597284317017,1,1,1
+"Casein, milk protein concentrate",35011010,35011010,1.000000238418579,1,1,1
+Cassava (manioc) starch,11081400,11081400,0.9999998211860656,1,1,1
+Cast fittings of nonmalleable cast iron,73071100,73071100,0.8060480356216431,1,1,1
+"Catalysts in the form of wire cloth or grill, of platinum",71151000,71151000,0.9900972247123718,1,1,1
+Cathodes and sections of cathodes of refined copper,74031100,74031100,0.9818497896194458,1,1,1
+"Cauliflower and headed broccoli, fresh or chilled, reduced in size, if entered Oct. 16 through June 4, inclusive",7041060,7041060,1.0,1,1,1
+Caulking guns of iron or steel,82055945,82055945,0.92066490650177,1,1,1
+"Centrifugal pumps for liquids, not fitted with a measuring device, nesi",84137020,84137020,0.9587647914886476,1,1,1
+"Ceramic articles, nesi, of porcelain or china",69141000,69139050,0.8764464855194092,1,0,0
+"Ceramic building bricks, non refractory",69041000,69041000,0.94908344745636,1,1,1
+"Ceramic household table and kitchenware, in specified sets as listed in add. note 8(b), valued over $38, not of porcelain or china",69120039,69120039,0.8668794631958008,1,1,1
+"Ceramic insulators to be used in the production of spark plugs for natural gas fueled, stationary, internal-combustion engines",85471040,85471040,1.0,1,1,1
+Chain sprockets and parts thereof,84839010,84839010,1.0000004768371582,1,1,1
+"Chassis fitted with engines, for the vehicles of heading 8703",87060015,87060025,0.8910356163978577,1,1,1
+"Check valves of copper for pipes, boiler shells, tanks, vats or the like",84813010,84813010,1.0,1,1,1
+"Chemical derivatives of natural rubber, nesi, in primary forms",39139010,39139010,0.9441860914230348,1,1,1
+"Chemical mixtures nesi, of two or more inorganic compounds, of mercury",38239033,38249939,0.744557797908783,1,0,0
+"Chickpeas (garbanzos), fresh or chilled, shelled or unshelled",7089005,7089005,1.0000003576278689,1,1,1
+"Children's picture, drawing or coloring books",49030000,49030000,0.9999998211860656,1,1,1
+Chromium waste and scrap,81122030,81122200,1.0,1,1,0
+"Cigarettes containing tobacco, nesi",24022090,24022090,0.9356365203857422,1,1,1
+"Cigars, cheroots and cigarillos and cigarettes of tobacco substitutes",24029000,24029000,0.9999997615814208,1,1,1
+"Circular knitting machines with cylinder diameter not exceeding 165 mm, for knitting hosiery",84471110,84471110,0.9999996423721312,1,1,1
+"Citrus fruit, paste and puree being cooked preparations",20079110,20079110,0.982746422290802,1,1,1
+"Citrus fruit, provisionally preserved, but unsuitable in that state for immediate consumption",8129020,8129020,1.0,1,1,1
+"Clock movements nesi, complete and assembled, battery or AC powered, measuring over 50 mm wide, valued over $5 each",91091960,91091070,0.8440006971359253,1,1,0
+"Clothing accessories, not knitted or crocheted, nesi",62171000,61112060,0.7589559555053711,0,0,0
+"Clothing, clothing accessories and headgear of asbestos",68125050,68129190,0.9063526391983032,1,1,0
+"Coated multi-ply paper and paperboard, nesi, weighing more than 150 g/m 2, in rolls or sheets",48109120,48044900,0.859747052192688,1,0,0
+"Coffee, not roasted, not decaffeinated",9011100,9011100,1.000000238418579,1,1,1
+"Collections and collectors' pieces of zoological, botanical, mineralogical, anatomical, historical, archaeological etc. interest",97050000,97052900,0.9123408794403076,1,1,0
+Colloidal precious metals,28431000,28431000,0.9999999403953552,1,1,1
+"Coloring preparations based on iron oxides, as specified in note 3 to this chapter 32",32064920,32064920,1.000000238418579,1,1,1
+"Columns, pillars, posts, beams and girders of iron or steel, not in part of alloy steel",73089030,73089030,0.9324048161506652,1,1,1
+"Combs, not of hard rubber or plastics, valued over $4.50 per gross",96151940,96151940,1.0000003576278689,1,1,1
+Communication satellites,88025030,88026030,1.0000004768371582,1,1,0
+"Complex cyanides, excluding potassium ferricyanide",28372050,28372051,1.000000238418579,1,1,1
+"Compound alcoholic preparations of a kind used for the manufacture of beverages, containing not over 20 percent of alcohol by weight",22081030,21069018,0.9642319679260254,0,0,0
+Compression-ignition internal-combustion piston engines to be installed in tractors suitable for agricultural use,84082010,84082010,1.0,1,1,1
+"Compression-ignition internal-combustion piston engines, for machinery or equipment, nesi",84089090,84089090,0.9527816772460938,1,1,1
+"Coniferous wood dowel rods, plain, continuously shaped along any of its edges or faces",44091060,44091060,0.970451593399048,1,1,1
+"Coniferous wood in the rough, whether or not stripped of bark or sapwood or roughly squared, not treated with preservatives",44032000,44031100,0.9943068027496338,1,1,0
+"Continuous-action elevators and conveyors, for goods or materials, nesi",84283900,84283900,0.9478389024734496,1,1,1
+"Conveyor or transmission belts or belting of vulcanized rubber nesi, n/o 20 cm wide, combined predominately with vegetable fibers",40109911,40101991,0.863037645816803,1,1,0
+"Conveyor or transmission belts or belting, of vulcanized rubber, nesi, over 20 cm wide, combined with textile materials nesi",40109119,40103990,0.8915863037109375,1,1,0
+"Copper foil, of a thickness not exceeding 0.15 mm, backed, of refined copper",74102160,74101100,0.941226065158844,1,1,0
+Copper waste and scrap,74040000,74040060,0.8660147190093994,1,1,1
+"Coral, cut but not set, and cameos, suitable for use in jewelry",96019040,96019040,0.9999996423721312,1,1,1
+"Cored wire of base metal, for electric arc-welding",83112000,83112000,0.9759451150894164,1,1,1
+"Corks and stoppers of natural cork, tapered & of a thickness (or length) greater than the maximum diam.,over 19 mm maximum diam., nesi",45031040,45031040,0.9893672466278076,1,1,1
+"Corks and stoppers of natural cork, tapered and of a thickness (or length) greater than the maximum diameter, n/o 19 mm maximum diameter",45031020,45031020,1.000000238418579,1,1,1
+"Corks and stoppers wholly of natural cork,tapered & of a thickness (or length) greater than the maximum diam.,over 19 mm maximum diam.",45031030,45031030,0.9999997615814208,1,1,1
+"Cotterless-type crank sets, and parts thereof, of vehicles of headings 8711-8713, nesi",87149650,87149650,0.775638997554779,1,1,1
+"Cotton sewing thread, containing 85 percent or more by weight of cotton, not put up for retail sale",52041100,52041100,0.9999998807907104,1,1,1
+Cows imported specially for dairy purposes,1029020,1022920,1.0,1,1,0
+"Crowbars, track tools and wedges, and parts thereof, of base metal",82055930,82055930,0.9800885915756226,1,1,1
+"Crown corks (including crown seals and caps), and parts thereof, of base metal",83091000,83091000,0.9861164093017578,1,1,1
+Crude mica and mica rifted into sheets or splittings,25251000,25251000,0.8864614963531494,1,1,1
+"Curtains and drapes, incl. panels and valances, napkins, table covers, mats, scarves, runners, doilies, and like furnishings, of plastics",39249010,39249010,1.0,1,1,1
+"Cut flowers and flower buds suitable for bouquets or ornamental purposes, fresh cut, nesi",6031080,6039000,0.8786172270774841,1,1,0
+"DC motors nesi, of an output exceeding 37.5 W but not exceeding 74.6 W",85013120,85013120,0.9352455139160156,1,1,1
+Decolorizing earths and fuller's earth,25082000,38029020,0.5984671115875244,0,0,0
+Dehydrated marigolds,23089050,23080095,0.8172117471694946,1,1,0
+"Drawing and marking-out instruments nesi, (for example, pantographs, protractors and drawing sets)",90172080,90172080,0.7789049744606018,1,1,1
+Drawing or roving machines for preparing textile fibers,84451300,84451300,0.9999999403953552,1,1,1
+"Dried vegetables nesi, and mixtures of dried vegetables, whole, cut, sliced, broken or in powder",7129080,7129085,0.9364449977874756,1,1,1
+"Drilling, threading or tapping tools, and parts thereof, of base metal",82051000,82051000,0.9704318046569824,1,1,1
+"Drugs of amino-naphthols and -phenols, their ethers and esters, except those cont. more than one oxygen function; salts thereof, nesi",29222927,29222927,0.937314748764038,1,1,1
+Drugs of aromatic organo-inorganic (except organo-sulfur) compounds,29310022,29319022,0.955059051513672,1,1,0
+Dryers for wood,84193210,84193510,0.7404356002807617,1,1,0
+"Dyed plain weave certified hand-loomed fabrics of cotton, cont. 85% or more cotton by weight, weighing over 100 g/m2 but not over 200 g/m2",52083210,52083210,1.0000001192092896,1,1,1
+"Dyed plain weave fabrics of cotton, containing 85% or more cotton by weight, weighing not more than 100 g/m2, of number 42 or lower, nesi",52083140,52083140,0.9777888655662536,1,1,1
+"Edible offal of sheep, goats, horses, asses, mules or hinnies, frozen",2069000,2069000,1.0,1,1,1
+"Egg yolks, dried, whether or not containing added sweeteners",4081100,4081100,1.0,1,1,1
+"Electric generating sets with compression-ignition internal-combustion piston engines, of an output exceeding 375 kVA",85021300,85021300,1.000000238418579,1,1,1
+Electric motors of an output of 18.65 W or more but not exceeding 37.5 W,85011060,85011060,1.0,1,1,1
+Electric soldering irons and guns,85151100,85151100,0.9999998211860656,1,1,1
+"Electrical filament lamps nesi, designed for a voltage not exceeding 100 V, excluding ultraviolet and infrared lamps",85392930,85392930,0.9247159957885742,1,1,1
+"Electrical filament lamps, voltage not exceeding 100 V, having glass envelopes n/o 6.35 mm in diameter, suitable in surgical instruments",85392920,85392920,1.000000238418579,1,1,1
+"Electrical instruments and apparatus for measuring or checking variables of liquids or gases, nesi",90268020,90268020,0.9468024969100952,1,1,1
+Electrical levels,90153040,90153040,1.000000238418579,1,1,1
+Electrical particle accelerators,85431000,85431000,1.0000004768371582,1,1,1
+"Electromechanical appliances with self-contained electric motor, nesi",84798960,84798965,0.9350587129592896,1,1,1
+"Electromechanical drills of all kinds for working in the hand, with self-contained electric motor",85081000,84672100,0.9999998807907104,0,0,0
+"Electromechanical saws for working in the hand, with self-contained electric motor",85082000,84672200,0.999999463558197,0,0,0
+"Electronic calculating machines, incorporating a printing device, nesi",84702100,84702100,0.9377261996269226,1,1,1
+Electronic key telephonic switching system,85173025,85183010,0.5249558091163635,1,0,0
+"Engines and motors, nesi (excluding motors of heading 8501)",84128090,84128090,0.9107909202575684,1,1,1
+Essential oils of lavender or of lavandin,33012300,33012910,0.6504207849502563,1,1,0
+Ethane and butane,29011010,29011010,0.7035639882087708,1,1,1
+"Ether-phenols, ether-alcohol-phenols & their halogenated, sulfonated, nitrated, nitrosated derivatives nesi, in add. U.S. note 3 to sec. VI",29095045,29095045,0.9779637455940248,1,1,1
+Ethylene,29012100,29012100,0.9999998807907104,1,1,1
+Exercise books of paper or paperboard,48202000,48202000,1.0000003576278689,1,1,1
+Eye make-up preparations,33042000,33042000,0.9999997019767758,1,1,1
+"Fabrics specified in note 9 to section XI, of synthetic filament yarn, nesi",54073090,54073090,0.9370579719543456,1,1,1
+"Fancy retail beef cuts, frozen, boneless",2023020,2022002,0.7519898414611816,1,1,0
+"Fast color bases and fast color salts, of sulfonamides",29350020,29359020,0.9652782678604126,1,1,0
+"Fatty livers of geese or ducks, fresh or chilled",2073100,2075300,0.9712634086608888,1,1,0
+"Felt, excluding needleloom felt and stitch-bonded fiber fabrics, not impregnated, coated, covered or laminated, of wool or fine animal hair",56022100,56022100,0.9999998807907104,1,1,1
+"Felt, impregnated, coated or covered, nesi",56029090,56029090,0.9485704898834229,1,1,1
+Ferromanganese containing by weight more than 1 percent but not more than 2 percent of carbon,72021950,72021950,0.9999994039535522,1,1,1
+"Ferrosilicon containing by weight more than 55% but not more than 80% of silicon, nesi",72022150,72022150,0.9622631072998048,1,1,1
+Ferrosilicon manganese,72023000,72023000,1.000000238418579,1,1,1
+Ferrotitanium and ferrosilicon titanium,72029100,72029100,1.0000001192092896,1,1,1
+Ferrous products obtained by direct reduction of iron ore,72031000,72031000,1.0000005960464478,1,1,1
+Ferrous waste and scrap nesi,72044900,72044900,0.9157800674438475,1,1,1
+"Fiberboard of a density 0.35 g/cm3 or less, not mechanically worked or surface covered",44119100,44119210,0.965632438659668,1,1,0
+"Files, rasps and similar tools, over 11 cm but not over 17 cm in length, of base metal",82031060,82031090,0.7840227484703064,1,1,1
+"Filter blocks, slabs and plates of paper pulp",48120000,48120000,1.000000238418579,1,1,1
+"Finishing agents, dye carriers and like products, nesi, used in the textile industry",38099100,38099100,0.9397202730178832,1,1,1
+"Finishing agents, dye carriers and like products, nesi, with a basis of amylaceous substances",38091000,38091000,0.9596936702728271,1,1,1
+"Fish balls, cakes and puddings, not in oil, and in immediate nonairtight containers weighing with their contents not over 6.8 kg each",16042025,16042025,0.9999996423721312,1,1,1
+"Fish hooks, not snelled",95072080,95072080,0.9999998211860656,1,1,1
+"Fish hooks, snelled",95072040,95072040,0.9999997615814208,1,1,1
+Fishing baskets or creels made from vegetable materials,46021005,46021905,0.9999996423721312,1,1,0
+Fishing reels valued not over $2.70 each,95073020,95073020,0.9807218909263612,1,1,1
+"Fishing rods, and parts and accessories thereof",95071000,95071000,0.9943908452987672,1,1,1
+Flakes of potatoes,11052000,11052000,0.8461211919784546,1,1,1
+"Flat-rolled high-strength nonalloy steel in coils, hot-rolled, not clad, plated or coated, 3 mm but under 4.75 mm thick, not pickled",72081350,72082530,0.9484767913818359,1,1,0
+"Flat-rolled high-strength nonalloy steel products, in coils, cold-rolled, not clad, plated or coated, 3 mm or more thick",72091100,72091815,0.9397855997085572,1,1,0
+"Flat-rolled high-strength nonalloy steel products, in coils, cold-rolled, not clad, plated or coated, over 1 mm but under 3 mm thick",72091200,72091815,0.9451049566268921,1,1,0
+"Flat-rolled iron or nonalloy steel in coils, hot-rolled, not clad, plated or coated, nesi, less than 3 mm thick, not pickled",72082450,72082560,0.9225702285766602,1,1,0
+"Flat-rolled iron or nonalloy steel in coils, hot-rolled, not clad, plated or coated, nesi, less than 3 mm thick, pickled",72082410,72082700,0.9209749698638916,1,1,0
+"Flat-rolled iron or nonalloy steel products nesi, hot-rolled, not clad, plated or coated, 4.75 mm or more but n/o 10 mm thick",72084300,72111400,0.8472575545310974,1,0,0
+"Flat-rolled iron or nonalloy steel products,in coils,cold-rolled,not clad,plated or coated,nes,less than 0.5 mm but not less than 0.361 mm",72092450,72092800,0.8861591815948486,1,1,0
+"Flat-rolled iron/nonalloy steel products, nesi, under 300mm wide, hot-rolled, not clad, plated or coated, over 1.25mm but n/o 4.75mm thick",72112910,72111400,0.8644291162490845,1,1,0
+"Flat-rolled products of alloy steel nesi, of a width of 300 mm but less than 600 m, cold-rolled",72269250,72269901,0.8160341382026672,1,1,0
+"Flat-rolled products of alloy steel nesi, of a width of less than 600 mm",72269900,72269901,0.7719982862472534,1,1,1
+"Flat-rolled products of heat-resisting steel, of a width of 600 mm or more, cold-rolled, less than 4.75 mm thick",72255070,72255070,0.9306901693344116,1,1,1
+"Flat-rolled products of stainless steel, of a width less than 300 mm, cold-rolled, over 1.25 mm thick",72202060,72193500,0.9146221876144408,1,0,0
+"Flat-rolled products of stainless steel, of a width less than 600 mm, hot-rolled, 4.75 mm or more thick",72201100,72193500,0.9200439453125,1,0,0
+"Flat-rolled products of stainless steel, of a width of 600 mm or more, hot-rolled, in coils, less than 3 mm thick",72191400,72192400,0.92411470413208,1,1,0
+Floor coverings of agglomerated cork,45041030,45041030,1.0000001192092896,1,1,1
+Fluorine,28013010,28013010,1.0,1,1,1
+"Folding cartons, boxes and cases of noncorrugated paper or paperboard",48192000,48192000,1.000000238418579,1,1,1
+"Folic acid and its derivatives, unmixed",29362910,29362910,0.9999998807907104,1,1,1
+"Footwear having certain specified soles of rubber or plastics and uppers of textile materials, valued not over $3/pair",64041940,64029979,0.8248822689056396,1,0,0
+"Footwear having certain specified soles of rubber or plastics and uppers of textile materials, valued over $3 but not over $6.50/pair",64041960,64029170,0.8600151538848877,1,0,0
+"Footwear nesi, covering the ankle, uppers of which over 90% of surface area is rubber or plastics, with outer soles of rubber or plastics",64029140,64029150,0.8593556880950928,1,1,1
+"Footwear nesi, covering the ankle, with outer soles and uppers of rubber or plastics, valued over $6.50 but not over $12/pair",64029180,64029190,0.9247094392776488,1,1,1
+"Footwear nesi, with a protective metal toe-cap, with outer soles and uppers of rubber or plastics, valued over $6.50 but not over $12/pair",64023080,64021970,0.8689547777175903,1,1,0
+"Footwear nesi, with outer soles and uppers of rubber or plastics, designed to be worn as protection",64029920,64029150,0.8791989088058472,1,1,0
+"Footwear nesi, with outer soles and uppers of rubber or plastics, valued over $3 but not over $6.50/pair",64029970,64021950,0.921851634979248,1,1,0
+"Footwear with open toes or open heels or of the slip-on type, less than 10% rubber or plastics by weight, with uppers of fiber, nesi",64041930,64029949,0.8845515251159668,1,0,0
+"Footwear with outer soles of rubber or plastics and uppers of textile materials, nesi, valued over $6.50 but not over $12/pair",64041980,64029170,0.9244076013565063,1,0,0
+"Footwear with uppers of leather, made on a base or platform of wood, not having an inner sole or a protective metal toe-cap",64033000,64035910,0.9234005212783812,1,1,0
+"Footwear, nesi, with uppers of leather or composition leather",64051000,64042060,0.8864266872406006,1,0,0
+"Forks of base metal with stainless steel handles containing nickel or over 10% by weight manganese, nesi",82159905,82159905,0.8268229365348816,1,1,1
+Forks with silver handles,71141120,71141120,0.8386297225952148,1,1,1
+"Formed footwear uppers of textile materials, of which over 50 percent of external surface is leather",64061020,64061020,0.96052348613739,1,1,1
+"Frames and mountings, of plastics, for spectacles, goggles or the like",90031100,90031100,1.000000238418579,1,1,1
+"Fresh yams, whether or not sliced or in the form of pellets",7149020,7143010,0.8933197259902954,1,1,0
+"Fulminates, cyanates and thiocyanates",28380000,28429010,0.9999999403953552,1,0,0
+"Fungicides, nesi, containing an inorganic substance, put up for retail sale",38082030,38089230,0.9469295144081116,1,1,0
+"Garments nesi, knitted or crocheted, of textile materials nesi",61149000,61142000,0.8460774421691895,1,1,0
+"Garments, not knitted or crocheted, made up of fabrics of heading 5602 or 5603 formed on a base of paper or covered or lined with paper",62101020,62101020,1.0000003576278689,1,1,1
+Garnetted stock of wool or of fine or coarse animal hair,51040000,51040000,1.000000238418579,1,1,1
+"Ginger root, preserved by sugar (drained, glace or crystallized)",20060030,20060030,1.0000001192092896,1,1,1
+"Glass lenses and filters, and parts thereof, for signaling purposes, not optically worked",70140030,70140030,0.9780248403549194,1,1,1
+"Glass mirrors, unframed, over 929 cm2 in reflecting area",70099150,70099150,0.95971018075943,1,1,1
+Glass wool insulation products,70193910,70198010,0.9757676124572754,1,1,0
+"Glassware nesi, used for table or kitchen purposes (except drinking glasses), valued over $3 but n/o $5 each, not cut or engraved",70133950,70134960,0.9169803857803344,1,1,0
+"Glassware nesi, used for table or kitchen purposes (except drinking glasses), valued over $5 each, cut or engraved",70133940,70134940,0.906326174736023,1,1,0
+"Gloves, mittens and mitts of leather or composition leather, nesi, not seamed",42032920,42032920,0.9758667945861816,1,1,1
+"Gloves, mittens and mitts, knitted or crocheted, of cotton, nesi",61169230,62160080,0.904674768447876,0,0,0
+Gold compounds,28433000,28433000,1.0,1,1,1
+"Gold leaf, nonmonetary",71081310,71081310,0.8424277305603027,1,1,1
+"Grape brandy, excluding pisco and singani, in containers over 4 liters, over $2.38/liter",22082060,22082060,1.000000238418579,1,1,1
+Groats and meal of rice,11031400,11031914,1.0,1,1,0
+Ground flying trainers and parts thereof,88052000,88052900,0.8640215992927551,1,1,0
+Guaiacol and its derivatives,29095020,29095020,1.0,1,1,1
+"Hair-nets of any material, whether or not lined or trimmed",65051000,65050001,1.0,1,1,0
+"Halogenated, sulfonated, nitrated or nitrosated derivatives of monohydric alcohols",29055010,29055910,1.000000238418579,1,1,0
+Hand-held blow torches,84681000,84681000,1.0000004768371582,1,1,1
+"Hand-made lace, in the piece, in strips or in motifs",58043000,58043000,0.9273250102996826,1,1,1
+Handmade paper and paperboard,48021000,48021000,1.0000001192092896,1,1,1
+"Harness and saddlery or riding-bridle hardware, and parts thereof, of base metal coated or plated with precious metal",83024920,83024920,0.9253580570220948,1,1,1
+"Harvesting machinery or threshing machinery, nesi",84335900,84335900,0.9425302147865297,1,1,1
+"Hat forms, hat bodies and hoods, neither blocked to shape nor with made brims, and plateaux and manchons, of fur felt, for men or boys",65010030,65010060,0.9696640968322754,1,1,1
+Heavy water (Deuterium oxide),28451000,28451000,0.9999995827674866,1,1,1
+Hectographic or stencil duplicating machines,84721000,84721000,1.000000238418579,1,1,1
+"Hedge shears, two-handed pruning shears and similar two-handed shears, and parts thereof, of base metal",82016000,82016000,0.983987271785736,1,1,1
+"Heterocyclic compounds containing a phenothiazine ring-system (whether or not hydrogenated), not further fused, nesi",29343050,29343050,0.9693343639373779,1,1,1
+"Heterocyclic compounds nesi, with nitrogen hetero-atom(s) only, containing an unfused pyridine ring",29333950,29333992,0.9281183481216432,1,1,1
+"Heterocyclic drug compounds with nitrogen hetero-atom(s) only, containing a quinoline or isoquinoline ring-system, not further fused, nesi",29334025,29334970,0.8662993907928467,1,1,0
+"Hop cones, fresh or dried, ground, powdered or in the form of pellets; lupulin",12102000,12102000,1.0,1,1,1
+"Horizontal lathes for removing metal, numerically controlled",84581100,84581100,0.9270606637001038,1,1,1
+"Hydraulic brake fluids and transmission fluids cont. less than 70% by weight of petroleum oils, or bituminus mineral oils",38190000,38190000,0.9935216903686525,1,1,1
+Hydraulic lime,25223000,25223000,0.8004306554794312,1,1,1
+Hydrogen chloride (Hydrochloric acid),28061000,28061000,0.9999999403953552,1,1,1
+Ibuprofen,29163915,29163915,1.0,1,1,1
+Inactive yeasts (except dried brewers' yeast),21022020,21022020,1.0000003576278689,1,1,1
+Incomplete clock movements consisting of 2 or more pieces or parts fastened or joined together,91109040,91109040,1.0000001192092896,1,1,1
+India ink drawing pens,96083100,32159010,0.7756575345993042,0,0,0
+Indicator panels incorporating liquid crystal devices (LCD's) or light emitting diodes (LED's),85312000,85312000,1.0,1,1,1
+Industrial monocarboxylic fatty acids nesi,15191940,38231940,0.7707654237747192,0,0,0
+Inedible gelatin and animal glue valued of 88 cents per kg or more,35030040,35030040,0.9963494539260864,1,1,1
+"Inflatable vessels, row boats and canoes for pleasure or sports",89031000,89039991,0.7127619981765747,1,1,0
+"Instant print film in the flat, sensitized, unexposed, whether or not in packs",37012000,37012000,1.0,1,1,1
+"Instrument panel clocks for vehicles, air/spacecraft, vessels, w/clock movement over 50 mm wide, valued n/o $10 each, nonelectric",91040020,91040020,0.9999998211860656,1,1,1
+"Interchangeable tools for tapping or threading nesi, and parts thereof, of base metal",82074060,82074060,0.942388653755188,1,1,1
+Iron oxides and hydroxides,28211000,28211000,1.0,1,1,1
+Ironing machines and presses (including fusing presses) for textile fabrics or made up textile articles,84513000,84513000,0.9999998807907104,1,1,1
+Isobutanal,29121940,29121940,1.0000001192092896,1,1,1
+Isoprene less than 95 percent pure,29012450,29012450,1.000000238418579,1,1,1
+"Ivory, ivory powder and waste",5071000,5071000,0.9999996423721312,1,1,1
+Keyboard pipe organs,92030040,92059012,0.6947267651557922,1,0,0
+"Knitted or crocheted fabrics of man-made fibers, nesi",60029300,61143030,0.8968729972839355,0,0,0
+"Knives and cutting blades for machines or for mechanical appliances nesi, and parts thereof, of base metal",82089060,82089060,0.894967257976532,1,1,1
+"Knotted netting of twine, cordage or rope, excluding fish netting and nets, of cotton",56089020,56089030,0.8792756795883179,1,1,1
+"Lampholders for a voltage not exceeding 1,000 V",85366100,85366100,1.0000001192092896,1,1,1
+"Lavatory seats and covers, of plastics",39222000,39222000,0.9999998807907104,1,1,1
+Lead ores and concentrates,26070000,26070000,1.0,1,1,1
+"Lead plates, sheets, strip and foil, nesi",78041900,78041900,0.8855791091918945,1,1,1
+"Lead tubes, pipes and tube or pipe fittings (for example, couplings, elbows, sleeves)",78050000,78060005,0.9234246015548706,1,0,0
+Leather upholstered seats of a kind used for aircraft,94011040,94011040,0.9645907282829284,1,1,1
+"Light-weight coated paper for graphic use, consisting of more than 10% fiber content obtained by a mechanical process, in rolls or sheets",48102100,48102210,0.9251800179481506,1,1,0
+"Lightning arrestors, voltage limiters and surge suppressors, for a voltage exceeding 1,000 V",85354000,85354000,1.000000238418579,1,1,1
+"Lily of the valley pips, dormant",6011085,6011085,1.0000001192092896,1,1,1
+"Liquid lusters and similar preparations, of a kind used in the ceramic, enamelling or glass industry",32073000,32073000,0.9741318225860596,1,1,1
+"Liquid supply or production meters, including calibrating meters thereof",90282000,90282000,1.000000238418579,1,1,1
+Lithium oxide and hydroxide,28252000,28252000,1.0,1,1,1
+"Lubricating greases, except those containing not over 10 percent by weight of salts of fatty acids of animal or vegetable origin",27100040,27101935,0.8585752248764038,1,1,0
+Lubricating preparations containing less than 50% by weight of petroleum oils or of oils from bituminous minerals,34031950,34031950,1.0000008344650269,1,1,1
+"Luggage, handbags and flat goods, whether or not lined, made from plaiting materials nesi",46021029,46021929,0.9437636733055116,1,1,0
+"Luggage, handbags and flat goods, whether or not lined, of willow",46021022,46021922,1.0000001192092896,1,1,0
+"Machine tools (including nonhydraulic presses) for working metal or metal carbides, nesi",84629900,84639000,0.7799793481826782,1,0,0
+"Machinery and apparatus for isotopic separation, and parts thereof",84012000,84012000,1.0000003576278689,1,1,1
+"Machinery for working earth, minerals or ores, not self-propelled, nesi",84306900,84306901,0.959194540977478,1,1,1
+"Machinery, apparatus and equipment of heading 8442, nesi",84423000,84423001,0.8874680995941162,1,1,1
+"Machines for reeling, unreeling, folding, cutting or pinking textile fabrics",84515000,84515000,0.9999996423721312,1,1,1
+"Mandarins (including tangerines and satsumas); clementines, wilkings and similar citrus hybrids, fresh or dried",8052000,8052100,0.8765318393707275,1,1,0
+"Master alloys of copper, not containing by weight 5% or more but not more than 15% of phosphorus",74050060,74050060,0.9738787412643432,1,1,1
+"Materials containing over 10 percent nickel, not provided for elsewhere in heading 2620",26209030,26209930,0.8251971602439879,1,1,0
+"Meat and edible offal of chickens, ducks, geese, turkeys and guineas, salted, in brine, dried or smoked; flour and meal of these animals",2109020,2109920,0.7654922604560852,1,1,0
+"Meat and edible offal of deer, fresh, chilled or frozen",2089020,2089020,1.0000003576278689,1,1,1
+"Meat of bovine animals, salted, in brine, dried or smoked",2102000,2102000,0.9999995827674866,1,1,1
+"Meat of swine, nesi, non retail cuts, fresh or chilled",2031940,2031940,0.9677481651306152,1,1,1
+"Medicaments containing antibiotics, nesi, in dosage form or packed for retail",30042000,30042000,0.9554153084754944,1,1,1
+"Medicaments containing antibiotics, nesi, not dosage form and not packaged for retail",30032000,30032000,0.956518292427063,1,1,1
+"Men's or boy's overcoat,etc.,knitted or crocheted, of manmade fibers, containing 23% or more wool or fine animal hair, nesi",61013015,61013015,0.9701961278915404,1,1,1
+"Men's or boys' anoraks, etc, nesi, not knitted or crocheted, of manmade fibers, containing 36 percent or more of wool or fine animal hair",62019325,62014065,0.9204134941101074,1,1,0
+"Men's or boys' bib and brace overalls, knitted or crocheted, of cotton",61034220,61034220,1.000000238418579,1,1,1
+"Men's or boys' bib and brace overalls, not knitted or crocheted, of artificial fibers",62034910,61034920,0.9845144748687744,0,0,0
+"Men's or boys' bib and brace overalls, not knitted or crocheted, of wool or fine animal hair",62034120,61034120,0.9775104522705078,0,0,0
+"Men's or boys' overcoats, carcoats, capes, & like coats of man-made fibers, not knit or crocheted, cont. 15% or more by wt of down, etc",62011310,62014010,0.9954546689987184,1,1,0
+"Men's or boys' overcoats, carcoats, capes, cloaks, anoraks, windbreakers and similar articles, knitted or crocheted, of cotton",61012000,61012000,0.9999999403953552,1,1,1
+"Men's or boys' shirts, not knitted or crocheted, of manmade fibers, certified hand-loomed and folklore products",62053010,62053010,1.0000003576278689,1,1,1
+"Men's or boys' shirts, not knitted or crocheted, of textile materials, nesi",62059040,62059040,0.9708937406539916,1,1,1
+"Men's or boys' ski-suits, not knitted or crocheted, water resistant, not containing 15% or more by weight of down, etc",62112015,62112015,1.0,1,1,1
+"Men's or boys' suit-type jackets and blazers, knitted or crocheted, of cotton",61033200,61033200,1.000000238418579,1,1,1
+"Men's or boys' suit-type jackets and blazers, knitted or crocheted, of wool or fine animal hair",61033100,61033100,1.0000004768371582,1,1,1
+"Men's or boys' suits, of synthetic fibers, not knitted or crocheted, containing 36 percent or more by weight of wool or fine animal hair",62031210,62031210,0.9999999403953552,1,1,1
+"Men's or boys' swimwear, knitted or crocheted, of synthetic fibers",61123100,61123100,1.0,1,1,1
+"Men's or boys' trousers, breeches and shorts, knitted or crocheted, of cotton",61034210,61034210,1.000000238418579,1,1,1
+Metal ores and concentrates nesi,26179000,26179000,0.8878810405731201,1,1,1
+Methanol (Methyl alcohol) imported only for use in producing synthetic natural gas (SNG) or for direct use as a fuel,29051110,29051110,0.9999994039535522,1,1,1
+"Microscopes for microphotography, microcinematography or microprojection, provided with a means for photographing the image",90112040,90112040,0.9999998211860656,1,1,1
+"Mineral or chemical fertilizers nesi, containing the three fertilizing elements nitrogen, phosphorus and potassium",31052000,31052000,0.9436383247375488,1,1,1
+"Mineral or chemical fertilizers nesi, containing the two fertilizing elements nitrogen and phosphorus",31055900,31055900,0.9363138675689696,1,1,1
+"Mirrors, mounted, for optical uses",90029040,90029040,1.000000238418579,1,1,1
+"Mixed condiments and mixed seasonings, and sauces and preparations thereof, nesi",21039060,21039072,0.7715216875076294,1,1,1
+Mixed xylene isomers,29024400,29024400,1.0000003576278689,1,1,1
+"Mixtures containing polymers of 1,2-dihydro-2,2,4-trimethylquinoline average under 5 monomer units",38239022,38123100,0.7504256963729858,1,0,0
+"Mixtures of fruit juices, or of vegetable and fruit juices, unfermented and not containing added spirit",20099040,20099040,0.8595344424247742,1,1,1
+"Mixtures of vegetables nesi, uncooked or cooked by steaming or boiling in water, frozen",7109090,7109091,0.869658350944519,1,1,1
+"Models incorporating a motor, nesi",95038060,84128090,0.6686705350875854,0,0,0
+"Monafilament nesi, of plastics, excluding ethylene, vinyl chloride and acrylic polymers",39169030,39169030,0.9232812523841858,1,1,1
+"Monumental or building stone and articles thereof, of calcareous stone, nesi, simply cut or sawn, with a flat or even surface",68022200,68022910,0.9529832601547241,1,1,0
+"Mountings, fittings and similar articles nesi, and parts thereof, of base metal nesi",83024980,83024980,0.8085322380065918,1,1,1
+"Mountings, fittings and similar articles nesi, and parts thereof, of iron or steel, aluminum or zinc",83024960,83024960,0.8896995782852173,1,1,1
+"Mountings, fittings and similar articles nesi, suitable for motor vehicles, and parts thereof, of base metal, nesi",83023060,83023030,0.8148611783981323,1,1,1
+"Mowers for lawns, parks or sports grounds, nesi",84331900,84331900,0.9400697350502014,1,1,1
+Mullite,25086000,25086000,0.9999998807907104,1,1,1
+"Multiple or cabled cotton yarn, 85% or more cotton by weight, of combed fibers, yarn over 14 but n/o 43 nm, not put up for retail sale",52054200,52054200,1.000000238418579,1,1,1
+"Multiple or cabled cotton yarn, 85% or more cotton by weight, of uncombed fibers, n/o 14 nm per single yarn, not put up for retail sale",52053100,52053100,0.9999997615814208,1,1,1
+"Multiple or cabled cotton yarn, 85% or more cotton by weight, of uncombed fibers, yarn over 43 but n/o 52 nm, not put up for retail sale",52053300,52053300,1.0000005960464478,1,1,1
+N-Methyl-2-pyrrolidone; and 2-pyrrolidone,29337920,29337920,1.0,1,1,1
+"N-Vinyl-2-pyrrolidone, monomer",29337930,29337930,0.9999998807907104,1,1,1
+Natural camphor,29142110,29142930,1.000000238418579,1,1,0
+Natural graphite crystalline flake (not including flake dust),25041010,25041010,0.994474709033966,1,1,1
+"Natural or artificial abrasive powder or grain on a base of materials, nesi",68053050,68053050,0.8733825087547302,1,1,1
+"Natural silica and quartz sands, nesi",25051050,25051050,0.9504183530807496,1,1,1
+Natural uranium metal,28441010,28441010,0.9999999403953552,1,1,1
+"Needlecraft sets for making up, consisting of woven fabric and yarn, whether or not with accessories, put up in packings for retail sale",63080000,63080000,0.912910223007202,1,1,1
+Newspaper supplements printed by a gravure process,49029010,49029010,0.9999996423721312,1,1,1
+Nitrogen,28043000,28043000,1.0000001192092896,1,1,1
+Non-driving axles and parts thereof for vehicles of heading 8703,87086050,87085091,0.7942641973495483,1,1,0
+"Nonadhesive plates, sheets, film, foil and strip, cellular, of polymers of styrene",39211100,39211100,0.9999998807907104,1,1,1
+"Nonadhesive plates, sheets, film, foil and strip, cellular, of polyurethanes, combined with textile materials nesi",39211319,39211319,0.9736331105232242,1,1,1
+"Nonadhesive plates, sheets, film, foil and strip, cellular, of regenerated cellulose",39211400,39211400,1.000000238418579,1,1,1
+"Nonadhesive plates, sheets, film, foil and strip, nonflexible, nesi, of noncellular plastics",39219050,39219050,0.9699442982673644,1,1,1
+"Nonadhesive plates, sheets, film, foil and strip, of noncellular plastics combined with man-made fibers, over 1.492 kg/sq m",39219025,39219025,1.0000001192092896,1,1,1
+"Nonadhesive plates, sheets, film, foil and strip, of noncellular plastics combined with textile materials, nesi, not over 1.492 kg/sq m",39219019,39219019,0.9814457893371582,1,1,1
+"Nonadhesive plates, sheets, film, foil, strip, of noncellular plastics combined with man-made fibers, n/o 1.492 kg/sq m, n/o 70% plastics",39219015,39219015,1.000000238418579,1,1,1
+"Nonaromatic compounds of thiocarbamates and dithiocarbamates, nesi",29302050,29302090,0.8932374119758606,1,1,1
+"Nonaromatic cyclic amides (including cyclic carbamates) and their derivatives; salts thereof, nesi",29242950,29242995,0.9044165611267092,1,1,1
+"Nonaromatic derivatives of hydrocarbons containing only nitro or only nitroso groups, nesi",29042050,29042050,0.976659893989563,1,1,1
+"Nonaromatic drugs of heterocyclic compounds with nitrogen hetero-atom(s) only, nesi",29339048,29339990,0.966782569885254,1,1,0
+"Nonaromatic heterocyclic compounds with nitrogen hetero-atom(s) only, nesi",29339050,29339997,0.9600078463554382,1,1,0
+"Nonaromatic heterocyclic compounds with nitrogen hetro-atom(s) only, containing an unfused imidazole ring, nesi",29332950,29332945,0.9200378656387328,1,1,1
+Nonaromatic organo-sulfur compounds nesi,29309050,29309049,0.8599510192871094,1,1,1
+"Nonconiferous wood dowel rods, plain, continuously shaped along any of its edges or faces",44092060,44091060,0.9443731904029846,1,1,0
+"Nonelastomeric products specified in note 3 to Chap. 39, nesi",39119050,29359075,0.5417615175247192,0,0,0
+"Nonelectrical instruments and apparatus for physical or chemical analysis, measuring viscosity, or checking heat, sound or light, nesi",90278080,90278980,0.9738624691963196,1,1,0
+"Nonelectrical instruments and apparatus using optical radiations (ultraviolet, visible, infrared), nesi",90275080,90275080,0.9451470375061036,1,1,1
+"Nonelectrical spectrometers, spectrophotometers and spectrographs using optical radiations (ultraviolet, visible, infrared)",90273080,90273080,0.9999997019767758,1,1,1
+"Nongraphic, nonbleached kraft paper and paperboard, nesi, coated on side(s), in rolls or sheets",48103940,48103965,0.8687090277671814,1,1,1
+Noninflatable hollow balls not over 19 cm in diameter,95066940,95066940,0.8863823413848877,1,1,1
+"Nut oils, whether or not refined, not chemically modified",15159020,15159021,1.0,1,1,1
+"Oak wood, sawn or chipped lengthwise, sliced or peeled, over 6 mm thick",44079100,44079100,1.0,1,1,1
+"Objective lenses, nesi, mounted, and parts and accessories therefor, for cameras, projectors or photographic enlargers or reducers",90021180,90021900,0.9512674808502196,1,1,0
+"Odoriferous or flavoring compounds of aromatic monocarboxylic acids, their anhydrides, halides, peroxides, peroxyacids and derivatives",29163920,29163921,0.9999998211860656,1,1,1
+Oil or fuel filters for internal combustion engines,84212300,84212300,1.000000238418579,1,1,1
+Oleic acid,15191200,38231200,0.9999997615814208,0,0,0
+"Olives, fresh or chilled",7099035,7099200,0.9999998807907104,1,1,0
+"Onion sets, fresh or chilled",7031020,7031020,1.0,1,1,1
+Optical direction finding compasses,90141010,90141010,1.0000003576278689,1,1,1
+"Optical elements nesi, unmounted",90019090,90019090,0.9267070889472958,1,1,1
+"Optical telescopes, including monoculars",90058040,90058040,1.0,1,1,1
+"Origanum, crude or not manufactured",9109920,9109920,0.9999998807907104,1,1,1
+Paint filters and strainers of paper or paperboard,48232010,48232010,1.0000001192092896,1,1,1
+"Palladium, unwrought or in powder form",71102100,71102100,1.0,1,1,1
+"Paper and paperboard labels, not printed, nesi",48219040,48219040,0.9413719177246094,1,1,1
+"Paper and paperboard, in rolls or sheets, nesi",48089060,48089060,0.9600871801376344,1,1,1
+"Paper, millboard and felt of asbestos or of mixtures with a basis of asbestos or of asbestos and magnesium carbonate",68126000,68129910,0.8481835126876831,1,1,0
+"Paper, paperboard, cell. wadding & webs of cell. fibers all/partly covered with flock, gelatin, metal, metal solutions, rolls/sheets",48119020,48119020,0.8987467885017395,1,1,1
+Parings and similar waste of raw hides or skins; glue stock nesi,5119920,5119920,0.9472241401672364,1,1,1
+"Parts & accessories for apparatus & equipment for photographic (incl. cinematographic) labs, nesi, negatoscopes, & projection screens",90109080,90109095,0.9718504548072816,1,1,1
+Parts and accessories for hearing aids and for pacemakers for stimulating heart muscles,90219040,90219040,0.9999998807907104,1,1,1
+"Parts and accessories nesi, for machines of heading 8464",84669150,84669150,0.9321699738502502,1,1,1
+Parts and accessories of apparatus based on the use of X-rays,90229060,90229060,1.0000005960464478,1,1,1
+"Parts and accessories of articles of heading 9301 to 9304, nesi",93059060,93059960,0.921272873878479,1,1,0
+Parts and accessories of articles of subheading 9304.00.20 or 9304.00.40,93059050,93059950,0.9805333614349364,1,1,0
+Parts and accessories of automatic pilots for aeronautical or space navigation of subheading 9014.20.40,90149010,90149010,0.9999994039535522,1,1,1
+Parts and accessories of electrical instruments and apparatus of heading 9027,90279040,90279059,0.9032015800476074,1,1,1
+"Parts and accessories of nonelectrical flow meters, heat meters incorporating liquid supply meters and anemometers",90269040,90269040,1.0000001192092896,1,1,1
+"Parts and accessories of revolvers or pistols except of heading 9302, nesi",93051080,93051020,0.913406252861023,1,1,1
+Parts and accessories of rifles of heading 9301,93059010,93059110,0.9663743376731871,1,1,0
+Parts and accessories of stuffed toys representing animals or non-human creatures,95034130,63079075,0.6503351926803589,0,0,0
+Parts of aircraft of heading 8801 or 8802 nesi,88039090,88079090,0.8369516134262085,1,0,0
+"Parts of calendering or rolling machines for making paper pulp, paper or paperboard",84209920,84209920,0.9999997615814208,1,1,1
+Parts of dishwashing machines,84229005,84229006,0.8451775312423706,1,1,1
+Parts of electrical telegraphic terminal apparatus (including teleprinting machines),85179070,85437060,0.7172749638557434,1,0,0
+Parts of fans (including blowers) and ventilating or recycling hoods,84149010,84149010,1.0,1,1,1
+"Parts of footwear nesi; removable insoles, heel cushions, etc; gaiters, leggings, etc, and parts thereof; of textile materials",64069915,64069015,0.9329646825790404,1,1,0
+"Parts of machinery for sugar manufacture, nesi",84389010,84389010,0.93027263879776,1,1,1
+"Parts of microphones and stands thereof, loudspeakers, headphones and earphones nesi, electric amplifiers, and electric sound amplifier sets",85189030,85189081,0.9159054160118104,1,1,1
+"Parts of railway or tramway rolling stock, nesi",86079950,86079950,0.8836812376976013,1,1,1
+Parts of spherical roller bearings nesi,84829950,84829965,0.8435260057449341,1,1,1
+"Parts of television apparatus, nesi",85299035,85299093,0.9166678786277772,1,1,1
+"Parts, trimmings and accessories of umbrellas, walking-sticks, seat-sticks, whips, riding-crops and the like, nesi",66039000,66039081,0.7645083665847778,1,1,1
+Peach jam,20079935,20079935,0.9999998211860656,1,1,1
+"Pear juice, unfermented and not containing added spirit",20098020,20098920,0.7438177466392517,1,1,0
+"Pears and quinces, fresh, if entered during the period from April 1 through June 30, inclusive",8082020,8083020,0.8899891972541809,1,1,0
+"Pears and quinces, fresh, if entered during the period from July 1 through the following March 31, inclusive",8082040,8083040,0.8818220496177673,1,1,0
+"Peat (including peat litter), whether or not agglomerated",27030000,27030000,1.000000238418579,1,1,1
+Pencil sharpeners,84729040,84729040,1.0000003576278689,1,1,1
+Pentabromoethylbenzene; and tribromocumene,29036925,29039923,0.858744740486145,1,1,0
+"Percussion musical instruments, nesi, except for drums, cymbals, chimes, peals or carillons (for example, xylophones, castanets, maracas)",92060080,92060080,0.9393593072891236,1,1,1
+Personal deodorants and antiperspirants,33072000,33072000,1.000000238418579,1,1,1
+"Phenylacetic acid salts and esters, nesi",29163350,29163977,0.8851968050003052,1,1,0
+"Phosphor copper, containing more than 15 percent by weight of phosphorus",28481000,28539010,0.962348222732544,1,0,0
+Phosphorus,28047000,28047000,1.000000238418579,1,1,1
+"Photographic film nesi, in rolls, of a width not exceeding 16 mm and of a length exceeding 14 m",37029200,37029600,0.8941925764083862,1,1,0
+"Photographic flashbulbs, flashcubes and the like",90066200,90069900,0.6389763355255127,1,1,0
+"Photographic plates, film, for color photography, nesi, in the flat, sensitized, unexposed, not of paper, paperboard, textiles",37019100,37019100,0.9781595468521118,1,1,1
+"Pigments dispersed in nonaqueous media, in liquid or paste form, used in making paints; dyes & coloring matter packaged for retail sale",32129000,32129000,1.0000003576278689,1,1,1
+"Pineapples, fresh or dried, reduced in size",8043060,8043060,0.9999994039535522,1,1,1
+"Pineapples, preserved by sugar (drained, glace or crystallized)",20060040,20060040,0.9999994039535522,1,1,1
+"Pinking shears of base metal, and blades thereof, valued over $30 per dozen",82130060,82130060,0.9888375997543336,1,1,1
+"Pistachios, in shell, fresh or dried",8025020,8025100,0.9938304424285888,1,1,0
+"Plain weave fabrics of cotton, 85% or more cotton by weight, over 100 but n/o 200 g/m2, of numbers 43 to 68, of yarns of different colors",52084240,52084240,0.9987763166427612,1,1,1
+"Plain weave fabrics, less than 85% polyester staple fibers mixed mainly or solely with cotton, over 170 g/m2, dyed",55142100,55132100,0.9558000564575196,1,0,0
+"Planing machines, for metals, sintered metal carbides or cermets",84611000,84604080,0.6900538206100464,1,0,0
+"Plates, sheets and strip of copper-tin base alloys (bronze) in coils of a thickness of less than 5 mm, of a width of less than 500 mm",74093190,74093190,0.9331979155540466,1,1,1
+"Plates, sheets and strip of nickel alloys, cold formed",75062010,75062010,0.9763581156730652,1,1,1
+"Platinum, unwrought or in powder form",71101100,71101100,1.000000238418579,1,1,1
+"Plywood nesi, with face ply nesi, not surface covered or surface covered with a clear or transparent material",44129940,44125241,0.7914835214614868,1,1,0
+"Plywood of wood sheet n/o 6 mm thick each,outer ply of nonconiferous wood,face ply of Spanish Cedar or walnut,not or clear surface covered",44121215,44123930,0.9413086175918579,1,1,0
+"Plywood of wood sheets, n/o 6 mm thick each, with outer ply of nonconiferous wood, surface covered, nesi",44121250,44123950,0.955996870994568,1,1,0
+"Polyisobutylene, elastomeric, in primary forms",39022010,39022010,0.9999998211860656,1,1,1
+"Polymers of ethylene, nesi, in primary forms, elastomeric",39019010,39019010,0.9496778249740601,1,1,1
+"Polymers of styrene, nesi, in primary forms",39039050,39039050,0.9338347911834716,1,1,1
+"Pork shoulders and cuts thereof, boned and cooked and packed in airtight containers",16024220,16024220,0.9999997019767758,1,1,1
+Potassium bitartrate (Cream of tartar),29181320,29181320,1.0,1,1,1
+Potassium peroxosulfates (potassium persulfates),28334010,28334020,0.8862180709838867,1,1,1
+Potassium sulfate,31043000,31043000,0.9999998807907104,1,1,1
+"Poultry livers, frozen",2075000,2064100,0.8441568613052368,1,0,0
+"Powders of pig iron, spiegeleisen, iron or steel, nesi",72052900,72052900,0.928299844264984,1,1,1
+"Pre-recorded magnetic tapes, of a width exceeding 4 mm but not exceeding 6.5 mm, excluding video tape recordings",85242220,85232950,0.9429433941841124,1,0,0
+"Preparation with a basis of extracts, essences or concentrates of tea or mate or with a basis of tea or mate",21012040,21012020,0.8891094923019409,1,1,1
+"Preparations used for soldering or cores or coatings for welding electrodes or rods, 5% or more by weight aromatic (or mod.) substance(s)",38109010,38109010,1.0,1,1,1
+Prepared oleoresins consisting essentially of nonvolatile components of the natural raw plant,33013010,33019010,0.9546715617179872,1,1,0
+"Prepared or preserved anchovies, whole or in pieces, not minced, not in oil, in immediate containers with their contents 6.8 kg or less ea.",16041640,16041640,0.9999997615814208,1,1,1
+"Prepared or preserved fish, whole or in pieces, but not minced, nesi",16041980,16041982,0.9392085671424866,1,1,1
+"Prepared or preserved green olives in saline solution, stuffed, place packed, the first 2,700 tons per year in containers less than 1 kg",20057021,20057023,0.871428370475769,1,1,1
+"Prepared or preserved olives, nesi",20057083,20057097,0.7945958971977234,1,1,1
+"Prepared or preserved pork hams and cuts thereof, not containing cereals or vegetables, nesi",16024190,16024190,0.9662396907806396,1,1,1
+"Prepared or preserved pork, not containing cereals or vegetables, nesi",16024940,16024940,0.9472489356994628,1,1,1
+"Prepared or preserved ripe green olives in saline solution, not pitted, the first 730 tons per year in containers less than 13 kg",20057011,20057093,0.8626878261566162,1,1,1
+"Printed 3- or 4-thread twill of cotton, incl. cross twill, under 85% cotton by weight, mixed mainly with man-made fibers, n/o 200 g/m2",52105200,52105910,0.9607899188995358,1,1,0
+"Printed books, brochures, leaflets and similar printed matter in single sheets, whether or not folded",49011000,49011000,1.0000001192092896,1,1,1
+"Printed matter, nesi",49119980,49119980,0.9112122058868408,1,1,1
+"Printed plain weave cotton fabrics, under 85% cotton by weight, mixed mainly with man-made fibers, n/o 200 g/m2, of number 69 or higher",52105180,52105180,0.9932790994644164,1,1,1
+"Printed plain weave fabrics of cotton, 85% or more cotton by weight, weighing over 100g/m2 but not more than 200g/m2, of number 69 or higher",52085250,52085250,1.0000003576278689,1,1,1
+"Printed plain weave fabrics, under 85% by weight polyester staple fibers mixed mainly or solely with cotton, over 170g/m2",55144100,55144100,0.9509389400482178,1,1,1
+"Printed woven fabrics of cotton, nesi, containing 85% or more cotton by weight, weighing not more than 200 g/m2, of numbers 43 to 68",52085960,52085960,0.9535174369812012,1,1,1
+"Printed woven fabrics, under 85% by weight polyester staple fibers, nesi, mixed mainly or solely with cotton, over 170g/m2",55144300,55144300,0.8852353692054749,1,1,1
+"Processed cheeses made from sheep's milk, including mixtures of such cheeses, not grated or powdered",4063055,4063055,0.9999998211860656,1,1,1
+Projection screens,90103000,90106000,1.000000238418579,1,1,0
+"Propylene copolymers, in primary forms",39023000,39023000,1.000000238418579,1,1,1
+"Prunes, soaked in brine and dried",8132010,8132010,0.9185501337051392,1,1,1
+"Punch/notch machines (incl. presses), incl. combined punch & shearing machines, numerically controlled for working metal or metal carbides",84624100,84624200,0.7430319786071777,1,1,0
+"Quilted textile products in the piece, of one or more layers of textile materials assembled with padding, nesi, of wool or fine animal hair",58110010,58110010,0.9371267557144164,1,1,1
+"Radiators and parts thereof for central heating, not electrically heated, of cast iron",73221100,73221100,0.9692068099975586,1,1,1
+"Radio-tape player combinations not operable without external power source, for motor vehicles",85272110,85272125,0.7815208435058594,1,1,1
+"Radio-tape player combinations, nonrecording, capable of operating without an external source of power",85271111,85271311,0.8885362148284912,1,1,0
+"Radiobroadcast receiver combinations incorporating tape players, nesi",85273140,85279140,0.9502105712890624,1,1,0
+"Radiobroadcast receivers combined with sound recording or reproducing apparatus, nesi",85273160,85279160,0.9442521333694458,1,1,0
+"Radiobroadcast receivers, not combined with sound recording or reproducing apparatus but combined with a clock",85273200,85279160,0.7933393716812134,1,1,0
+"Railway or tramway tank cars and the like, not self-propelled",86061000,86061000,1.0000001192092896,1,1,1
+"Rape or colza seeds, whether or not broken",12050000,12059000,0.8947403430938721,1,1,0
+"Rapeseed oil, hydrogenated or hardened",15162010,15162010,1.000000238418579,1,1,1
+"Rare-earth metals, scandium and yttrium, whether or not intermixed or interalloyed",28053000,28053000,1.0,1,1,1
+"Raw furskins of mink, whole, with or without head, tail or paws",43011000,43011000,0.9999997019767758,1,1,1
+"Raw furskins of muskrat, whole, with or without head, tail or paws",43015000,43011000,0.9051905274391174,1,1,0
+"Raw furskins of seal, whole, with or without head, tail or paws",43017000,43011000,0.9044348001480104,1,1,0
+Raw hides and skins of equine animals fresh or preserved but not further prepared,41014000,41019070,0.89280766248703,1,1,0
+"Rectangular (including square) plates, sheets and strip of aluminum, not alloyed, of a thickness exceeding 0.2 mm, clad",76061160,76061230,0.8911072015762329,1,1,0
+"Refined lead, unwrought",78011000,78011000,0.9999998807907104,1,1,1
+"Refractory magnesite bricks, not siliceous, containing by weight, more than 50% of the elements magnesium, calcium or chromium",69021010,69021010,0.8358876705169678,1,1,1
+"Registers, account, order and receipt books, and similar articles, of paper or paperboard, nesi",48201040,48201040,0.9653453826904296,1,1,1
+"Relays for switching, protecting or making connections to or in electrical circuits, for a voltage exceeding 60 but not exceeding 1,000 V",85364900,85364900,1.0,1,1,1
+"Religious articles for personal use of a purely devotional character, of imitation jewelry material, nesi",71179030,71179030,0.7570796608924866,1,1,1
+Remelting scrap ingots of iron or steel,72045000,72045000,0.9646761417388916,1,1,1
+"Retreaded pneumatic tires of rubber, designed for certain agricultural or horticultural machinery",40121020,40121920,0.9955932497978208,1,1,0
+"Rice semi-milled or wholly milled, whether or not polished or glazed, parboiled",10063010,10063010,1.0000001192092896,1,1,1
+"Rope, chain & like articles for manufacture of imitation jewelry, in continuous lengths of base metal, n/o 33 cents per meter",71171910,71171920,0.7755424380302429,1,1,1
+Rosin,38061000,38061000,0.7255401611328125,1,1,1
+"Round wire of iron or nonalloy steel containing 0.25% or more but less than 0.6% of carbon, not plated or coated, whether or not polished",72172130,72171060,0.8643485903739929,1,1,0
+"Rubber, unvulcanized, compounded with carbon black or silica, in primary forms or in plates, sheets or strip",40051000,40051000,0.9999995827674866,1,1,1
+"Rusks, toasted bread and similar toasted products",19054000,19054000,1.0000001192092896,1,1,1
+"Sacks and bags of a kind used for the packing of goods, of textile materials, nesi",63059000,63059000,0.9488178491592408,1,1,1
+Safety pins of iron or steel,73192000,73194020,0.9305230379104614,1,1,0
+"Salicylic acid and its salts, suitable for medicinal use",29182110,29182110,1.0000001192092896,1,1,1
+"Salmon, in brine or salted but not dried or smoked",3056940,3056940,0.9999998807907104,1,1,1
+"Salts and esters of citric acid, except sodium citrate",29181550,29181550,0.9999999403953552,1,1,1
+"Sanitary napkins and tampons, diapers and diaper liners and similar sanitary articles, of paper pulp",48184020,96190011,1.0,0,0,0
+"Sanitary towels and tampons, diapers and diaper liners for babies and similar sanitary articles, of wadding of cotton",56011010,96190021,1.000000238418579,0,0,0
+Saps and extracts of pyrethrum or of the roots of plants containing rotenone,13021400,12119089,0.5380240678787231,0,0,0
+"Satin or twill weave fabrics of cotton, cont. 85% or more cotton by weight, weighing not more than 200 g/m2, of yarns of different colors",52084920,52084920,0.9825255274772644,1,1,1
+"Saturated monohydric alcohols, nesi",29051900,29051990,0.9110279083251952,1,1,1
+Seamless oil well tubing of alloy steel,73042060,73042460,0.8508622646331787,1,1,0
+Seeds of anise or badian,9091000,9096200,0.7302336692810059,1,1,0
+Seeds of chickpeas (garbanzos) of a kind used for sowing,7132010,7132010,1.000000238418579,1,1,1
+Seeds of fennel or juniper,9095000,9096200,0.7591212391853333,1,1,0
+Selenium dioxide,28112920,28112920,0.9999995827674866,1,1,1
+Self-propelled scrapers,84293000,84293000,1.000000238418579,1,1,1
+"Sewing thread of artificial filaments, whether or not put up for retail sale",54012000,54012000,1.000000238418579,1,1,1
+"Shawls, scarves, mufflers, mantillas, veils and the like, knitted or crocheted, of man-made fibers",61171020,61171020,1.0000004768371582,1,1,1
+"Shawls, scarves, mufflers, mantillas, veils and the like, not knitted or crocheted, containing 70% or more silk or silk waste",62141010,62141010,1.0,1,1,1
+"Shawls, scarves, mufflers, mantillas, veils and the like, not knitted or crocheted, of artificial fibers",62144000,62144000,0.9999997615814208,1,1,1
+"Sheep or lamb skin leather, without wool on, not including chamois, patent, patent laminated or metallized leather, retanned",41051900,41120030,0.8553236722946167,1,0,0
+"Sheet piling of iron or steel, whether or not drilled, punched or made from assembled elements",73011000,73011000,0.9890438318252563,1,1,1
+Sheets and plates of polarizing material,90012000,90012000,1.0,1,1,1
+"Signaling glassware nesi, not optically worked",70140050,70140050,0.9139680266380308,1,1,1
+Silkworm cocoons suitable for reeling,50010000,50010000,1.0000003576278689,1,1,1
+"Single cotton yarn, less than 85 percent cotton by weight, of uncombed fibers, over 43 but n/o 52 nm, not put up for retail sale",52061300,52061300,0.9999998807907104,1,1,1
+"Single cotton yarn, measuring 85% or more cotton by weight, of uncombed fibers, over 52 but n/o 80 nm, not put up for retail sale, nesi",52051420,52061400,0.9385569095611572,1,0,0
+Single loudspeakers mounted in their enclosures,85182100,85182100,1.0000007152557373,1,1,1
+"Single textured yarn of polyesters, not put up for retail sale",54023330,54023330,0.9999997615814208,1,1,1
+"Ski or snowmobile gloves, mittens and mitts, knitted or crocheted, with plastics or rubber impregnated, coated, etc.",61161010,62160008,0.9208051562309264,0,0,0
+"Ski or snowmobile gloves, mittens and mitts, not knitted or crocheted, of manmade fibers, not impregnated or coated with plastics or rubber",62160044,62160046,0.9036269187927246,1,1,1
+Skins for stuffed dolls,95029910,63079075,0.547566294670105,0,0,0
+"Slag containing by weight over 40% titanium, not to be treated for recovery of copper, lead or zinc",26209050,26209950,0.8578124642372131,1,1,0
+"Smoked Pacific, Atlantic and Danube salmon, including fillets",3054100,3054100,0.9999998211860656,1,1,1
+"Smokers' articles of glassware; glass perfume bottles fitted with ground glass stoppers, not of lead crystal",70139930,70139930,0.7625337839126587,1,1,1
+"Snow-skis, except cross-country",95061140,95061120,0.9487922787666321,1,1,1
+Snowplows and snowblowers,84302000,84302000,1.0000004768371582,1,1,1
+"Snowshoes, and parts and accessories thereof",95069950,95069950,0.993398129940033,1,1,1
+Sodium acetate,29152200,29152920,0.9999999403953552,1,1,0
+Sodium hydrogencarbonate (Sodium bicarbonate),28363000,28363000,0.9999999403953552,1,1,1
+Sodium nitrate,31025000,31025000,1.0,1,1,1
+Solubilized vat blue 5 and specified solubilized vat dyes and preparations based thereon,32041530,32041530,0.9999998807907104,1,1,1
+"Solvent dyes and preparations based thereon, nesi",32041919,32041925,0.9096498489379884,1,1,1
+"Spark-ignition reciprocating piston engines for propulsion in vehicles in heading 8701.20, 8702, 8703, 8704, cylinder capacity over 1000cc",84073420,84073448,0.9432985782623292,1,1,1
+"Spark-ignition rotary or reciprocating internal-combustion piston engines nesi, installed in agricultural/horticultural machinery/equipment",84079010,84079010,0.9383764266967772,1,1,1
+"Spark-ignition rotary or reciprocating internal-combustion piston engines, for machinery or equipment nesi",84079090,84079090,0.9580934047698976,1,1,1
+Special purpose motor vehicles: concrete mixers,87054000,84743100,0.8112609386444092,0,0,0
+"Specified acyclic polycarboxylic acids and their derivatives, described in additional U.S. note 3 to section VI",29171920,29171920,0.9999999403953552,1,1,1
+"Spools, cops, bobbins and similar supports, of plastics",39234000,39234000,1.0,1,1,1
+Spring-operated and weight-operated motors,84128010,84128010,1.0,1,1,1
+"Springs, including hair-springs, for watches",91141040,91149034,1.0,1,1,0
+"Squash, fresh or chilled",7099020,7099320,1.0,1,1,0
+Static converters,85044000,85044085,0.7404816150665283,1,1,1
+"Sterling silver tableware, nesi",71141150,71141150,0.923798680305481,1,1,1
+Storage batteries nesi,85078000,85073080,0.738836407661438,1,1,0
+"Straw or fodder balers, including pick-up balers",84334000,84334000,1.0000004768371582,1,1,1
+"Strawberries, fresh, if entered during the period from September 16 through the following June 14, inclusive",8101040,8101040,1.000000238418579,1,1,1
+Strontium carbonate,28369200,28369200,1.000000238418579,1,1,1
+Stud link chain of iron or steel,73158100,73158100,0.9438971877098083,1,1,1
+"Sugar confectionery nesi, not containing cocoa",17049060,17049052,0.8628005981445312,1,1,1
+"Sulfathiazole and sulfathiazole, sodium",29350033,29359033,1.0000003576278689,1,1,0
+"Sulfides of nonmetals, excluding carbon disulfide and sulfides of arsenic or phosphorus",28139050,28139050,1.000000238418579,1,1,1
+"Sulfur black, ""Colour Index Nos. 53185, 53190 and 53195"" and preparation based thereon",32041930,32041930,0.9684332609176636,1,1,1
+"Surface-active, washing, and cleaning preparations cont. any aromatic or modified aromatic surface-active agent, put up for retail",34029030,34029030,0.9926878213882446,1,1,1
+"Sweaters, pullovers and similar articles, knitted or crocheted, of manmade fibers, nesi",61103030,61103030,0.9644083380699158,1,1,1
+"Synthetic organic coloring matter and preparations based thereon, nesi, described in additional U.S. note 3 to section VI",32041940,32041940,0.943371057510376,1,1,1
+"T sections of iron or nonalloy steel, not further worked than hot-rolled, hot-drawn or extruded, height under 80 mm",72162200,72162200,0.94957035779953,1,1,1
+"T-shirts and similar garments, knitted or crocheted, of wool, with long sleeves",61099015,61099015,1.000000238418579,1,1,1
+Tailors' chalks,96099040,96099040,1.0000001192092896,1,1,1
+"Tapestry and upholstery fabrics of carded wool or fine animal hair, mixed mainly or solely with man-made staple fibers exceeding 300 g/m2",51113005,51113005,0.9799535274505616,1,1,1
+"Taps, cocks, valves & similar appliances for pipes, boiler shells, tanks, vats or the like, hand operated, of iron or steel, nesi",84818030,84818030,0.9864861965179444,1,1,1
+Tents of cotton,63062100,63062911,0.9999999403953552,1,1,0
+"Textile fabrics of man-made fibers, impregnated, coated, covered or laminated with plastics, nesi, over 70% weight rubber or plastics",59039020,59039020,0.9858945608139038,1,1,1
+"Textile fabrics spec in note 9 to section XI, of manmade fibers, impregnated, coated, covered or laminated with polyvinyl chloride, nesi",59031018,59031018,0.9725853204727172,1,1,1
+Thermocopying apparatus,90093000,84433950,1.0000003576278689,0,0,0
+Thin sheets (voiles) of nonwoven glass fibers,70193200,70191400,0.6518779993057251,1,1,0
+"Ties bow ties and cravats, not knitted or crocheted, of silk or silk waste",62151000,62151000,0.9679162502288818,1,1,1
+"Ties bow ties and cravats, not knitted or crocheted, of textile materials nesi",62159000,62159000,0.94523286819458,1,1,1
+Time locks valued over $10 each,91069040,91069040,1.000000238418579,1,1,1
+"Tobacco stems, cut, ground or pulverized",24013060,24013003,0.8134973049163818,1,1,1
+"Tobacco, partly or wholly stemmed (stripped), threshed or similarly processed, from cigar leaf",24012060,24012060,0.9999998807907104,1,1,1
+Toboggans; bobsleds and luges of a kind used in international competition,95069940,95069940,0.9999998807907104,1,1,1
+Toilet paper,48181000,48181000,0.9999998211860656,1,1,1
+Tomato ketchup,21032020,21032020,1.0000001192092896,1,1,1
+"Tomatoes, uncooked or cooked by steaming or boiling in water, frozen, if entered July 15 through August 31, inclusive, in any year",7108045,7108045,1.0,1,1,1
+"Toughened (tempered) safety glass, not of size or shape suitable for incorporation in vehicles, aircraft, spacecraft or vessels",70071900,70071900,1.000000238418579,1,1,1
+Towers and lattice masts of iron or steel,73082000,73082000,0.9638077616691588,1,1,1
+"Track suits, knitted or crocheted, of artificial fibers",61121910,61121910,1.0000004768371582,1,1,1
+"Transfers (decalcomanias), vitrifiable",49081000,49081000,1.000000238418579,1,1,1
+"Trunks, suitcases, occupational luggage & like containers, w outer surface of veg. fibers, excl. cotton, not of pile or tufted construction",42021260,42021260,0.914371132850647,1,1,1
+Tube or pipe fittings of copper alloys,74122000,74122000,0.9652909636497498,1,1,1
+"Tubes and pipes not used in drilling for oil or gas, of alloy steel, nesi, external diameter exceeds 406.4 mm",73059050,73042360,0.6844939589500427,1,0,0
+"Tubes and pipes not used in drilling for oil or gas, of iron or nonalloy steel, nesi, external diameter exceeds 406.4 mm",73059010,73071990,0.6866383552551271,1,0,0
+Tubes and pipes of nickel alloys,75071200,75071200,0.9675628542900084,1,1,1
+"Tubes, pipes and hollow profiles, seamless, of alloy steel, nesi, having a wall thickness of less than 4 mm",73049070,73066170,0.8329744338989258,1,0,0
+"Tubes, pipes and hoses of vulcanized rubber, not hard rubber, not reinforced, without fittings",40091000,40091100,0.9786372780799866,1,1,0
+"Tunas and skipjack, not in airtight containers, not in bulk or in immediate containers weighing with contents over 6.8 kg each",16041450,16041450,0.9999997615814208,1,1,1
+"Twine (except binder or baler twine), cordage, rope and cables, of polyethylene or polypropylene, not braided or plaited, nesi",56074925,56074925,0.9861687421798706,1,1,1
+"Ultraviolet or infrared ray apparatus used in medical, surgical, dental or veterinary sciences, and parts and accessories thereof",90182000,90182000,1.0000001192092896,1,1,1
+"Uncoated kraft paper and paperboard, nesi, in rolls or sheets, weighing more than 150 but less than 225 g/m2, nesi",48044900,48044900,0.9610762000083924,1,1,1
+"Uncoated multi-ply paper and paperboard, each layer bleached, in rolls or sheets",48052100,48055000,0.7737282514572144,1,1,0
+Uncoated sulfite wrapping paper in rolls or sheets,48053000,48053000,0.9999999403953552,1,1,1
+"Uncoated wrapping paper, weighing 150 g/m2 or less, in rolls or sheets, nesi",48056040,48045900,0.8851923942565918,1,0,0
+"Uncoated, bleached kraft paper & paperboard, over 225 g/m2, over 95% content of wood fibers obtained by chemical process, rolls or sheets",48045200,48045200,1.000000238418579,1,1,1
+"Uncoated, unbleached kraft condenser paper, in rolls or sheets, weighing less than 15 g/m 2 or more than 30 g/m 2 to 150 g/m 2",48043120,48043120,1.0000001192092896,1,1,1
+"Units, nesi, suitable for physical incorporation into automatic data processing machines or units thereof",84719960,84718040,0.8778810501098633,1,1,0
+Unrooted cuttings and slips of live plants,6021000,6021000,1.000000238418579,1,1,1
+"Unsaturated acyclic hydrocarbons, nesi, derived in whole or in part from petroleum, shale oil or natural gas",29012910,29012910,0.9303845167160034,1,1,1
+Unsubstituted polyphenol drugs,29072930,29071980,0.6274981498718262,1,1,0
+"Unwrought aluminum alloys of uniform cross section throughout its length, least cross-sectional dimension is not over 9.5 mm, in coils",76012030,76012030,0.8542236089706421,1,1,1
+Unwrought hafnium; hafnium powders,81129120,81123100,0.9446141719818116,1,1,0
+Unwrought zinc alloys,79012000,79012000,0.9525706171989441,1,1,1
+"Upper & sole equine and bovine (ex. buffalo & pretanned bovine) leather, w/o hair, pretanned, tanned or retanned, not further processed",41042950,41079960,0.8727121353149414,1,0,0
+"Used or new rags, scrap and worn out articles of twine, cordage, rope or cables, of textile materials nesi, not sorted",63109020,63109020,0.9814928770065308,1,1,1
+"Used or new rags, scrap and worn out articles of twine, cordage, rope or cables, of wool or fine animal hair, sorted",63101010,63101010,0.9999998807907104,1,1,1
+Vanilla beans,9050000,9052000,0.7467811703681946,1,1,0
+"Vat dyes (including those usable as pigments) and preparations based thereon, nesi",32041550,32041580,0.9321666955947876,1,1,1
+"Vegetable textile fibers nesi, processed but not spun; tow, noils and waste of these fibers (including yarn waste and garnetted stock)",53059900,55052000,0.7761123776435852,0,0,0
+"Wall hangings, not knitted or crocheted, of wool or fine animal hair, certified hand-loomed and folklore products",63049910,63049910,0.9842150211334229,1,1,1
+"Wallpaper and similar wallcoverings of paper, covered on the face side with plaiting material",48143000,48142000,0.8733738660812378,1,1,0
+"Warp knit fabrics nesi (including those made on galloon knitting machines), of wool or fine animal hair",60024100,60059010,0.87132328748703,1,0,0
+Waste and scrap of magnesium,81042000,81042000,0.933470606803894,1,1,1
+Waste and scrap of stainless steel,72042100,72042100,0.9692489504814148,1,1,1
+Waste and scrap of tinned iron or steel,72043000,72043000,0.9456469416618348,1,1,1
+"Waste of coarse animal hair, including yarn waste but excluding garnetted stock",51033000,51033000,1.000000238418579,1,1,1
+Watch cases of base metal not gold- or silver-plated,91112040,91112040,1.0000003576278689,1,1,1
+"Watch cases, not of precious metal, of metal clad with precious metal or of base metal",91118000,91118000,1.0000001192092896,1,1,1
+"Watch movements, complete and assembled, nesi, measuring not over 15.2 mm, 8-17 jewels, valued not over $15 each",91089130,91089080,0.9566637277603148,1,1,0
+"Watch movements, complete and assembled, nesi, measuring over 33.8 mm, 8-17 jewels, valued not over $15 each",91089940,91089085,0.9656251668930054,1,1,0
+"Waterbed mattresses and liners and parts of the foregoing, of plastics",39269077,39269077,1.0,1,1,1
+"Waterproof footwear covering the ankle but not the knee, nesi, with outer soles and uppers of rubber or plastics",64019290,64019990,0.908737063407898,1,1,0
+"Waterproof protective footwear not covering the ankle, for use with closures, with outer soles and uppers of rubber or plastics",64019960,64019990,0.8719056844711304,1,1,1
+Watertube boilers with a steam production exceeding 45 tons per hour,84021100,84021100,1.000000238418579,1,1,1
+"Window or wall type air conditioning machines, self-contained",84151000,84151030,1.000000238418579,1,1,1
+"Wire of aluminum alloys, of which the maximum cross-sectional dimension does not exceed 7 mm",76052900,76052100,0.9269885420799256,1,1,0
+"Wire of copper-nickel base alloys (brass) or copper-nickel-zinc base alloys (cupro nickel), not coated or plated with metal",74082250,74082250,0.945260524749756,1,1,1
+"Wire of refined copper, with a maximum cross-sectional dimension over 9.5 mm",74081130,74081130,0.9705731868743896,1,1,1
+"Women's or girls' anoraks, windbreakers & like articles, not knitted or crocheted, of man-made fibers, cont. 15% or more by wt of down, etc",62029310,62024055,0.9359616041183472,1,1,0
+"Women's or girls' anoraks, windbreakers and similar articles nesi, not knitted or crocheted, of wool or fine animal hair",62029120,62022040,0.9220151305198668,1,1,0
+"Women's or girls' anoraks, windbreakers and similar articles, not knitted or crocheted, of cotton, nesi, water resistant",62029215,62023070,0.9587470293045044,1,1,0
+"Women's or girls' bathrobes, dressing gowns and similar articles, not knitted or crocheted, of cotton",62089110,62089110,1.0000003576278689,1,1,1
+"Women's or girls' bib and brace overalls, not knitted or crocheted, of artificial fibers",62046910,61046910,0.9841771125793456,0,0,0
+"Women's or girls' blouses and shirts, knitted or crocheted, of manmade fibers, containing 23 percent or more of wool or fine animal hair",61062010,61062010,1.0000003576278689,1,1,1
+"Women's or girls' blouses and shirts, not knitted or crocheted, of cotton, containing 36 percent or more of flax fibers, nesi",62063020,62063020,0.9755550026893616,1,1,1
+"Women's or girls' blouses and shirts, not knitted or crocheted, of manmade fibers, certified hand-loomed and folklore products",62064010,62064010,0.9999997615814208,1,1,1
+"Women's or girls' blouses and shirts, not knitted or crocheted, of wool or fine animal hair, nesi",62062030,62062030,0.9851852655410768,1,1,1
+"Women's or girls' dresses, knitted or crocheted, of synthetic fibers, containing 23 percent or more of wool or fine animal hair",61044310,61044310,1.0000004768371582,1,1,1
+"Women's or girls' dresses, knitted or crocheted, of wool or fine animal hair",61044100,61044100,0.9999998807907104,1,1,1
+"Women's or girls' ensembles, knitted or crocheted, of wool or fine animal hair",61042100,61042905,1.0000001192092896,1,1,0
+"Women's or girls' negligees, bathrobes, dressing gowns and similar articles, knitted or crocheted, of man-made fibers",61089200,61089200,0.9999998807907104,1,1,1
+"Women's or girls' nightdresses and pajamas, not knitted or crocheted, of man-made fibers",62082200,62082200,1.0,1,1,1
+"Women's or girls' overcoats, carcoats, capes, windbreakers and similar articles, knitted or crocheted, of manmade fibers, nesi",61023020,61023020,0.9825809597969056,1,1,1
+"Women's or girls' skirts & divided skirts, nt knit or crocheted, of synthetic fibers, cont. 36% or more of wool or fine animal hair, nesi",62045320,62045320,0.9746206998825072,1,1,1
+"Women's or girls' skirts and divided skirts, knitted or crocheted, of textile materials nesi",61045920,62045940,0.9406488537788392,0,0,0
+"Women's or girls' skirts and divided skirts, not knitted or crocheted, of cotton, certified hand-loomed and folklore products",62045210,62045210,0.9999999403953552,1,1,1
+"Women's or girls' skirts and divided skirts, not knitted or crocheted, of wool or fine animal hair",62045100,62045100,0.9999995231628418,1,1,1
+"Women's or girls' slips and petticoats, knitted or crocheted, of man-made fibers",61081100,61081100,1.0000004768371582,1,1,1
+"Women's or girls' slips and petticoats, not knitted or crocheted, of textile materials nesi",62081940,62081920,0.8617382049560547,1,1,1
+"Women's or girls' suit-type jackets & blazers, not knitted or crocheted, of artificial fibers, cont. 36% or more of wool or fine animal hair",62043920,62043920,0.9999998807907104,1,1,1
+"Women's or girls' suit-type jackets and blazers, knitted or crocheted, of synthetic fibers, nesi",61043320,61043320,0.978676736354828,1,1,1
+"Women's or girls' suits, knitted or crocheted, of wool or fine animal hair",61041100,61041950,0.9999996423721312,1,1,0
+"Women's or girls' swimwear, not knitted or crocheted, of man-made fibers",62111210,62111210,1.000000238418579,1,1,1
+"Women's or girls' trousers and breeches nesi, not knit or crocheted, imported as parts of ski-suits, not cont. 15% or more of down, etc",62112060,62046280,0.8446285128593445,1,0,0
+"Women's or girls' trousers, bib and brace overalls, breeches and shorts, not knitted or crocheted, of textile materials nesi",62046990,62046980,0.8720436096191406,1,1,1
+"Women's or girls' trousers, breeches and shorts, knitted or crocheted, of cotton",61046220,61046220,1.0,1,1,1
+"Women's or girls' trousers, breeches and shorts, not knitted or crocheted, of cotton, nesi, certified hand-loomed and folklore products",62046230,62046270,0.9881433248519896,1,1,1
+"Wood charcoal (including shell or nut charcoal), whether or not agglomerated",44020000,44022000,0.9583906531333924,1,1,0
+"Wooden broom and mop handles, 1.9 cm or more in diameter and 97 cm or more in length",44170020,44170020,1.0,1,1,1
+Wooden parquet panels,44183000,44209080,0.6310679912567139,1,0,0
+"Wool, degreased, further processed, not shorn, not carded or combed",51012960,51012915,0.9033796191215516,1,1,1
+"Wool, excl. unimproved, finer than 40s, but not 44s, greasy, not shorn, not carded or combed, not for special uses",51011940,51011940,0.9999996423721312,1,1,1
+"Woven cotton fabric, 85% or more cotton by weight, plain weave, not over 100 g/m2, unbleached, of number 42 or lower",52081120,52081120,0.9906516075134276,1,1,1
+"Woven cotton fabric, 85% or more cotton by weight, plain weave, not over 100 g/m2, unbleached, of number 69 or over, for typewriter ribbon",52081160,52081160,0.9857033491134644,1,1,1
+"Woven cotton fabric, 85% or more cotton by weight, plain weave, not over 100 g/m2, unbleached, of number 69 or over, nesi",52081180,52081180,0.975638508796692,1,1,1
+"Woven fabrics of artificial filament yarn, mixed mainly or solely with wool or fine animal hair, printed, nesi",54083410,54083410,0.9387041330337524,1,1,1
+"Woven fabrics of artificial filament yarn, of yarns of different colors, 30 percent or more of silk or silk waste, valued over $33/kg",54083330,54083230,0.9160056114196776,1,1,0
+"Woven fabrics of artificial staple fibers, less than 85% by weight of such fibers, mixed mainly or solely with cotton, dyed",55164200,55164200,1.000000238418579,1,1,1
+"Woven fabrics of artificial staple fibers, less than 85% of such fibers, containing 36% or more of wool or fine animal hair, dyed",55163205,55163205,0.9931567907333374,1,1,1
+"Woven fabrics of artificial staple fibers, under 85% of such fibers, mixed mainly or solely with wool or fine animal hair, printed, nesi",55163410,55163410,0.9853492975234984,1,1,1
+"Woven fabrics of artificial staple fibers, under 85% of such fibers, mixed mainly w wool or fine animal hair, unbleached or bleached, nesi",55163110,55163110,0.9788908362388612,1,1,1
+"Woven fabrics of artificial staple fibers,under 85% such fibers,containing 36% or more of wool or fine animal hair,of different colored yarn",55163305,55163305,0.9967178702354432,1,1,1
+"Woven fabrics of carded wool or fine animal hair, mixed mainly or solely with man-made filaments, nesi",51112060,51112090,0.9735094904899596,1,1,1
+"Woven fabrics of combed wool or fine animal hair, nesi",51129060,51129090,0.9642866253852844,1,1,1
+"Woven fabrics of flax, containing less than 85 percent by weight of flax, unbleached or bleached, nesi",53092140,53092140,0.9815773963928224,1,1,1
+"Woven fabrics of polyester staple fibers, mixed mainly or solely with wool or fine animal hair, nesi",55151310,55151310,0.9791370034217834,1,1,1
+"Woven fabrics of synthetic filament yarn nesi, containing 36 percent or more by weight of wool or fine animal hair, dyed",54079205,54079205,0.9568071365356444,1,1,1
+"Woven fabrics, cont. 85% or more syn. filaments by weight, thread count 69-142/cm in warp and 31-71/cm in filling, of colored yarn",54077310,54077310,0.9884296655654908,1,1,1
+"Woven fabrics, containing 85 percent or more by weight of textured polyester filaments, printed",54075400,54075400,1.0,1,1,1
+"Woven fabrics, containing 85% or more by weight of synthetic fibers, nesi, unbleached or bleached",55129100,55129100,0.9663066864013672,1,1,1
+Woven or knitted fabric of asbestos,68124000,68129920,0.7089290618896484,1,1,0
+"Wrist watches nesi, automatic winding, 2-17 jewels, watch band not of textile material or base metal",91022150,91022150,0.9828076362609864,1,1,1
+"Wrist watches nesi, not battery powered, not auto winding,8-17 jewels, movement over $15 each, watch band not of textiles or base metal",91022950,91022945,0.9287675619125366,1,1,1
+Wrought articles of titanium,81089030,81089060,0.7586565613746643,1,1,1
+"Yarn containing 85% or more by weight of artificial staple fibers, singles, not put up for retail sale",55101100,55101100,0.9464268684387208,1,1,1
+"Yarn containing 85% or more by weight of synthetic staple fibers nesi, singles, not put up for retail sale",55094100,55094100,0.9002512693405151,1,1,1
+"Yarn of Angora rabbit hair, combed, not put up for retail sale",51082030,51082030,1.0000001192092896,1,1,1
+"Yarn of Angora rabbit hair, containing 85 percent or more by weight of the Angora hair, put up for retail sale",51091040,51091040,0.9999998807907104,1,1,1
+"Yarn of artificial staple fibers mixed mainly with synthetic staple fibers, singles, not put up for retail sale",55109020,55109020,0.9465025663375854,1,1,1
+"Yarn of combed wool, containing 85 percent or more by weight of wool, not put up for retail sale",51071000,51071060,0.9370495080947876,1,1,1
+"Yarn of wool, colored, and cut into uniform lengths of not over 8 cm, containing less than 85% by weight of wool, put up for retail sale",51099020,51099020,0.9999998211860656,1,1,1
+"Yarn spun from silk waste, not put up for retail sale",50050000,50050000,1.0,1,1,1
+"Zinc articles of a type used for household, table or kitchen use; zinc toilet and sanitary wares; parts of all the foregoing",79079030,79070010,0.9068710207939148,1,1,0
+Zinc waste and scrap,79020000,79020000,0.9672615528106692,1,1,1
+"o-, m-, p-Phenylenediamine, and diaminotolunes, and their derivatives, and salts thereof, nesi",29215150,29215150,0.9283834099769592,1,1,1
+"o-, m-, p-Phenylenediamine, diaminotoluenes, and their derivatives, and salts thereof, described in additional U.S. note 3 to section VI",29215130,29215130,1.0,1,1,1
+p-Nitrotoluene,29042010,29042010,1.000000238418579,1,1,1
