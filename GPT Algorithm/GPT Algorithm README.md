@@ -8,14 +8,14 @@ This directory contains files related to the GPT algorithm used in the NLP-Tarif
 
 - **Description**: This Python script contains the core GPT algorithm implementation. The code initializes the GPT model, configures its parameters, and sets up data pipelines for processing.
 - **Technical Details**:
-  - **Parallel Processing**: The script utilizes multi-threading and parallel processing techniques to enhance performance. It employs Python's `concurrent.futures` module to manage a pool of threads, allowing simultaneous processing of multiple data batches.
-  - **Data Handling**: Utilizes efficient data handling mechanisms to manage memory usage when loading large datasets, possibly leveraging generators or async I/O operations.
-  - **Usage**: Essential for developers and researchers who need to modify the AI model or understand its detailed workings.
+  - **SentenceTransformer and FuzzyWuzzy**: Utilizes SentenceTransformer for semantic text embeddings and FuzzyWuzzy for calculating textual similarities, enabling effective matching of HS codes.
+  - **Parallel Processing**: Employs `ThreadPoolExecutor` from `concurrent.futures` to enhance computational efficiency by processing multiple data entries concurrently.
+  - **Error Handling and Retries**: Implements robust error handling with `tenacity` for automatic retrying of API requests, using an exponential back-off strategy.
+  - **NLP and API Integration**: Enhances descriptions and performs complex queries using OpenAI's GPT, directly interfacing through the OpenAI Python client to fetch and calculate the most accurate HS     codes.
 
 ### GPT Example - 1990.py
 
 - **Description**: This Python script demonstrates the application of the GPT algorithm to tariff data from the year 1990. It includes data loading, model execution, and output handling.
-- **Usage**: Run this script to see how the GPT model processes specific historical data and generates outputs based on the model predictions.
 
 ### GPT4_1990_F1Scores.csv
 
@@ -27,6 +27,4 @@ This directory contains files related to the GPT algorithm used in the NLP-Tarif
 - **Description**: This CSV file lists the output results of the GPT model for the year 1990, detailing predictions, confidence scores, and other metrics that help in evaluating the accuracy and reliability of the model.
 - **Usage**: Can be directly used for detailed analysis or integrated with other datasets for comprehensive data analysis projects.
 
-## Additional Information
 
-For detailed instructions on setting up the environment to run these scripts, please refer to the `requirements.txt` or `environment.yml` files in the main directory. Any issues or suggestions can be addressed by opening an issue in this repository or contacting the project maintainers directly.
