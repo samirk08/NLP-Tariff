@@ -1,0 +1,4 @@
+- `embeddings.ipynb`: Jupyter notebook that demonstrates how to generate and use embeddings for HS code prediction.
+- `embeddings.pt`: Serialized file containing precomputed embeddings for quick loading and usage in predictions.
+- `Image to Tariff.ipynb`: Notebook that shows how to convert images of products into tariff codes by extracting descriptions and then predicting HS codes.
+- `Image to Tariff.py`: Python script version of the above notebook, suitable for direct execution in environments where Jupyter is not available.
