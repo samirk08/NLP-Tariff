@@ -1,0 +1,71 @@
+/* static/styles.css */
+
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f6f9;
+    margin: 0;
+    padding: 0;
+}
+
+/* Hero Section */
+.hero-section {
+    background: linear-gradient(135deg, #4f93ff, #1e3c72);
+    color: white;
+    text-align: center;
+    padding: 4rem 1rem;
+}
+
+.hero-section h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.hero-section p {
+    font-size: 1.25rem;
+    margin-bottom: 0;
+}
+
+/* Main Content */
+.main-content {
+    margin-top: 2rem;
+}
+
+/* Card Styling */
+.card {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.card-header {
+    background: #007bff;
+    color: white;
+    font-size: 1.5rem; /* Larger Text */
+    font-weight: bold;
+    text-align: center; /* Center Text */
+    padding: 1rem; /* Increased padding */
+}
+
+.card-body {
+    padding: 2rem; /* More spacious card body */
+}
+
+/* Form Labels */
+.form-label {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+/* Buttons */
+.btn {
+    margin-top: 1rem;
+    border-radius: 5px;
+}
+
+/* Result Alert */
+.result-alert {
+    margin-top: 2rem;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
