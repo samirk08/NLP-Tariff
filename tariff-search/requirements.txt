@@ -1,0 +1,7 @@
+numpy>=1.19.0
+pandas>=1.1.0
+torch>=1.7.0
+transformers>=4.0.0
+rapidfuzz>=2.0.0
+tqdm>=4.50.0
+faiss-cpu>=1.7.0  # Optional, for fast similarity search
