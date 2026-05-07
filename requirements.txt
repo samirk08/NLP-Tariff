@@ -11,22 +11,14 @@ sentence-transformers>=2.2.0
 # Similarity / fuzzy matching
 rapidfuzz>=2.0.0
 
-# Vector search (optional, for tariff-search package)
+# Vector search (optional, used by tariff-search/)
 faiss-cpu>=1.7.0
 
-# Notebook + viz
+# Notebook + visualization
 jupyter>=1.0.0
 matplotlib>=3.3.0
 seaborn>=0.11.0
 plotly>=5.0.0
-
-# Census-tool automation pipeline (Fall 2024)
-selenium>=4.0.0
-openai>=1.0.0
-
-# Flask demo app (Fall 2024)
-flask>=2.0.0
-requests>=2.25.0
 
 # Excel I/O
 openpyxl>=3.0.0

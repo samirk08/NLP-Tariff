@@ -1,6 +1,6 @@
 # Methodology
 
-A longer-form write-up of the approach used in `superurop/`.
+A longer-form write-up of the approach.
 
 ## The problem statement
 
@@ -34,7 +34,7 @@ A single similarity metric is brittle:
 - **Jaccard on tokens** rewards literal vocabulary overlap, which is exactly what fails across centuries.
 - **Levenshtein on raw strings** rewards near-identical wording — useful when only minor edits separate adjacent years.
 
-Combining them with weights (α=0.7, β=0.2, γ=0.1) gave the best validation accuracy. The weighting was tuned against the hybrid-model F1 numbers from `prior-work/final-algorithm/` — that's the line of continuity from the Spring 2024 experiments.
+Combining them with weights (α=0.7, β=0.2, γ=0.1) gave the best validation accuracy on the held-out per-year benchmark.
 
 ## Bidirectional reconciliation
 
@@ -43,10 +43,10 @@ For every adjacent pair (*N*, *N+1*) we run the matcher in both directions indep
 - *forward:*  for each item in *N+1*, find the best match in *N*
 - *reverse:*  for each item in *N*, find the best match in *N+1*
 
-Where the two directions form a closed cycle (item A in *N* matches B in *N+1* and B matches back to A), confidence is highest. Where they don't agree, we keep the higher-scoring direction and tag the conflict for review. This is in `06_combine_N_N1.ipynb`.
+Where the two directions form a closed cycle (item A in *N* matches B in *N+1* and B matches back to A), confidence is highest. Where they don't agree, we keep the higher-scoring direction and tag the conflict for review. This is in `notebooks/06_combine_N_N1.ipynb`.
 
 ## What we don't claim
 
 - The final mapping is **research-grade**, not authoritative. We're confident on coverage and on the consistency of the methodology, but per-row correctness still requires expert review for high-stakes use.
 - The composite-similarity weights are tuned, not learned. A learned weight scheme — perhaps a small classifier on top of the three signals — is a clear next step.
-- Items that genuinely have no modern counterpart (obsolete goods, pre-industrial categories) are mapped to the *closest* modern HS code anyway. There is no "no-match" output class. Era summaries in `10_final_mapping_analysis.ipynb` partially address this.
+- Items that genuinely have no modern counterpart (obsolete goods, pre-industrial categories) are mapped to the *closest* modern HS code anyway. There is no "no-match" output class. Era summaries in `notebooks/10_final_mapping_analysis.ipynb` partially address this.

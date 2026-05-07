@@ -59,14 +59,13 @@ data/processed/
 *.xlsx.bak
 
 # Flask app uploads
-fall2024/my_app/uploads/
 uploads/
 
 # Year-pair mapping CSVs (200+ MB total — see superurop/outputs/README.md)
-superurop/outputs/N_N1_mappings/
-superurop/outputs/N1_N_mappings/
-superurop/outputs/new_N_N1_mappings/
-superurop/outputs/new_N1_N_mappings/
+outputs/N_N1_mappings/
+outputs/N1_N_mappings/
+outputs/new_N_N1_mappings/
+outputs/new_N1_N_mappings/
 
 # Notebook execution metadata that bloats diffs (kept for now; uncomment to strip)
 # *.ipynb_metadata
