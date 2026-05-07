@@ -1,0 +1,72 @@
+# --- Secrets / env ---
+.env
+.env.*
+*.key
+secrets.json
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+.ruff_cache/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+.jupyter/
+
+# --- Virtual environments ---
+venv/
+env/
+.venv/
+
+# --- macOS / editors ---
+.DS_Store
+.idea/
+.vscode/
+*.swp
+.claude/
+
+# --- Large research artifacts (regenerable from code + raw data) ---
+# Year-by-year embeddings (~100 MB)
+embeddings/
+*.embedding.pkl
+embeddings_*.pkl
+
+# Cached intermediate mappings (~10–400 MB each)
+pickle_files/
+df_with_embeddings.pkl
+FINAL_MAPPING_1789_2023.pkl
+1789_2023_MAPPINGS_*.pkl
+filtered_*.pkl
+mapping_*.pkl
+results_*.pkl
+
+# Raw / large source data (not redistributable here)
+data/all_tariffs.csv
+data/raw/
+data/processed/
+*.xlsx.bak
+
+# Flask app uploads
+fall2024/my_app/uploads/
+uploads/
+
+# Year-pair mapping CSVs (200+ MB total — see superurop/outputs/README.md)
+superurop/outputs/N_N1_mappings/
+superurop/outputs/N1_N_mappings/
+superurop/outputs/new_N_N1_mappings/
+superurop/outputs/new_N1_N_mappings/
+
+# Notebook execution metadata that bloats diffs (kept for now; uncomment to strip)
+# *.ipynb_metadata
